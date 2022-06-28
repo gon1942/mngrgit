@@ -267,3 +267,1769 @@
 [2022-06-22 10:31:03.787] [info]  ----------> hamonize-noti-App
 [2022-06-22 10:31:03.788] [info]  ----------> hamonize-vpn
 [2022-06-22 10:31:03.788] [info]  ----------> img
+[2022-06-27 13:10:06.996] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 13:10:07.261] [info]  License Check Step 1-2 ] - License Check Result is :: [{"name":".all-contributorsrc","path":".all-contributorsrc","sha":"352229979c5a12bda82047064f1c917e6fc4ba0b","size":2153,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/.all-contributorsrc?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/.all-contributorsrc","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/352229979c5a12bda82047064f1c917e6fc4ba0b","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/.all-contributorsrc","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/.all-contributorsrc?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/352229979c5a12bda82047064f1c917e6fc4ba0b","html":"https://github.com/hamonikr/hamonize/blob/master/.all-contributorsrc"}},{"name":".github","path":".github","sha":"83c050b6000003e8f861a063b0fde1c95a1468ef","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/.github?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/.github","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/83c050b6000003e8f861a063b0fde1c95a1468ef","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/.github?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/83c050b6000003e8f861a063b0fde1c95a1468ef","html":"https://github.com/hamonikr/hamonize/tree/master/.github"}},{"name":".gitignore","path":".gitignore","sha":"3d203fcddc9a3502b2b418a02b0ae83e389374b1","size":405,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/.gitignore?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/.gitignore","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/3d203fcddc9a3502b2b418a02b0ae83e389374b1","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/.gitignore","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/.gitignore?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/3d203fcddc9a3502b2b418a02b0ae83e389374b1","html":"https://github.com/hamonikr/hamonize/blob/master/.gitignore"}},{"name":".gitmessage.txt","path":".gitmessage.txt","sha":"2c8d88ce1c68495e2de55c248256edb5cc64a173","size":1298,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/.gitmessage.txt?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/.gitmessage.txt","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/2c8d88ce1c68495e2de55c248256edb5cc64a173","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/.gitmessage.txt","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/.gitmessage.txt?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/2c8d88ce1c68495e2de55c248256edb5cc64a173","html":"https://github.com/hamonikr/hamonize/blob/master/.gitmessage.txt"}},{"name":".gitmodules","path":".gitmodules","sha":"7479f740dfe1a5dec746f319a72da1e60f8b7356","size":1005,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/.gitmodules?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/.gitmodules","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/7479f740dfe1a5dec746f319a72da1e60f8b7356","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/.gitmodules","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/.gitmodules?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/7479f740dfe1a5dec746f319a72da1e60f8b7356","html":"https://github.com/hamonikr/hamonize/blob/master/.gitmodules"}},{"name":".travis.yml","path":".travis.yml","sha":"137b2c199c285491bc926db37506389deb4fce68","size":1442,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/.travis.yml?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/.travis.yml","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/137b2c199c285491bc926db37506389deb4fce68","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/.travis.yml","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/.travis.yml?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/137b2c199c285491bc926db37506389deb4fce68","html":"https://github.com/hamonikr/hamonize/blob/master/.travis.yml"}},{"name":"CODE_OF_CONDUCT.md","path":"CODE_OF_CONDUCT.md","sha":"97ef922c4fd4787d984e173067ee12c2066db538","size":6358,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/CODE_OF_CONDUCT.md?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/CODE_OF_CONDUCT.md","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/97ef922c4fd4787d984e173067ee12c2066db538","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/CODE_OF_CONDUCT.md","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/CODE_OF_CONDUCT.md?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/97ef922c4fd4787d984e173067ee12c2066db538","html":"https://github.com/hamonikr/hamonize/blob/master/CODE_OF_CONDUCT.md"}},{"name":"CONTRIBUTING.md","path":"CONTRIBUTING.md","sha":"e242162c1dcc6fc90261de0620ba32664aa0400c","size":4086,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/CONTRIBUTING.md?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/CONTRIBUTING.md","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/e242162c1dcc6fc90261de0620ba32664aa0400c","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/CONTRIBUTING.md","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/CONTRIBUTING.md?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/e242162c1dcc6fc90261de0620ba32664aa0400c","html":"https://github.com/hamonikr/hamonize/blob/master/CONTRIBUTING.md"}},{"name":"LICENSE.md","path":"LICENSE.md","sha":"afb0b6f9d756c59ed9e514229673502c55248b4f","size":1549,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/LICENSE.md?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/LICENSE.md","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/afb0b6f9d756c59ed9e514229673502c55248b4f","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/LICENSE.md","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/LICENSE.md?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/afb0b6f9d756c59ed9e514229673502c55248b4f","html":"https://github.com/hamonikr/hamonize/blob/master/LICENSE.md"}},{"name":"README.md","path":"README.md","sha":"0b7522d197ce147adefc33505674528d9580ed4a","size":20892,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/README.md?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/README.md","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/0b7522d197ce147adefc33505674528d9580ed4a","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/README.md","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/README.md?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/0b7522d197ce147adefc33505674528d9580ed4a","html":"https://github.com/hamonikr/hamonize/blob/master/README.md"}},{"name":"SECURITY.md","path":"SECURITY.md","sha":"83c9372ba423627cd470a4fa157a6ab562a90007","size":483,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/SECURITY.md?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/SECURITY.md","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/83c9372ba423627cd470a4fa157a6ab562a90007","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/SECURITY.md","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/SECURITY.md?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/83c9372ba423627cd470a4fa157a6ab562a90007","html":"https://github.com/hamonikr/hamonize/blob/master/SECURITY.md"}},{"name":"adminkey","path":"adminkey","sha":"b978346d2f7cb7f5c29602e4f72b2660f4da8461","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/adminkey?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/adminkey","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/b978346d2f7cb7f5c29602e4f72b2660f4da8461","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/adminkey?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/b978346d2f7cb7f5c29602e4f72b2660f4da8461","html":"https://github.com/hamonikr/hamonize/tree/master/adminkey"}},{"name":"cla","path":"cla","sha":"5e65c80bc41b3aaffd2d995f720bf10e4fdeacd3","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/cla?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/cla","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/5e65c80bc41b3aaffd2d995f720bf10e4fdeacd3","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/cla?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/5e65c80bc41b3aaffd2d995f720bf10e4fdeacd3","html":"https://github.com/hamonikr/hamonize/tree/master/cla"}},{"name":"hamonize-admin","path":"hamonize-admin","sha":"d0cab1a44d1f513b94ace706354d797222d03f70","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-admin?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/hamonize-admin","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/d0cab1a44d1f513b94ace706354d797222d03f70","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-admin?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/d0cab1a44d1f513b94ace706354d797222d03f70","html":"https://github.com/hamonikr/hamonize/tree/master/hamonize-admin"}},{"name":"hamonize-agent","path":"hamonize-agent","sha":"75d0f128c84005cdd910f127768ce88a6119c88c","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-agent?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/hamonize-agent","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/75d0f128c84005cdd910f127768ce88a6119c88c","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-agent?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/75d0f128c84005cdd910f127768ce88a6119c88c","html":"https://github.com/hamonikr/hamonize/tree/master/hamonize-agent"}},{"name":"hamonize-apt","path":"hamonize-apt","sha":"7608c2bd85ad25f07d8e79f9b887fafc6f672d74","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-apt?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/hamonize-apt","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/7608c2bd85ad25f07d8e79f9b887fafc6f672d74","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-apt?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/7608c2bd85ad25f07d8e79f9b887fafc6f672d74","html":"https://github.com/hamonikr/hamonize/tree/master/hamonize-apt"}},{"name":"hamonize-center","path":"hamonize-center","sha":"e49d7d82c39bfa5a26622f9265914458c59c34b4","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-center?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/hamonize-center","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/e49d7d82c39bfa5a26622f9265914458c59c34b4","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-center?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/e49d7d82c39bfa5a26622f9265914458c59c34b4","html":"https://github.com/hamonikr/hamonize/tree/master/hamonize-center"}},{"name":"hamonize-connector","path":"hamonize-connector","sha":"ee81f5936d17cb65269b70ba66f9266216b3d4ec","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-connector?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/hamonize-connector","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/ee81f5936d17cb65269b70ba66f9266216b3d4ec","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-connector?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/ee81f5936d17cb65269b70ba66f9266216b3d4ec","html":"https://github.com/hamonikr/hamonize/tree/master/hamonize-connector"}},{"name":"hamonize-noti-App","path":"hamonize-noti-App","sha":"6c2f5a5df2514b51fa6b5e5ad47a1784f8dcab4c","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-noti-App?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/hamonize-noti-App","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/6c2f5a5df2514b51fa6b5e5ad47a1784f8dcab4c","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-noti-App?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/6c2f5a5df2514b51fa6b5e5ad47a1784f8dcab4c","html":"https://github.com/hamonikr/hamonize/tree/master/hamonize-noti-App"}},{"name":"hamonize-vpn","path":"hamonize-vpn","sha":"c8f5b2081ca971fff4be1df33a5ab32a51ba056b","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-vpn?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/hamonize-vpn","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/c8f5b2081ca971fff4be1df33a5ab32a51ba056b","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-vpn?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/c8f5b2081ca971fff4be1df33a5ab32a51ba056b","html":"https://github.com/hamonikr/hamonize/tree/master/hamonize-vpn"}},{"name":"img","path":"img","sha":"7c5493586b7624be6acfb4aa9e943dba547e2380","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/img?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/img","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/7c5493586b7624be6acfb4aa9e943dba547e2380","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/img?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/7c5493586b7624be6acfb4aa9e943dba547e2380","html":"https://github.com/hamonikr/hamonize/tree/master/img"}}]
+[2022-06-27 13:10:07.262] [info]  ----------> 
+[2022-06-27 13:10:07.262] [info]  ----------> 
+[2022-06-27 13:10:07.263] [info]  ----------> 
+[2022-06-27 13:10:07.263] [info]  ----------> 
+[2022-06-27 13:10:07.263] [info]  ----------> 
+[2022-06-27 13:10:07.264] [info]  ----------> 
+[2022-06-27 13:10:07.264] [info]  ----------> CODE_OF_CONDUCT
+[2022-06-27 13:10:07.265] [info]  ----------> CONTRIBUTING
+[2022-06-27 13:10:07.265] [info]  ----------> LICENSE
+[2022-06-27 13:10:07.265] [info]  ----------> README
+[2022-06-27 13:10:07.265] [info]  ----------> SECURITY
+[2022-06-27 13:10:07.266] [info]  ----------> adminkey
+[2022-06-27 13:10:07.266] [info]  ----------> cla
+[2022-06-27 13:10:07.266] [info]  ----------> hamonize-admin
+[2022-06-27 13:10:07.266] [info]  ----------> hamonize-agent
+[2022-06-27 13:10:07.267] [info]  ----------> hamonize-apt
+[2022-06-27 13:10:07.267] [info]  ----------> hamonize-center
+[2022-06-27 13:10:07.267] [info]  ----------> hamonize-connector
+[2022-06-27 13:10:07.267] [info]  ----------> hamonize-noti-App
+[2022-06-27 13:10:07.268] [info]  ----------> hamonize-vpn
+[2022-06-27 13:10:07.268] [info]  ----------> img
+[2022-06-27 13:11:54.290] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 13:11:54.565] [info]  License Check Step 1-2 ] - License Check Result is :: [{"name":".all-contributorsrc","path":".all-contributorsrc","sha":"352229979c5a12bda82047064f1c917e6fc4ba0b","size":2153,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/.all-contributorsrc?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/.all-contributorsrc","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/352229979c5a12bda82047064f1c917e6fc4ba0b","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/.all-contributorsrc","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/.all-contributorsrc?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/352229979c5a12bda82047064f1c917e6fc4ba0b","html":"https://github.com/hamonikr/hamonize/blob/master/.all-contributorsrc"}},{"name":".github","path":".github","sha":"83c050b6000003e8f861a063b0fde1c95a1468ef","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/.github?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/.github","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/83c050b6000003e8f861a063b0fde1c95a1468ef","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/.github?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/83c050b6000003e8f861a063b0fde1c95a1468ef","html":"https://github.com/hamonikr/hamonize/tree/master/.github"}},{"name":".gitignore","path":".gitignore","sha":"3d203fcddc9a3502b2b418a02b0ae83e389374b1","size":405,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/.gitignore?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/.gitignore","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/3d203fcddc9a3502b2b418a02b0ae83e389374b1","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/.gitignore","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/.gitignore?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/3d203fcddc9a3502b2b418a02b0ae83e389374b1","html":"https://github.com/hamonikr/hamonize/blob/master/.gitignore"}},{"name":".gitmessage.txt","path":".gitmessage.txt","sha":"2c8d88ce1c68495e2de55c248256edb5cc64a173","size":1298,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/.gitmessage.txt?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/.gitmessage.txt","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/2c8d88ce1c68495e2de55c248256edb5cc64a173","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/.gitmessage.txt","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/.gitmessage.txt?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/2c8d88ce1c68495e2de55c248256edb5cc64a173","html":"https://github.com/hamonikr/hamonize/blob/master/.gitmessage.txt"}},{"name":".gitmodules","path":".gitmodules","sha":"7479f740dfe1a5dec746f319a72da1e60f8b7356","size":1005,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/.gitmodules?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/.gitmodules","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/7479f740dfe1a5dec746f319a72da1e60f8b7356","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/.gitmodules","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/.gitmodules?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/7479f740dfe1a5dec746f319a72da1e60f8b7356","html":"https://github.com/hamonikr/hamonize/blob/master/.gitmodules"}},{"name":".travis.yml","path":".travis.yml","sha":"137b2c199c285491bc926db37506389deb4fce68","size":1442,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/.travis.yml?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/.travis.yml","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/137b2c199c285491bc926db37506389deb4fce68","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/.travis.yml","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/.travis.yml?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/137b2c199c285491bc926db37506389deb4fce68","html":"https://github.com/hamonikr/hamonize/blob/master/.travis.yml"}},{"name":"CODE_OF_CONDUCT.md","path":"CODE_OF_CONDUCT.md","sha":"97ef922c4fd4787d984e173067ee12c2066db538","size":6358,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/CODE_OF_CONDUCT.md?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/CODE_OF_CONDUCT.md","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/97ef922c4fd4787d984e173067ee12c2066db538","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/CODE_OF_CONDUCT.md","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/CODE_OF_CONDUCT.md?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/97ef922c4fd4787d984e173067ee12c2066db538","html":"https://github.com/hamonikr/hamonize/blob/master/CODE_OF_CONDUCT.md"}},{"name":"CONTRIBUTING.md","path":"CONTRIBUTING.md","sha":"e242162c1dcc6fc90261de0620ba32664aa0400c","size":4086,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/CONTRIBUTING.md?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/CONTRIBUTING.md","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/e242162c1dcc6fc90261de0620ba32664aa0400c","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/CONTRIBUTING.md","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/CONTRIBUTING.md?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/e242162c1dcc6fc90261de0620ba32664aa0400c","html":"https://github.com/hamonikr/hamonize/blob/master/CONTRIBUTING.md"}},{"name":"LICENSE.md","path":"LICENSE.md","sha":"afb0b6f9d756c59ed9e514229673502c55248b4f","size":1549,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/LICENSE.md?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/LICENSE.md","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/afb0b6f9d756c59ed9e514229673502c55248b4f","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/LICENSE.md","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/LICENSE.md?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/afb0b6f9d756c59ed9e514229673502c55248b4f","html":"https://github.com/hamonikr/hamonize/blob/master/LICENSE.md"}},{"name":"README.md","path":"README.md","sha":"0b7522d197ce147adefc33505674528d9580ed4a","size":20892,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/README.md?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/README.md","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/0b7522d197ce147adefc33505674528d9580ed4a","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/README.md","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/README.md?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/0b7522d197ce147adefc33505674528d9580ed4a","html":"https://github.com/hamonikr/hamonize/blob/master/README.md"}},{"name":"SECURITY.md","path":"SECURITY.md","sha":"83c9372ba423627cd470a4fa157a6ab562a90007","size":483,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/SECURITY.md?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/SECURITY.md","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/83c9372ba423627cd470a4fa157a6ab562a90007","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/SECURITY.md","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/SECURITY.md?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/83c9372ba423627cd470a4fa157a6ab562a90007","html":"https://github.com/hamonikr/hamonize/blob/master/SECURITY.md"}},{"name":"adminkey","path":"adminkey","sha":"b978346d2f7cb7f5c29602e4f72b2660f4da8461","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/adminkey?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/adminkey","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/b978346d2f7cb7f5c29602e4f72b2660f4da8461","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/adminkey?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/b978346d2f7cb7f5c29602e4f72b2660f4da8461","html":"https://github.com/hamonikr/hamonize/tree/master/adminkey"}},{"name":"cla","path":"cla","sha":"5e65c80bc41b3aaffd2d995f720bf10e4fdeacd3","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/cla?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/cla","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/5e65c80bc41b3aaffd2d995f720bf10e4fdeacd3","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/cla?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/5e65c80bc41b3aaffd2d995f720bf10e4fdeacd3","html":"https://github.com/hamonikr/hamonize/tree/master/cla"}},{"name":"hamonize-admin","path":"hamonize-admin","sha":"d0cab1a44d1f513b94ace706354d797222d03f70","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-admin?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/hamonize-admin","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/d0cab1a44d1f513b94ace706354d797222d03f70","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-admin?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/d0cab1a44d1f513b94ace706354d797222d03f70","html":"https://github.com/hamonikr/hamonize/tree/master/hamonize-admin"}},{"name":"hamonize-agent","path":"hamonize-agent","sha":"75d0f128c84005cdd910f127768ce88a6119c88c","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-agent?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/hamonize-agent","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/75d0f128c84005cdd910f127768ce88a6119c88c","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-agent?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/75d0f128c84005cdd910f127768ce88a6119c88c","html":"https://github.com/hamonikr/hamonize/tree/master/hamonize-agent"}},{"name":"hamonize-apt","path":"hamonize-apt","sha":"7608c2bd85ad25f07d8e79f9b887fafc6f672d74","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-apt?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/hamonize-apt","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/7608c2bd85ad25f07d8e79f9b887fafc6f672d74","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-apt?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/7608c2bd85ad25f07d8e79f9b887fafc6f672d74","html":"https://github.com/hamonikr/hamonize/tree/master/hamonize-apt"}},{"name":"hamonize-center","path":"hamonize-center","sha":"e49d7d82c39bfa5a26622f9265914458c59c34b4","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-center?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/hamonize-center","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/e49d7d82c39bfa5a26622f9265914458c59c34b4","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-center?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/e49d7d82c39bfa5a26622f9265914458c59c34b4","html":"https://github.com/hamonikr/hamonize/tree/master/hamonize-center"}},{"name":"hamonize-connector","path":"hamonize-connector","sha":"ee81f5936d17cb65269b70ba66f9266216b3d4ec","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-connector?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/hamonize-connector","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/ee81f5936d17cb65269b70ba66f9266216b3d4ec","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-connector?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/ee81f5936d17cb65269b70ba66f9266216b3d4ec","html":"https://github.com/hamonikr/hamonize/tree/master/hamonize-connector"}},{"name":"hamonize-noti-App","path":"hamonize-noti-App","sha":"6c2f5a5df2514b51fa6b5e5ad47a1784f8dcab4c","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-noti-App?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/hamonize-noti-App","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/6c2f5a5df2514b51fa6b5e5ad47a1784f8dcab4c","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-noti-App?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/6c2f5a5df2514b51fa6b5e5ad47a1784f8dcab4c","html":"https://github.com/hamonikr/hamonize/tree/master/hamonize-noti-App"}},{"name":"hamonize-vpn","path":"hamonize-vpn","sha":"c8f5b2081ca971fff4be1df33a5ab32a51ba056b","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-vpn?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/hamonize-vpn","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/c8f5b2081ca971fff4be1df33a5ab32a51ba056b","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-vpn?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/c8f5b2081ca971fff4be1df33a5ab32a51ba056b","html":"https://github.com/hamonikr/hamonize/tree/master/hamonize-vpn"}},{"name":"img","path":"img","sha":"7c5493586b7624be6acfb4aa9e943dba547e2380","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/img?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/img","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/7c5493586b7624be6acfb4aa9e943dba547e2380","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/img?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/7c5493586b7624be6acfb4aa9e943dba547e2380","html":"https://github.com/hamonikr/hamonize/tree/master/img"}}]
+[2022-06-27 13:11:54.566] [info]  ----------> 
+[2022-06-27 13:11:54.566] [info]  ----------> 
+[2022-06-27 13:11:54.567] [info]  ----------> 
+[2022-06-27 13:11:54.567] [info]  ----------> 
+[2022-06-27 13:11:54.567] [info]  ----------> 
+[2022-06-27 13:11:54.567] [info]  ----------> 
+[2022-06-27 13:11:54.567] [info]  ----------> CODE_OF_CONDUCT
+[2022-06-27 13:11:54.568] [info]  ----------> CONTRIBUTING
+[2022-06-27 13:11:54.568] [info]  ----------> LICENSE
+[2022-06-27 13:11:54.568] [info]  ----------> README
+[2022-06-27 13:11:54.568] [info]  ----------> SECURITY
+[2022-06-27 13:11:54.569] [info]  ----------> adminkey
+[2022-06-27 13:11:54.569] [info]  ----------> cla
+[2022-06-27 13:11:54.569] [info]  ----------> hamonize-admin
+[2022-06-27 13:11:54.569] [info]  ----------> hamonize-agent
+[2022-06-27 13:11:54.569] [info]  ----------> hamonize-apt
+[2022-06-27 13:11:54.569] [info]  ----------> hamonize-center
+[2022-06-27 13:11:54.570] [info]  ----------> hamonize-connector
+[2022-06-27 13:11:54.570] [info]  ----------> hamonize-noti-App
+[2022-06-27 13:11:54.570] [info]  ----------> hamonize-vpn
+[2022-06-27 13:11:54.570] [info]  ----------> img
+[2022-06-27 13:14:13.953] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 13:14:14.213] [info]  License Check Step 1-2 ] - License Check Result is :: [{"name":".all-contributorsrc","path":".all-contributorsrc","sha":"352229979c5a12bda82047064f1c917e6fc4ba0b","size":2153,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/.all-contributorsrc?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/.all-contributorsrc","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/352229979c5a12bda82047064f1c917e6fc4ba0b","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/.all-contributorsrc","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/.all-contributorsrc?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/352229979c5a12bda82047064f1c917e6fc4ba0b","html":"https://github.com/hamonikr/hamonize/blob/master/.all-contributorsrc"}},{"name":".github","path":".github","sha":"83c050b6000003e8f861a063b0fde1c95a1468ef","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/.github?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/.github","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/83c050b6000003e8f861a063b0fde1c95a1468ef","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/.github?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/83c050b6000003e8f861a063b0fde1c95a1468ef","html":"https://github.com/hamonikr/hamonize/tree/master/.github"}},{"name":".gitignore","path":".gitignore","sha":"3d203fcddc9a3502b2b418a02b0ae83e389374b1","size":405,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/.gitignore?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/.gitignore","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/3d203fcddc9a3502b2b418a02b0ae83e389374b1","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/.gitignore","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/.gitignore?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/3d203fcddc9a3502b2b418a02b0ae83e389374b1","html":"https://github.com/hamonikr/hamonize/blob/master/.gitignore"}},{"name":".gitmessage.txt","path":".gitmessage.txt","sha":"2c8d88ce1c68495e2de55c248256edb5cc64a173","size":1298,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/.gitmessage.txt?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/.gitmessage.txt","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/2c8d88ce1c68495e2de55c248256edb5cc64a173","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/.gitmessage.txt","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/.gitmessage.txt?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/2c8d88ce1c68495e2de55c248256edb5cc64a173","html":"https://github.com/hamonikr/hamonize/blob/master/.gitmessage.txt"}},{"name":".gitmodules","path":".gitmodules","sha":"7479f740dfe1a5dec746f319a72da1e60f8b7356","size":1005,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/.gitmodules?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/.gitmodules","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/7479f740dfe1a5dec746f319a72da1e60f8b7356","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/.gitmodules","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/.gitmodules?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/7479f740dfe1a5dec746f319a72da1e60f8b7356","html":"https://github.com/hamonikr/hamonize/blob/master/.gitmodules"}},{"name":".travis.yml","path":".travis.yml","sha":"137b2c199c285491bc926db37506389deb4fce68","size":1442,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/.travis.yml?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/.travis.yml","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/137b2c199c285491bc926db37506389deb4fce68","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/.travis.yml","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/.travis.yml?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/137b2c199c285491bc926db37506389deb4fce68","html":"https://github.com/hamonikr/hamonize/blob/master/.travis.yml"}},{"name":"CODE_OF_CONDUCT.md","path":"CODE_OF_CONDUCT.md","sha":"97ef922c4fd4787d984e173067ee12c2066db538","size":6358,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/CODE_OF_CONDUCT.md?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/CODE_OF_CONDUCT.md","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/97ef922c4fd4787d984e173067ee12c2066db538","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/CODE_OF_CONDUCT.md","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/CODE_OF_CONDUCT.md?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/97ef922c4fd4787d984e173067ee12c2066db538","html":"https://github.com/hamonikr/hamonize/blob/master/CODE_OF_CONDUCT.md"}},{"name":"CONTRIBUTING.md","path":"CONTRIBUTING.md","sha":"e242162c1dcc6fc90261de0620ba32664aa0400c","size":4086,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/CONTRIBUTING.md?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/CONTRIBUTING.md","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/e242162c1dcc6fc90261de0620ba32664aa0400c","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/CONTRIBUTING.md","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/CONTRIBUTING.md?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/e242162c1dcc6fc90261de0620ba32664aa0400c","html":"https://github.com/hamonikr/hamonize/blob/master/CONTRIBUTING.md"}},{"name":"LICENSE.md","path":"LICENSE.md","sha":"afb0b6f9d756c59ed9e514229673502c55248b4f","size":1549,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/LICENSE.md?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/LICENSE.md","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/afb0b6f9d756c59ed9e514229673502c55248b4f","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/LICENSE.md","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/LICENSE.md?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/afb0b6f9d756c59ed9e514229673502c55248b4f","html":"https://github.com/hamonikr/hamonize/blob/master/LICENSE.md"}},{"name":"README.md","path":"README.md","sha":"0b7522d197ce147adefc33505674528d9580ed4a","size":20892,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/README.md?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/README.md","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/0b7522d197ce147adefc33505674528d9580ed4a","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/README.md","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/README.md?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/0b7522d197ce147adefc33505674528d9580ed4a","html":"https://github.com/hamonikr/hamonize/blob/master/README.md"}},{"name":"SECURITY.md","path":"SECURITY.md","sha":"83c9372ba423627cd470a4fa157a6ab562a90007","size":483,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/SECURITY.md?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/SECURITY.md","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/83c9372ba423627cd470a4fa157a6ab562a90007","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/SECURITY.md","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/SECURITY.md?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/83c9372ba423627cd470a4fa157a6ab562a90007","html":"https://github.com/hamonikr/hamonize/blob/master/SECURITY.md"}},{"name":"adminkey","path":"adminkey","sha":"b978346d2f7cb7f5c29602e4f72b2660f4da8461","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/adminkey?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/adminkey","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/b978346d2f7cb7f5c29602e4f72b2660f4da8461","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/adminkey?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/b978346d2f7cb7f5c29602e4f72b2660f4da8461","html":"https://github.com/hamonikr/hamonize/tree/master/adminkey"}},{"name":"cla","path":"cla","sha":"5e65c80bc41b3aaffd2d995f720bf10e4fdeacd3","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/cla?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/cla","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/5e65c80bc41b3aaffd2d995f720bf10e4fdeacd3","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/cla?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/5e65c80bc41b3aaffd2d995f720bf10e4fdeacd3","html":"https://github.com/hamonikr/hamonize/tree/master/cla"}},{"name":"hamonize-admin","path":"hamonize-admin","sha":"d0cab1a44d1f513b94ace706354d797222d03f70","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-admin?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/hamonize-admin","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/d0cab1a44d1f513b94ace706354d797222d03f70","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-admin?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/d0cab1a44d1f513b94ace706354d797222d03f70","html":"https://github.com/hamonikr/hamonize/tree/master/hamonize-admin"}},{"name":"hamonize-agent","path":"hamonize-agent","sha":"75d0f128c84005cdd910f127768ce88a6119c88c","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-agent?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/hamonize-agent","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/75d0f128c84005cdd910f127768ce88a6119c88c","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-agent?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/75d0f128c84005cdd910f127768ce88a6119c88c","html":"https://github.com/hamonikr/hamonize/tree/master/hamonize-agent"}},{"name":"hamonize-apt","path":"hamonize-apt","sha":"7608c2bd85ad25f07d8e79f9b887fafc6f672d74","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-apt?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/hamonize-apt","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/7608c2bd85ad25f07d8e79f9b887fafc6f672d74","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-apt?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/7608c2bd85ad25f07d8e79f9b887fafc6f672d74","html":"https://github.com/hamonikr/hamonize/tree/master/hamonize-apt"}},{"name":"hamonize-center","path":"hamonize-center","sha":"e49d7d82c39bfa5a26622f9265914458c59c34b4","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-center?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/hamonize-center","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/e49d7d82c39bfa5a26622f9265914458c59c34b4","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-center?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/e49d7d82c39bfa5a26622f9265914458c59c34b4","html":"https://github.com/hamonikr/hamonize/tree/master/hamonize-center"}},{"name":"hamonize-connector","path":"hamonize-connector","sha":"ee81f5936d17cb65269b70ba66f9266216b3d4ec","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-connector?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/hamonize-connector","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/ee81f5936d17cb65269b70ba66f9266216b3d4ec","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-connector?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/ee81f5936d17cb65269b70ba66f9266216b3d4ec","html":"https://github.com/hamonikr/hamonize/tree/master/hamonize-connector"}},{"name":"hamonize-noti-App","path":"hamonize-noti-App","sha":"6c2f5a5df2514b51fa6b5e5ad47a1784f8dcab4c","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-noti-App?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/hamonize-noti-App","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/6c2f5a5df2514b51fa6b5e5ad47a1784f8dcab4c","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-noti-App?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/6c2f5a5df2514b51fa6b5e5ad47a1784f8dcab4c","html":"https://github.com/hamonikr/hamonize/tree/master/hamonize-noti-App"}},{"name":"hamonize-vpn","path":"hamonize-vpn","sha":"c8f5b2081ca971fff4be1df33a5ab32a51ba056b","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-vpn?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/hamonize-vpn","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/c8f5b2081ca971fff4be1df33a5ab32a51ba056b","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-vpn?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/c8f5b2081ca971fff4be1df33a5ab32a51ba056b","html":"https://github.com/hamonikr/hamonize/tree/master/hamonize-vpn"}},{"name":"img","path":"img","sha":"7c5493586b7624be6acfb4aa9e943dba547e2380","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/img?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/img","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/7c5493586b7624be6acfb4aa9e943dba547e2380","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/img?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/7c5493586b7624be6acfb4aa9e943dba547e2380","html":"https://github.com/hamonikr/hamonize/tree/master/img"}}]
+[2022-06-27 13:14:14.214] [info]  ----------> 
+[2022-06-27 13:14:14.214] [info]  ----------> 
+[2022-06-27 13:14:14.214] [info]  ----------> 
+[2022-06-27 13:14:14.215] [info]  ----------> 
+[2022-06-27 13:14:14.215] [info]  ----------> 
+[2022-06-27 13:14:14.215] [info]  ----------> 
+[2022-06-27 13:14:14.215] [info]  ----------> CODE_OF_CONDUCT
+[2022-06-27 13:14:14.215] [info]  ----------> CONTRIBUTING
+[2022-06-27 13:14:14.216] [info]  ----------> LICENSE
+[2022-06-27 13:14:14.216] [info]  ----------> README
+[2022-06-27 13:14:14.216] [info]  ----------> SECURITY
+[2022-06-27 13:14:14.216] [info]  ----------> adminkey
+[2022-06-27 13:14:14.216] [info]  ----------> cla
+[2022-06-27 13:14:14.216] [info]  ----------> hamonize-admin
+[2022-06-27 13:14:14.217] [info]  ----------> hamonize-agent
+[2022-06-27 13:14:14.217] [info]  ----------> hamonize-apt
+[2022-06-27 13:14:14.217] [info]  ----------> hamonize-center
+[2022-06-27 13:14:14.217] [info]  ----------> hamonize-connector
+[2022-06-27 13:14:14.217] [info]  ----------> hamonize-noti-App
+[2022-06-27 13:14:14.225] [info]  ----------> hamonize-vpn
+[2022-06-27 13:14:14.226] [info]  ----------> img
+[2022-06-27 13:14:41.231] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 13:14:41.236] [info]  License Check Step 1-2 ] - License Check Result is :: [{"name":".all-contributorsrc","path":".all-contributorsrc","sha":"352229979c5a12bda82047064f1c917e6fc4ba0b","size":2153,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/.all-contributorsrc?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/.all-contributorsrc","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/352229979c5a12bda82047064f1c917e6fc4ba0b","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/.all-contributorsrc","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/.all-contributorsrc?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/352229979c5a12bda82047064f1c917e6fc4ba0b","html":"https://github.com/hamonikr/hamonize/blob/master/.all-contributorsrc"}},{"name":".github","path":".github","sha":"83c050b6000003e8f861a063b0fde1c95a1468ef","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/.github?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/.github","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/83c050b6000003e8f861a063b0fde1c95a1468ef","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/.github?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/83c050b6000003e8f861a063b0fde1c95a1468ef","html":"https://github.com/hamonikr/hamonize/tree/master/.github"}},{"name":".gitignore","path":".gitignore","sha":"3d203fcddc9a3502b2b418a02b0ae83e389374b1","size":405,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/.gitignore?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/.gitignore","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/3d203fcddc9a3502b2b418a02b0ae83e389374b1","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/.gitignore","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/.gitignore?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/3d203fcddc9a3502b2b418a02b0ae83e389374b1","html":"https://github.com/hamonikr/hamonize/blob/master/.gitignore"}},{"name":".gitmessage.txt","path":".gitmessage.txt","sha":"2c8d88ce1c68495e2de55c248256edb5cc64a173","size":1298,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/.gitmessage.txt?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/.gitmessage.txt","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/2c8d88ce1c68495e2de55c248256edb5cc64a173","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/.gitmessage.txt","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/.gitmessage.txt?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/2c8d88ce1c68495e2de55c248256edb5cc64a173","html":"https://github.com/hamonikr/hamonize/blob/master/.gitmessage.txt"}},{"name":".gitmodules","path":".gitmodules","sha":"7479f740dfe1a5dec746f319a72da1e60f8b7356","size":1005,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/.gitmodules?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/.gitmodules","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/7479f740dfe1a5dec746f319a72da1e60f8b7356","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/.gitmodules","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/.gitmodules?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/7479f740dfe1a5dec746f319a72da1e60f8b7356","html":"https://github.com/hamonikr/hamonize/blob/master/.gitmodules"}},{"name":".travis.yml","path":".travis.yml","sha":"137b2c199c285491bc926db37506389deb4fce68","size":1442,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/.travis.yml?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/.travis.yml","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/137b2c199c285491bc926db37506389deb4fce68","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/.travis.yml","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/.travis.yml?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/137b2c199c285491bc926db37506389deb4fce68","html":"https://github.com/hamonikr/hamonize/blob/master/.travis.yml"}},{"name":"CODE_OF_CONDUCT.md","path":"CODE_OF_CONDUCT.md","sha":"97ef922c4fd4787d984e173067ee12c2066db538","size":6358,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/CODE_OF_CONDUCT.md?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/CODE_OF_CONDUCT.md","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/97ef922c4fd4787d984e173067ee12c2066db538","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/CODE_OF_CONDUCT.md","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/CODE_OF_CONDUCT.md?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/97ef922c4fd4787d984e173067ee12c2066db538","html":"https://github.com/hamonikr/hamonize/blob/master/CODE_OF_CONDUCT.md"}},{"name":"CONTRIBUTING.md","path":"CONTRIBUTING.md","sha":"e242162c1dcc6fc90261de0620ba32664aa0400c","size":4086,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/CONTRIBUTING.md?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/CONTRIBUTING.md","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/e242162c1dcc6fc90261de0620ba32664aa0400c","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/CONTRIBUTING.md","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/CONTRIBUTING.md?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/e242162c1dcc6fc90261de0620ba32664aa0400c","html":"https://github.com/hamonikr/hamonize/blob/master/CONTRIBUTING.md"}},{"name":"LICENSE.md","path":"LICENSE.md","sha":"afb0b6f9d756c59ed9e514229673502c55248b4f","size":1549,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/LICENSE.md?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/LICENSE.md","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/afb0b6f9d756c59ed9e514229673502c55248b4f","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/LICENSE.md","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/LICENSE.md?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/afb0b6f9d756c59ed9e514229673502c55248b4f","html":"https://github.com/hamonikr/hamonize/blob/master/LICENSE.md"}},{"name":"README.md","path":"README.md","sha":"0b7522d197ce147adefc33505674528d9580ed4a","size":20892,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/README.md?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/README.md","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/0b7522d197ce147adefc33505674528d9580ed4a","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/README.md","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/README.md?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/0b7522d197ce147adefc33505674528d9580ed4a","html":"https://github.com/hamonikr/hamonize/blob/master/README.md"}},{"name":"SECURITY.md","path":"SECURITY.md","sha":"83c9372ba423627cd470a4fa157a6ab562a90007","size":483,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/SECURITY.md?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/SECURITY.md","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/83c9372ba423627cd470a4fa157a6ab562a90007","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/SECURITY.md","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/SECURITY.md?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/83c9372ba423627cd470a4fa157a6ab562a90007","html":"https://github.com/hamonikr/hamonize/blob/master/SECURITY.md"}},{"name":"adminkey","path":"adminkey","sha":"b978346d2f7cb7f5c29602e4f72b2660f4da8461","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/adminkey?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/adminkey","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/b978346d2f7cb7f5c29602e4f72b2660f4da8461","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/adminkey?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/b978346d2f7cb7f5c29602e4f72b2660f4da8461","html":"https://github.com/hamonikr/hamonize/tree/master/adminkey"}},{"name":"cla","path":"cla","sha":"5e65c80bc41b3aaffd2d995f720bf10e4fdeacd3","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/cla?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/cla","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/5e65c80bc41b3aaffd2d995f720bf10e4fdeacd3","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/cla?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/5e65c80bc41b3aaffd2d995f720bf10e4fdeacd3","html":"https://github.com/hamonikr/hamonize/tree/master/cla"}},{"name":"hamonize-admin","path":"hamonize-admin","sha":"d0cab1a44d1f513b94ace706354d797222d03f70","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-admin?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/hamonize-admin","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/d0cab1a44d1f513b94ace706354d797222d03f70","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-admin?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/d0cab1a44d1f513b94ace706354d797222d03f70","html":"https://github.com/hamonikr/hamonize/tree/master/hamonize-admin"}},{"name":"hamonize-agent","path":"hamonize-agent","sha":"75d0f128c84005cdd910f127768ce88a6119c88c","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-agent?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/hamonize-agent","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/75d0f128c84005cdd910f127768ce88a6119c88c","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-agent?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/75d0f128c84005cdd910f127768ce88a6119c88c","html":"https://github.com/hamonikr/hamonize/tree/master/hamonize-agent"}},{"name":"hamonize-apt","path":"hamonize-apt","sha":"7608c2bd85ad25f07d8e79f9b887fafc6f672d74","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-apt?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/hamonize-apt","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/7608c2bd85ad25f07d8e79f9b887fafc6f672d74","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-apt?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/7608c2bd85ad25f07d8e79f9b887fafc6f672d74","html":"https://github.com/hamonikr/hamonize/tree/master/hamonize-apt"}},{"name":"hamonize-center","path":"hamonize-center","sha":"e49d7d82c39bfa5a26622f9265914458c59c34b4","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-center?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/hamonize-center","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/e49d7d82c39bfa5a26622f9265914458c59c34b4","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-center?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/e49d7d82c39bfa5a26622f9265914458c59c34b4","html":"https://github.com/hamonikr/hamonize/tree/master/hamonize-center"}},{"name":"hamonize-connector","path":"hamonize-connector","sha":"ee81f5936d17cb65269b70ba66f9266216b3d4ec","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-connector?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/hamonize-connector","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/ee81f5936d17cb65269b70ba66f9266216b3d4ec","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-connector?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/ee81f5936d17cb65269b70ba66f9266216b3d4ec","html":"https://github.com/hamonikr/hamonize/tree/master/hamonize-connector"}},{"name":"hamonize-noti-App","path":"hamonize-noti-App","sha":"6c2f5a5df2514b51fa6b5e5ad47a1784f8dcab4c","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-noti-App?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/hamonize-noti-App","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/6c2f5a5df2514b51fa6b5e5ad47a1784f8dcab4c","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-noti-App?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/6c2f5a5df2514b51fa6b5e5ad47a1784f8dcab4c","html":"https://github.com/hamonikr/hamonize/tree/master/hamonize-noti-App"}},{"name":"hamonize-vpn","path":"hamonize-vpn","sha":"c8f5b2081ca971fff4be1df33a5ab32a51ba056b","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-vpn?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/hamonize-vpn","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/c8f5b2081ca971fff4be1df33a5ab32a51ba056b","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-vpn?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/c8f5b2081ca971fff4be1df33a5ab32a51ba056b","html":"https://github.com/hamonikr/hamonize/tree/master/hamonize-vpn"}},{"name":"img","path":"img","sha":"7c5493586b7624be6acfb4aa9e943dba547e2380","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/img?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/img","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/7c5493586b7624be6acfb4aa9e943dba547e2380","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/img?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/7c5493586b7624be6acfb4aa9e943dba547e2380","html":"https://github.com/hamonikr/hamonize/tree/master/img"}}]
+[2022-06-27 13:14:41.237] [info]  ----------> 
+[2022-06-27 13:14:41.237] [info]  ----------> 
+[2022-06-27 13:14:41.237] [info]  ----------> 
+[2022-06-27 13:14:41.237] [info]  ----------> 
+[2022-06-27 13:14:41.237] [info]  ----------> 
+[2022-06-27 13:14:41.237] [info]  ----------> 
+[2022-06-27 13:14:41.237] [info]  ----------> CODE_OF_CONDUCT
+[2022-06-27 13:14:41.238] [info]  ----------> CONTRIBUTING
+[2022-06-27 13:14:41.238] [info]  ----------> LICENSE
+[2022-06-27 13:14:41.238] [info]  ----------> README
+[2022-06-27 13:14:41.238] [info]  ----------> SECURITY
+[2022-06-27 13:14:41.238] [info]  ----------> adminkey
+[2022-06-27 13:14:41.238] [info]  ----------> cla
+[2022-06-27 13:14:41.238] [info]  ----------> hamonize-admin
+[2022-06-27 13:14:41.239] [info]  ----------> hamonize-agent
+[2022-06-27 13:14:41.239] [info]  ----------> hamonize-apt
+[2022-06-27 13:14:41.239] [info]  ----------> hamonize-center
+[2022-06-27 13:14:41.239] [info]  ----------> hamonize-connector
+[2022-06-27 13:14:41.239] [info]  ----------> hamonize-noti-App
+[2022-06-27 13:14:41.239] [info]  ----------> hamonize-vpn
+[2022-06-27 13:14:41.240] [info]  ----------> img
+[2022-06-27 13:15:29.422] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 13:15:29.649] [info]  ----------> 
+[2022-06-27 13:15:29.650] [info]  ----------> 
+[2022-06-27 13:15:29.650] [info]  ----------> 
+[2022-06-27 13:15:29.650] [info]  ----------> 
+[2022-06-27 13:15:29.650] [info]  ----------> 
+[2022-06-27 13:15:29.650] [info]  ----------> 
+[2022-06-27 13:15:29.650] [info]  ----------> CODE_OF_CONDUCT
+[2022-06-27 13:15:29.651] [info]  ----------> CONTRIBUTING
+[2022-06-27 13:15:29.651] [info]  ----------> LICENSE
+[2022-06-27 13:15:29.651] [info]  ----------> README
+[2022-06-27 13:15:29.651] [info]  ----------> SECURITY
+[2022-06-27 13:15:29.651] [info]  ----------> adminkey
+[2022-06-27 13:15:29.651] [info]  ----------> cla
+[2022-06-27 13:15:29.651] [info]  ----------> hamonize-admin
+[2022-06-27 13:15:29.652] [info]  ----------> hamonize-agent
+[2022-06-27 13:15:29.652] [info]  ----------> hamonize-apt
+[2022-06-27 13:15:29.652] [info]  ----------> hamonize-center
+[2022-06-27 13:15:29.652] [info]  ----------> hamonize-connector
+[2022-06-27 13:15:29.652] [info]  ----------> hamonize-noti-App
+[2022-06-27 13:15:29.652] [info]  ----------> hamonize-vpn
+[2022-06-27 13:15:29.652] [info]  ----------> img
+[2022-06-27 13:15:29.654] [info]  22222222
+[2022-06-27 13:15:29.654] [info]  22222222
+[2022-06-27 13:15:29.654] [info]  22222222
+[2022-06-27 13:15:29.654] [info]  22222222
+[2022-06-27 13:15:29.654] [info]  22222222
+[2022-06-27 13:15:29.654] [info]  22222222
+[2022-06-27 13:17:26.196] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 13:17:26.515] [info]  ----------> 
+[2022-06-27 13:17:26.516] [info]  ----------> 
+[2022-06-27 13:17:26.516] [info]  ----------> 
+[2022-06-27 13:17:26.517] [info]  ----------> 
+[2022-06-27 13:17:26.517] [info]  ----------> 
+[2022-06-27 13:17:26.517] [info]  ----------> 
+[2022-06-27 13:17:26.518] [info]  ----------> CODE_OF_CONDUCT
+[2022-06-27 13:17:26.518] [info]  ----------> CONTRIBUTING
+[2022-06-27 13:17:26.518] [info]  ----------> LICENSE
+[2022-06-27 13:17:26.519] [info]  ----------> README
+[2022-06-27 13:17:26.519] [info]  ----------> SECURITY
+[2022-06-27 13:17:26.519] [info]  ----------> adminkey
+[2022-06-27 13:17:26.519] [info]  ----------> cla
+[2022-06-27 13:17:26.519] [info]  ----------> hamonize-admin
+[2022-06-27 13:17:26.520] [info]  ----------> hamonize-agent
+[2022-06-27 13:17:26.520] [info]  ----------> hamonize-apt
+[2022-06-27 13:17:26.520] [info]  ----------> hamonize-center
+[2022-06-27 13:17:26.520] [info]  ----------> hamonize-connector
+[2022-06-27 13:17:26.520] [info]  ----------> hamonize-noti-App
+[2022-06-27 13:17:26.521] [info]  ----------> hamonize-vpn
+[2022-06-27 13:17:26.521] [info]  ----------> img
+[2022-06-27 13:17:26.522] [info]  22222222
+[2022-06-27 13:17:26.522] [info]  22222222
+[2022-06-27 13:17:26.523] [info]  22222222
+[2022-06-27 13:17:26.523] [info]  22222222
+[2022-06-27 13:17:26.523] [info]  22222222
+[2022-06-27 13:17:26.523] [info]  22222222
+[2022-06-27 13:17:56.748] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 13:17:56.756] [info]  ----------> 
+[2022-06-27 13:17:56.757] [info]  ----------> 
+[2022-06-27 13:17:56.757] [info]  ----------> 
+[2022-06-27 13:17:56.757] [info]  ----------> 
+[2022-06-27 13:17:56.758] [info]  ----------> 
+[2022-06-27 13:17:56.758] [info]  ----------> 
+[2022-06-27 13:17:56.758] [info]  ----------> CODE_OF_CONDUCT
+[2022-06-27 13:17:56.759] [info]  ----------> CONTRIBUTING
+[2022-06-27 13:17:56.759] [info]  ----------> LICENSE
+[2022-06-27 13:17:56.759] [info]  ----------> README
+[2022-06-27 13:17:56.759] [info]  ----------> SECURITY
+[2022-06-27 13:17:56.759] [info]  ----------> adminkey
+[2022-06-27 13:17:56.759] [info]  ----------> cla
+[2022-06-27 13:17:56.759] [info]  ----------> hamonize-admin
+[2022-06-27 13:17:56.759] [info]  ----------> hamonize-agent
+[2022-06-27 13:17:56.759] [info]  ----------> hamonize-apt
+[2022-06-27 13:17:56.759] [info]  ----------> hamonize-center
+[2022-06-27 13:17:56.760] [info]  ----------> hamonize-connector
+[2022-06-27 13:17:56.760] [info]  ----------> hamonize-noti-App
+[2022-06-27 13:17:56.760] [info]  ----------> hamonize-vpn
+[2022-06-27 13:17:56.760] [info]  ----------> img
+[2022-06-27 13:17:56.761] [info]  22222222
+[2022-06-27 13:17:56.761] [info]  22222222
+[2022-06-27 13:17:56.761] [info]  22222222
+[2022-06-27 13:17:56.761] [info]  22222222
+[2022-06-27 13:17:56.761] [info]  22222222
+[2022-06-27 13:17:56.761] [info]  22222222
+[2022-06-27 13:18:51.659] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 13:18:51.919] [info]  ----------> 
+[2022-06-27 13:18:51.920] [info]  ----------> 
+[2022-06-27 13:18:51.920] [info]  ----------> 
+[2022-06-27 13:18:51.920] [info]  ----------> 
+[2022-06-27 13:18:51.921] [info]  ----------> 
+[2022-06-27 13:18:51.921] [info]  ----------> 
+[2022-06-27 13:18:51.921] [info]  ----------> CODE_OF_CONDUCT
+[2022-06-27 13:18:51.922] [info]  ----------> CONTRIBUTING
+[2022-06-27 13:18:51.922] [info]  ----------> LICENSE
+[2022-06-27 13:18:51.922] [info]  ----------> README
+[2022-06-27 13:18:51.922] [info]  ----------> SECURITY
+[2022-06-27 13:18:51.923] [info]  ----------> adminkey
+[2022-06-27 13:18:51.923] [info]  ----------> cla
+[2022-06-27 13:18:51.923] [info]  ----------> hamonize-admin
+[2022-06-27 13:18:51.923] [info]  ----------> hamonize-agent
+[2022-06-27 13:18:51.923] [info]  ----------> hamonize-apt
+[2022-06-27 13:18:51.924] [info]  ----------> hamonize-center
+[2022-06-27 13:18:51.924] [info]  ----------> hamonize-connector
+[2022-06-27 13:18:51.924] [info]  ----------> hamonize-noti-App
+[2022-06-27 13:18:51.924] [info]  ----------> hamonize-vpn
+[2022-06-27 13:18:51.924] [info]  ----------> img
+[2022-06-27 13:18:51.926] [info]  22222222
+[2022-06-27 13:18:51.926] [info]  22222222
+[2022-06-27 13:18:51.926] [info]  22222222
+[2022-06-27 13:18:51.926] [info]  22222222
+[2022-06-27 13:18:51.926] [info]  22222222
+[2022-06-27 13:18:51.927] [info]  22222222
+[2022-06-27 13:19:14.827] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 13:19:14.834] [info]  ----------> 
+[2022-06-27 13:19:14.834] [info]  ----------> 
+[2022-06-27 13:19:14.834] [info]  ----------> 
+[2022-06-27 13:19:14.835] [info]  ----------> 
+[2022-06-27 13:19:14.835] [info]  ----------> 
+[2022-06-27 13:19:14.835] [info]  ----------> 
+[2022-06-27 13:19:14.835] [info]  ----------> CODE_OF_CONDUCT
+[2022-06-27 13:19:14.835] [info]  ----------> CONTRIBUTING
+[2022-06-27 13:19:14.835] [info]  ----------> LICENSE
+[2022-06-27 13:19:14.836] [info]  ----------> README
+[2022-06-27 13:19:14.836] [info]  ----------> SECURITY
+[2022-06-27 13:19:14.836] [info]  ----------> adminkey
+[2022-06-27 13:19:14.836] [info]  ----------> cla
+[2022-06-27 13:19:14.836] [info]  ----------> hamonize-admin
+[2022-06-27 13:19:14.836] [info]  ----------> hamonize-agent
+[2022-06-27 13:19:14.837] [info]  ----------> hamonize-apt
+[2022-06-27 13:19:14.837] [info]  ----------> hamonize-center
+[2022-06-27 13:19:14.837] [info]  ----------> hamonize-connector
+[2022-06-27 13:19:14.837] [info]  ----------> hamonize-noti-App
+[2022-06-27 13:19:14.837] [info]  ----------> hamonize-vpn
+[2022-06-27 13:19:14.837] [info]  ----------> img
+[2022-06-27 13:19:14.838] [info]  22222222
+[2022-06-27 13:19:14.839] [info]  22222222
+[2022-06-27 13:19:14.839] [info]  22222222
+[2022-06-27 13:19:14.839] [info]  22222222
+[2022-06-27 13:19:14.839] [info]  22222222
+[2022-06-27 13:19:14.839] [info]  22222222
+[2022-06-27 13:19:28.250] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 13:19:28.257] [info]  ----------> 
+[2022-06-27 13:19:28.258] [info]  ----------> 
+[2022-06-27 13:19:28.258] [info]  ----------> 
+[2022-06-27 13:19:28.258] [info]  ----------> 
+[2022-06-27 13:19:28.258] [info]  ----------> 
+[2022-06-27 13:19:28.259] [info]  ----------> 
+[2022-06-27 13:19:28.259] [info]  ----------> CODE_OF_CONDUCT
+[2022-06-27 13:19:28.259] [info]  ----------> CONTRIBUTING
+[2022-06-27 13:19:28.259] [info]  ----------> LICENSE
+[2022-06-27 13:19:28.259] [info]  ----------> README
+[2022-06-27 13:19:28.259] [info]  ----------> SECURITY
+[2022-06-27 13:19:28.260] [info]  ----------> adminkey
+[2022-06-27 13:19:28.260] [info]  ----------> cla
+[2022-06-27 13:19:28.260] [info]  ----------> hamonize-admin
+[2022-06-27 13:19:28.260] [info]  ----------> hamonize-agent
+[2022-06-27 13:19:28.260] [info]  ----------> hamonize-apt
+[2022-06-27 13:19:28.260] [info]  ----------> hamonize-center
+[2022-06-27 13:19:28.261] [info]  ----------> hamonize-connector
+[2022-06-27 13:19:28.261] [info]  ----------> hamonize-noti-App
+[2022-06-27 13:19:28.261] [info]  ----------> hamonize-vpn
+[2022-06-27 13:19:28.261] [info]  ----------> img
+[2022-06-27 13:19:28.262] [info]  22222222
+[2022-06-27 13:19:28.263] [info]  element not found
+[2022-06-27 13:19:28.263] [info]  22222222
+[2022-06-27 13:19:28.263] [info]  element not found
+[2022-06-27 13:19:28.263] [info]  22222222
+[2022-06-27 13:19:28.263] [info]  element not found
+[2022-06-27 13:19:28.263] [info]  22222222
+[2022-06-27 13:19:28.263] [info]  element not found
+[2022-06-27 13:19:28.264] [info]  22222222
+[2022-06-27 13:19:28.264] [info]  element not found
+[2022-06-27 13:19:28.264] [info]  22222222
+[2022-06-27 13:19:28.264] [info]  element not found
+[2022-06-27 13:20:20.857] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 13:20:21.095] [info]  ----------> 
+[2022-06-27 13:20:21.095] [info]  ----------> 
+[2022-06-27 13:20:21.096] [info]  ----------> 
+[2022-06-27 13:20:21.096] [info]  ----------> 
+[2022-06-27 13:20:21.096] [info]  ----------> 
+[2022-06-27 13:20:21.096] [info]  ----------> 
+[2022-06-27 13:20:21.097] [info]  ----------> CODE_OF_CONDUCT
+[2022-06-27 13:20:21.097] [info]  ----------> CONTRIBUTING
+[2022-06-27 13:20:21.097] [info]  ----------> LICENSE
+[2022-06-27 13:20:21.097] [info]  ----------> README
+[2022-06-27 13:20:21.098] [info]  ----------> SECURITY
+[2022-06-27 13:20:21.098] [info]  ----------> adminkey
+[2022-06-27 13:20:21.098] [info]  ----------> cla
+[2022-06-27 13:20:21.098] [info]  ----------> hamonize-admin
+[2022-06-27 13:20:21.099] [info]  ----------> hamonize-agent
+[2022-06-27 13:20:21.099] [info]  ----------> hamonize-apt
+[2022-06-27 13:20:21.099] [info]  ----------> hamonize-center
+[2022-06-27 13:20:21.099] [info]  ----------> hamonize-connector
+[2022-06-27 13:20:21.099] [info]  ----------> hamonize-noti-App
+[2022-06-27 13:20:21.100] [info]  ----------> hamonize-vpn
+[2022-06-27 13:20:21.100] [info]  ----------> img
+[2022-06-27 13:20:21.101] [info]  22222222
+[2022-06-27 13:20:21.101] [info]  element not found
+[2022-06-27 13:20:21.102] [info]  22222222
+[2022-06-27 13:20:21.102] [info]  element not found
+[2022-06-27 13:20:21.102] [info]  22222222
+[2022-06-27 13:20:21.102] [info]  element not found
+[2022-06-27 13:20:21.102] [info]  22222222
+[2022-06-27 13:20:21.103] [info]  element not found
+[2022-06-27 13:20:21.103] [info]  22222222
+[2022-06-27 13:20:21.103] [info]  element not found
+[2022-06-27 13:20:21.103] [info]  22222222
+[2022-06-27 13:20:21.103] [info]  element not found
+[2022-06-27 13:20:49.761] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 13:20:49.769] [info]  ----------> 
+[2022-06-27 13:20:49.769] [info]  ----------> 
+[2022-06-27 13:20:49.769] [info]  ----------> 
+[2022-06-27 13:20:49.770] [info]  ----------> 
+[2022-06-27 13:20:49.770] [info]  ----------> 
+[2022-06-27 13:20:49.770] [info]  ----------> 
+[2022-06-27 13:20:49.770] [info]  ----------> CODE_OF_CONDUCT
+[2022-06-27 13:20:49.770] [info]  ----------> CONTRIBUTING
+[2022-06-27 13:20:49.771] [info]  ----------> LICENSE
+[2022-06-27 13:20:49.771] [info]  ----------> README
+[2022-06-27 13:20:49.771] [info]  ----------> SECURITY
+[2022-06-27 13:20:49.771] [info]  ----------> adminkey
+[2022-06-27 13:20:49.772] [info]  ----------> cla
+[2022-06-27 13:20:49.772] [info]  ----------> hamonize-admin
+[2022-06-27 13:20:49.772] [info]  ----------> hamonize-agent
+[2022-06-27 13:20:49.772] [info]  ----------> hamonize-apt
+[2022-06-27 13:20:49.772] [info]  ----------> hamonize-center
+[2022-06-27 13:20:49.773] [info]  ----------> hamonize-connector
+[2022-06-27 13:20:49.773] [info]  ----------> hamonize-noti-App
+[2022-06-27 13:20:49.773] [info]  ----------> hamonize-vpn
+[2022-06-27 13:20:49.773] [info]  ----------> img
+[2022-06-27 13:20:49.774] [info]  22222222
+[2022-06-27 13:20:49.775] [info]  val------gitignore
+[2022-06-27 13:20:49.775] [info]  element not found
+[2022-06-27 13:20:49.775] [info]  22222222
+[2022-06-27 13:20:49.775] [info]  val------gitmessage
+[2022-06-27 13:20:49.775] [info]  element not found
+[2022-06-27 13:20:49.775] [info]  22222222
+[2022-06-27 13:20:49.776] [info]  val------travis
+[2022-06-27 13:20:49.776] [info]  element not found
+[2022-06-27 13:20:49.776] [info]  22222222
+[2022-06-27 13:20:49.776] [info]  val------contributing
+[2022-06-27 13:20:49.776] [info]  element not found
+[2022-06-27 13:20:49.776] [info]  22222222
+[2022-06-27 13:20:49.777] [info]  val------license
+[2022-06-27 13:20:49.777] [info]  element not found
+[2022-06-27 13:20:49.777] [info]  22222222
+[2022-06-27 13:20:49.777] [info]  val------readme
+[2022-06-27 13:20:49.777] [info]  element not found
+[2022-06-27 13:22:29.511] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 13:22:29.751] [info]  ----------> 
+[2022-06-27 13:22:29.752] [info]  ----------> 
+[2022-06-27 13:22:29.752] [info]  ----------> 
+[2022-06-27 13:22:29.752] [info]  ----------> 
+[2022-06-27 13:22:29.753] [info]  ----------> 
+[2022-06-27 13:22:29.753] [info]  ----------> 
+[2022-06-27 13:22:29.753] [info]  ----------> CODE_OF_CONDUCT
+[2022-06-27 13:22:29.754] [info]  ----------> CONTRIBUTING
+[2022-06-27 13:22:29.754] [info]  ----------> LICENSE
+[2022-06-27 13:22:29.754] [info]  ----------> README
+[2022-06-27 13:22:29.755] [info]  ----------> SECURITY
+[2022-06-27 13:22:29.755] [info]  ----------> adminkey
+[2022-06-27 13:22:29.755] [info]  ----------> cla
+[2022-06-27 13:22:29.756] [info]  ----------> hamonize-admin
+[2022-06-27 13:22:29.756] [info]  ----------> hamonize-agent
+[2022-06-27 13:22:29.756] [info]  ----------> hamonize-apt
+[2022-06-27 13:22:29.756] [info]  ----------> hamonize-center
+[2022-06-27 13:22:29.757] [info]  ----------> hamonize-connector
+[2022-06-27 13:22:29.757] [info]  ----------> hamonize-noti-App
+[2022-06-27 13:22:29.757] [info]  ----------> hamonize-vpn
+[2022-06-27 13:22:29.757] [info]  ----------> img
+[2022-06-27 13:22:29.759] [info]  22222222
+[2022-06-27 13:22:29.759] [info]  val------
+[2022-06-27 13:22:29.759] [info]  element not found
+[2022-06-27 13:22:29.760] [info]  22222222
+[2022-06-27 13:22:29.760] [info]  val------
+[2022-06-27 13:22:29.760] [info]  element not found
+[2022-06-27 13:22:29.760] [info]  22222222
+[2022-06-27 13:22:29.760] [info]  val------
+[2022-06-27 13:22:29.761] [info]  element not found
+[2022-06-27 13:22:29.761] [info]  22222222
+[2022-06-27 13:22:29.761] [info]  val------
+[2022-06-27 13:22:29.761] [info]  element not found
+[2022-06-27 13:22:29.761] [info]  22222222
+[2022-06-27 13:22:29.762] [info]  val------
+[2022-06-27 13:22:29.762] [info]  element not found
+[2022-06-27 13:22:29.762] [info]  22222222
+[2022-06-27 13:22:29.762] [info]  val------
+[2022-06-27 13:22:29.762] [info]  element not found
+[2022-06-27 13:22:29.763] [info]  22222222
+[2022-06-27 13:22:29.763] [info]  val------code_of_conduct
+[2022-06-27 13:22:29.763] [info]  element not found
+[2022-06-27 13:22:29.763] [info]  22222222
+[2022-06-27 13:22:29.763] [info]  val------contributing
+[2022-06-27 13:22:29.763] [info]  element not found
+[2022-06-27 13:22:29.763] [info]  22222222
+[2022-06-27 13:22:29.763] [info]  val------license
+[2022-06-27 13:22:29.764] [info]  element not found
+[2022-06-27 13:22:29.764] [info]  22222222
+[2022-06-27 13:22:29.764] [info]  val------readme
+[2022-06-27 13:22:29.764] [info]  element not found
+[2022-06-27 13:22:29.764] [info]  22222222
+[2022-06-27 13:22:29.764] [info]  val------security
+[2022-06-27 13:22:29.764] [info]  element not found
+[2022-06-27 13:22:29.765] [info]  22222222
+[2022-06-27 13:22:29.765] [info]  val------adminkey
+[2022-06-27 13:22:29.765] [info]  element not found
+[2022-06-27 13:22:29.765] [info]  22222222
+[2022-06-27 13:22:29.765] [info]  val------cla
+[2022-06-27 13:22:29.765] [info]  element not found
+[2022-06-27 13:22:29.765] [info]  22222222
+[2022-06-27 13:22:29.765] [info]  val------hamonize-admin
+[2022-06-27 13:22:29.766] [info]  element not found
+[2022-06-27 13:22:29.766] [info]  22222222
+[2022-06-27 13:22:29.766] [info]  val------hamonize-agent
+[2022-06-27 13:22:29.766] [info]  element not found
+[2022-06-27 13:22:29.766] [info]  22222222
+[2022-06-27 13:22:29.766] [info]  val------hamonize-apt
+[2022-06-27 13:22:29.766] [info]  element not found
+[2022-06-27 13:22:29.767] [info]  22222222
+[2022-06-27 13:22:29.767] [info]  val------hamonize-center
+[2022-06-27 13:22:29.767] [info]  element not found
+[2022-06-27 13:22:29.767] [info]  22222222
+[2022-06-27 13:22:29.767] [info]  val------hamonize-connector
+[2022-06-27 13:22:29.767] [info]  element not found
+[2022-06-27 13:22:29.768] [info]  22222222
+[2022-06-27 13:22:29.768] [info]  val------hamonize-noti-app
+[2022-06-27 13:22:29.768] [info]  element not found
+[2022-06-27 13:22:29.768] [info]  22222222
+[2022-06-27 13:22:29.768] [info]  val------hamonize-vpn
+[2022-06-27 13:22:29.768] [info]  element not found
+[2022-06-27 13:22:29.769] [info]  22222222
+[2022-06-27 13:22:29.769] [info]  val------img
+[2022-06-27 13:22:29.769] [info]  element not found
+[2022-06-27 13:23:51.558] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 13:23:51.812] [info]  ----------> 
+[2022-06-27 13:23:51.813] [info]  ----------> 
+[2022-06-27 13:23:51.813] [info]  ----------> 
+[2022-06-27 13:23:51.814] [info]  ----------> 
+[2022-06-27 13:23:51.814] [info]  ----------> 
+[2022-06-27 13:23:51.814] [info]  ----------> 
+[2022-06-27 13:23:51.815] [info]  ----------> CODE_OF_CONDUCT
+[2022-06-27 13:23:51.815] [info]  ----------> CONTRIBUTING
+[2022-06-27 13:23:51.815] [info]  ----------> LICENSE
+[2022-06-27 13:23:51.815] [info]  ----------> README
+[2022-06-27 13:23:51.816] [info]  ----------> SECURITY
+[2022-06-27 13:23:51.816] [info]  ----------> adminkey
+[2022-06-27 13:23:51.816] [info]  ----------> cla
+[2022-06-27 13:23:51.817] [info]  ----------> hamonize-admin
+[2022-06-27 13:23:51.817] [info]  ----------> hamonize-agent
+[2022-06-27 13:23:51.817] [info]  ----------> hamonize-apt
+[2022-06-27 13:23:51.817] [info]  ----------> hamonize-center
+[2022-06-27 13:23:51.818] [info]  ----------> hamonize-connector
+[2022-06-27 13:23:51.818] [info]  ----------> hamonize-noti-App
+[2022-06-27 13:23:51.818] [info]  ----------> hamonize-vpn
+[2022-06-27 13:23:51.818] [info]  ----------> img
+[2022-06-27 13:23:51.820] [info]  22222222-------
+[2022-06-27 13:23:51.820] [info]  val------
+[2022-06-27 13:23:51.820] [info]  element not found
+[2022-06-27 13:23:51.821] [info]  22222222-------
+[2022-06-27 13:23:51.821] [info]  val------
+[2022-06-27 13:23:51.821] [info]  element not found
+[2022-06-27 13:23:51.821] [info]  22222222-------
+[2022-06-27 13:23:51.822] [info]  val------
+[2022-06-27 13:23:51.822] [info]  element not found
+[2022-06-27 13:23:51.822] [info]  22222222-------
+[2022-06-27 13:23:51.822] [info]  val------
+[2022-06-27 13:23:51.823] [info]  element not found
+[2022-06-27 13:23:51.823] [info]  22222222-------
+[2022-06-27 13:23:51.823] [info]  val------
+[2022-06-27 13:23:51.823] [info]  element not found
+[2022-06-27 13:23:51.823] [info]  22222222-------
+[2022-06-27 13:23:51.823] [info]  val------
+[2022-06-27 13:23:51.823] [info]  element not found
+[2022-06-27 13:23:51.823] [info]  22222222-------CODE_OF_CONDUCT
+[2022-06-27 13:23:51.824] [info]  val------code_of_conduct
+[2022-06-27 13:23:51.824] [info]  element not found
+[2022-06-27 13:23:51.824] [info]  22222222-------CONTRIBUTING
+[2022-06-27 13:23:51.824] [info]  val------contributing
+[2022-06-27 13:23:51.824] [info]  element not found
+[2022-06-27 13:23:51.824] [info]  22222222-------LICENSE
+[2022-06-27 13:23:51.824] [info]  val------license
+[2022-06-27 13:23:51.824] [info]  element not found
+[2022-06-27 13:23:51.824] [info]  22222222-------README
+[2022-06-27 13:23:51.825] [info]  val------readme
+[2022-06-27 13:23:51.825] [info]  element not found
+[2022-06-27 13:23:51.825] [info]  22222222-------SECURITY
+[2022-06-27 13:23:51.825] [info]  val------security
+[2022-06-27 13:23:51.825] [info]  element not found
+[2022-06-27 13:23:51.825] [info]  22222222-------adminkey
+[2022-06-27 13:23:51.825] [info]  val------adminkey
+[2022-06-27 13:23:51.825] [info]  element not found
+[2022-06-27 13:23:51.826] [info]  22222222-------cla
+[2022-06-27 13:23:51.826] [info]  val------cla
+[2022-06-27 13:23:51.826] [info]  element not found
+[2022-06-27 13:23:51.826] [info]  22222222-------hamonize-admin
+[2022-06-27 13:23:51.826] [info]  val------hamonize-admin
+[2022-06-27 13:23:51.826] [info]  element not found
+[2022-06-27 13:23:51.826] [info]  22222222-------hamonize-agent
+[2022-06-27 13:23:51.826] [info]  val------hamonize-agent
+[2022-06-27 13:23:51.826] [info]  element not found
+[2022-06-27 13:23:51.827] [info]  22222222-------hamonize-apt
+[2022-06-27 13:23:51.827] [info]  val------hamonize-apt
+[2022-06-27 13:23:51.827] [info]  element not found
+[2022-06-27 13:23:51.827] [info]  22222222-------hamonize-center
+[2022-06-27 13:23:51.827] [info]  val------hamonize-center
+[2022-06-27 13:23:51.827] [info]  element not found
+[2022-06-27 13:23:51.827] [info]  22222222-------hamonize-connector
+[2022-06-27 13:23:51.827] [info]  val------hamonize-connector
+[2022-06-27 13:23:51.828] [info]  element not found
+[2022-06-27 13:23:51.828] [info]  22222222-------hamonize-noti-App
+[2022-06-27 13:23:51.828] [info]  val------hamonize-noti-app
+[2022-06-27 13:23:51.828] [info]  element not found
+[2022-06-27 13:23:51.828] [info]  22222222-------hamonize-vpn
+[2022-06-27 13:23:51.828] [info]  val------hamonize-vpn
+[2022-06-27 13:23:51.828] [info]  element not found
+[2022-06-27 13:23:51.828] [info]  22222222-------img
+[2022-06-27 13:23:51.828] [info]  val------img
+[2022-06-27 13:23:51.829] [info]  element not found
+[2022-06-27 13:23:57.813] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 13:23:57.820] [info]  ----------> 
+[2022-06-27 13:23:57.821] [info]  ----------> 
+[2022-06-27 13:23:57.821] [info]  ----------> 
+[2022-06-27 13:23:57.821] [info]  ----------> 
+[2022-06-27 13:23:57.822] [info]  ----------> 
+[2022-06-27 13:23:57.822] [info]  ----------> 
+[2022-06-27 13:23:57.822] [info]  ----------> CODE_OF_CONDUCT
+[2022-06-27 13:23:57.822] [info]  ----------> CONTRIBUTING
+[2022-06-27 13:23:57.823] [info]  ----------> LICENSE
+[2022-06-27 13:23:57.823] [info]  ----------> README
+[2022-06-27 13:23:57.823] [info]  ----------> SECURITY
+[2022-06-27 13:23:57.823] [info]  ----------> adminkey
+[2022-06-27 13:23:57.823] [info]  ----------> cla
+[2022-06-27 13:23:57.823] [info]  ----------> hamonize-admin
+[2022-06-27 13:23:57.824] [info]  ----------> hamonize-agent
+[2022-06-27 13:23:57.824] [info]  ----------> hamonize-apt
+[2022-06-27 13:23:57.824] [info]  ----------> hamonize-center
+[2022-06-27 13:23:57.824] [info]  ----------> hamonize-connector
+[2022-06-27 13:23:57.824] [info]  ----------> hamonize-noti-App
+[2022-06-27 13:23:57.824] [info]  ----------> hamonize-vpn
+[2022-06-27 13:23:57.825] [info]  ----------> img
+[2022-06-27 13:23:57.826] [info]  22222222-------
+[2022-06-27 13:23:57.826] [info]  val------
+[2022-06-27 13:23:57.826] [info]  element not found
+[2022-06-27 13:23:57.827] [info]  22222222-------
+[2022-06-27 13:23:57.827] [info]  val------
+[2022-06-27 13:23:57.827] [info]  element not found
+[2022-06-27 13:23:57.827] [info]  22222222-------
+[2022-06-27 13:23:57.827] [info]  val------
+[2022-06-27 13:23:57.827] [info]  element not found
+[2022-06-27 13:23:57.827] [info]  22222222-------
+[2022-06-27 13:23:57.828] [info]  val------
+[2022-06-27 13:23:57.828] [info]  element not found
+[2022-06-27 13:23:57.828] [info]  22222222-------
+[2022-06-27 13:23:57.828] [info]  val------
+[2022-06-27 13:23:57.828] [info]  element not found
+[2022-06-27 13:23:57.828] [info]  22222222-------
+[2022-06-27 13:23:57.829] [info]  val------
+[2022-06-27 13:23:57.829] [info]  element not found
+[2022-06-27 13:23:57.829] [info]  22222222-------CODE_OF_CONDUCT
+[2022-06-27 13:23:57.829] [info]  val------code_of_conduct
+[2022-06-27 13:23:57.829] [info]  element not found
+[2022-06-27 13:23:57.829] [info]  22222222-------CONTRIBUTING
+[2022-06-27 13:23:57.830] [info]  val------contributing
+[2022-06-27 13:23:57.830] [info]  element not found
+[2022-06-27 13:23:57.830] [info]  22222222-------LICENSE
+[2022-06-27 13:23:57.830] [info]  val------license
+[2022-06-27 13:23:57.830] [info]  element not found
+[2022-06-27 13:23:57.830] [info]  22222222-------README
+[2022-06-27 13:23:57.830] [info]  val------readme
+[2022-06-27 13:23:57.831] [info]  element not found
+[2022-06-27 13:23:57.831] [info]  22222222-------SECURITY
+[2022-06-27 13:23:57.831] [info]  val------security
+[2022-06-27 13:23:57.831] [info]  element not found
+[2022-06-27 13:23:57.831] [info]  22222222-------adminkey
+[2022-06-27 13:23:57.831] [info]  val------adminkey
+[2022-06-27 13:23:57.831] [info]  element not found
+[2022-06-27 13:23:57.831] [info]  22222222-------cla
+[2022-06-27 13:23:57.832] [info]  val------cla
+[2022-06-27 13:23:57.832] [info]  element not found
+[2022-06-27 13:23:57.832] [info]  22222222-------hamonize-admin
+[2022-06-27 13:23:57.832] [info]  val------hamonize-admin
+[2022-06-27 13:23:57.832] [info]  element not found
+[2022-06-27 13:23:57.832] [info]  22222222-------hamonize-agent
+[2022-06-27 13:23:57.832] [info]  val------hamonize-agent
+[2022-06-27 13:23:57.832] [info]  element not found
+[2022-06-27 13:23:57.833] [info]  22222222-------hamonize-apt
+[2022-06-27 13:23:57.833] [info]  val------hamonize-apt
+[2022-06-27 13:23:57.833] [info]  element not found
+[2022-06-27 13:23:57.833] [info]  22222222-------hamonize-center
+[2022-06-27 13:23:57.833] [info]  val------hamonize-center
+[2022-06-27 13:23:57.833] [info]  element not found
+[2022-06-27 13:23:57.833] [info]  22222222-------hamonize-connector
+[2022-06-27 13:23:57.833] [info]  val------hamonize-connector
+[2022-06-27 13:23:57.834] [info]  element not found
+[2022-06-27 13:23:57.834] [info]  22222222-------hamonize-noti-App
+[2022-06-27 13:23:57.834] [info]  val------hamonize-noti-app
+[2022-06-27 13:23:57.834] [info]  element not found
+[2022-06-27 13:23:57.834] [info]  22222222-------hamonize-vpn
+[2022-06-27 13:23:57.834] [info]  val------hamonize-vpn
+[2022-06-27 13:23:57.834] [info]  element not found
+[2022-06-27 13:23:57.834] [info]  22222222-------img
+[2022-06-27 13:23:57.834] [info]  val------img
+[2022-06-27 13:23:57.834] [info]  element not found
+[2022-06-27 13:24:31.565] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 13:24:31.574] [info]  ----------> 
+[2022-06-27 13:24:31.574] [info]  ----------> 
+[2022-06-27 13:24:31.574] [info]  ----------> 
+[2022-06-27 13:24:31.574] [info]  ----------> 
+[2022-06-27 13:24:31.574] [info]  ----------> 
+[2022-06-27 13:24:31.574] [info]  ----------> 
+[2022-06-27 13:24:31.575] [info]  ----------> CODE_OF_CONDUCT
+[2022-06-27 13:24:31.575] [info]  ----------> CONTRIBUTING
+[2022-06-27 13:24:31.575] [info]  ----------> LICENSE
+[2022-06-27 13:24:31.575] [info]  ----------> README
+[2022-06-27 13:24:31.575] [info]  ----------> SECURITY
+[2022-06-27 13:24:31.575] [info]  ----------> adminkey
+[2022-06-27 13:24:31.575] [info]  ----------> cla
+[2022-06-27 13:24:31.575] [info]  ----------> hamonize-admin
+[2022-06-27 13:24:31.575] [info]  ----------> hamonize-agent
+[2022-06-27 13:24:31.576] [info]  ----------> hamonize-apt
+[2022-06-27 13:24:31.576] [info]  ----------> hamonize-center
+[2022-06-27 13:24:31.576] [info]  ----------> hamonize-connector
+[2022-06-27 13:24:31.576] [info]  ----------> hamonize-noti-App
+[2022-06-27 13:24:31.576] [info]  ----------> hamonize-vpn
+[2022-06-27 13:24:31.576] [info]  ----------> img
+[2022-06-27 13:24:31.577] [info]  22222222--------------------1
+[2022-06-27 13:24:31.577] [info]  val------
+[2022-06-27 13:24:31.577] [info]  element not found
+[2022-06-27 13:24:31.577] [info]  22222222--------------------1
+[2022-06-27 13:24:31.577] [info]  val------
+[2022-06-27 13:24:31.577] [info]  element not found
+[2022-06-27 13:24:31.577] [info]  22222222--------------------1
+[2022-06-27 13:24:31.577] [info]  val------
+[2022-06-27 13:24:31.577] [info]  element not found
+[2022-06-27 13:24:31.578] [info]  22222222--------------------1
+[2022-06-27 13:24:31.578] [info]  val------
+[2022-06-27 13:24:31.578] [info]  element not found
+[2022-06-27 13:24:31.578] [info]  22222222--------------------1
+[2022-06-27 13:24:31.578] [info]  val------
+[2022-06-27 13:24:31.578] [info]  element not found
+[2022-06-27 13:24:31.578] [info]  22222222--------------------1
+[2022-06-27 13:24:31.578] [info]  val------
+[2022-06-27 13:24:31.578] [info]  element not found
+[2022-06-27 13:24:31.578] [info]  22222222-------CODE_OF_CONDUCT-------------1
+[2022-06-27 13:24:31.579] [info]  val------code_of_conduct
+[2022-06-27 13:24:31.579] [info]  element not found
+[2022-06-27 13:24:31.579] [info]  22222222-------CONTRIBUTING-------------1
+[2022-06-27 13:24:31.579] [info]  val------contributing
+[2022-06-27 13:24:31.579] [info]  element not found
+[2022-06-27 13:24:31.579] [info]  22222222-------LICENSE-------------1
+[2022-06-27 13:24:31.579] [info]  val------license
+[2022-06-27 13:24:31.579] [info]  element not found
+[2022-06-27 13:24:31.579] [info]  22222222-------README-------------1
+[2022-06-27 13:24:31.579] [info]  val------readme
+[2022-06-27 13:24:31.579] [info]  element not found
+[2022-06-27 13:24:31.580] [info]  22222222-------SECURITY-------------1
+[2022-06-27 13:24:31.580] [info]  val------security
+[2022-06-27 13:24:31.580] [info]  element not found
+[2022-06-27 13:24:31.580] [info]  22222222-------adminkey-------------1
+[2022-06-27 13:24:31.580] [info]  val------adminkey
+[2022-06-27 13:24:31.580] [info]  element not found
+[2022-06-27 13:24:31.580] [info]  22222222-------cla-------------1
+[2022-06-27 13:24:31.580] [info]  val------cla
+[2022-06-27 13:24:31.580] [info]  element not found
+[2022-06-27 13:24:31.580] [info]  22222222-------hamonize-admin-------------1
+[2022-06-27 13:24:31.580] [info]  val------hamonize-admin
+[2022-06-27 13:24:31.581] [info]  element not found
+[2022-06-27 13:24:31.581] [info]  22222222-------hamonize-agent-------------1
+[2022-06-27 13:24:31.581] [info]  val------hamonize-agent
+[2022-06-27 13:24:31.581] [info]  element not found
+[2022-06-27 13:24:31.581] [info]  22222222-------hamonize-apt-------------1
+[2022-06-27 13:24:31.581] [info]  val------hamonize-apt
+[2022-06-27 13:24:31.581] [info]  element not found
+[2022-06-27 13:24:31.581] [info]  22222222-------hamonize-center-------------1
+[2022-06-27 13:24:31.581] [info]  val------hamonize-center
+[2022-06-27 13:24:31.581] [info]  element not found
+[2022-06-27 13:24:31.581] [info]  22222222-------hamonize-connector-------------1
+[2022-06-27 13:24:31.582] [info]  val------hamonize-connector
+[2022-06-27 13:24:31.582] [info]  element not found
+[2022-06-27 13:24:31.582] [info]  22222222-------hamonize-noti-App-------------1
+[2022-06-27 13:24:31.582] [info]  val------hamonize-noti-app
+[2022-06-27 13:24:31.582] [info]  element not found
+[2022-06-27 13:24:31.582] [info]  22222222-------hamonize-vpn-------------1
+[2022-06-27 13:24:31.582] [info]  val------hamonize-vpn
+[2022-06-27 13:24:31.582] [info]  element not found
+[2022-06-27 13:24:31.582] [info]  22222222-------img-------------1
+[2022-06-27 13:24:31.582] [info]  val------img
+[2022-06-27 13:24:31.582] [info]  element not found
+[2022-06-27 13:24:56.476] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 13:24:56.731] [info]  ----------> 
+[2022-06-27 13:24:56.732] [info]  ----------> 
+[2022-06-27 13:24:56.732] [info]  ----------> 
+[2022-06-27 13:24:56.732] [info]  ----------> 
+[2022-06-27 13:24:56.732] [info]  ----------> 
+[2022-06-27 13:24:56.733] [info]  ----------> 
+[2022-06-27 13:24:56.733] [info]  ----------> CODE_OF_CONDUCT
+[2022-06-27 13:24:56.733] [info]  ----------> CONTRIBUTING
+[2022-06-27 13:24:56.733] [info]  ----------> LICENSE
+[2022-06-27 13:24:56.734] [info]  ----------> README
+[2022-06-27 13:24:56.734] [info]  ----------> SECURITY
+[2022-06-27 13:24:56.734] [info]  ----------> adminkey
+[2022-06-27 13:24:56.734] [info]  ----------> cla
+[2022-06-27 13:24:56.734] [info]  ----------> hamonize-admin
+[2022-06-27 13:24:56.735] [info]  ----------> hamonize-agent
+[2022-06-27 13:24:56.735] [info]  ----------> hamonize-apt
+[2022-06-27 13:24:56.735] [info]  ----------> hamonize-center
+[2022-06-27 13:24:56.735] [info]  ----------> hamonize-connector
+[2022-06-27 13:24:56.735] [info]  ----------> hamonize-noti-App
+[2022-06-27 13:24:56.735] [info]  ----------> hamonize-vpn
+[2022-06-27 13:24:56.736] [info]  ----------> img
+[2022-06-27 13:24:56.737] [info]  22222222-------------------=====-1
+[2022-06-27 13:24:56.737] [info]  val------
+[2022-06-27 13:24:56.737] [info]  element not found
+[2022-06-27 13:24:56.737] [info]  22222222-------------------=====-1
+[2022-06-27 13:24:56.738] [info]  val------
+[2022-06-27 13:24:56.738] [info]  element not found
+[2022-06-27 13:24:56.738] [info]  22222222-------------------=====-1
+[2022-06-27 13:24:56.738] [info]  val------
+[2022-06-27 13:24:56.738] [info]  element not found
+[2022-06-27 13:24:56.738] [info]  22222222-------------------=====-1
+[2022-06-27 13:24:56.739] [info]  val------
+[2022-06-27 13:24:56.739] [info]  element not found
+[2022-06-27 13:24:56.739] [info]  22222222-------------------=====-1
+[2022-06-27 13:24:56.739] [info]  val------
+[2022-06-27 13:24:56.739] [info]  element not found
+[2022-06-27 13:24:56.739] [info]  22222222-------------------=====-1
+[2022-06-27 13:24:56.739] [info]  val------
+[2022-06-27 13:24:56.740] [info]  element not found
+[2022-06-27 13:24:56.740] [info]  22222222-------CODE_OF_CONDUCT------------=====-1
+[2022-06-27 13:24:56.740] [info]  val------code_of_conduct
+[2022-06-27 13:24:56.740] [info]  element not found
+[2022-06-27 13:24:56.740] [info]  22222222-------CONTRIBUTING------------=====-1
+[2022-06-27 13:24:56.740] [info]  val------contributing
+[2022-06-27 13:24:56.740] [info]  element not found
+[2022-06-27 13:24:56.741] [info]  22222222-------LICENSE------------=====-1
+[2022-06-27 13:24:56.741] [info]  val------license
+[2022-06-27 13:24:56.741] [info]  element not found
+[2022-06-27 13:24:56.741] [info]  22222222-------README------------=====-1
+[2022-06-27 13:24:56.741] [info]  val------readme
+[2022-06-27 13:24:56.741] [info]  element not found
+[2022-06-27 13:24:56.742] [info]  22222222-------SECURITY------------=====-1
+[2022-06-27 13:24:56.742] [info]  val------security
+[2022-06-27 13:24:56.742] [info]  element not found
+[2022-06-27 13:24:56.742] [info]  22222222-------adminkey------------=====-1
+[2022-06-27 13:24:56.742] [info]  val------adminkey
+[2022-06-27 13:24:56.742] [info]  element not found
+[2022-06-27 13:24:56.742] [info]  22222222-------cla------------=====-1
+[2022-06-27 13:24:56.742] [info]  val------cla
+[2022-06-27 13:24:56.743] [info]  element not found
+[2022-06-27 13:24:56.743] [info]  22222222-------hamonize-admin------------=====-1
+[2022-06-27 13:24:56.743] [info]  val------hamonize-admin
+[2022-06-27 13:24:56.743] [info]  element not found
+[2022-06-27 13:24:56.743] [info]  22222222-------hamonize-agent------------=====-1
+[2022-06-27 13:24:56.743] [info]  val------hamonize-agent
+[2022-06-27 13:24:56.743] [info]  element not found
+[2022-06-27 13:24:56.743] [info]  22222222-------hamonize-apt------------=====-1
+[2022-06-27 13:24:56.743] [info]  val------hamonize-apt
+[2022-06-27 13:24:56.743] [info]  element not found
+[2022-06-27 13:24:56.744] [info]  22222222-------hamonize-center------------=====-1
+[2022-06-27 13:24:56.744] [info]  val------hamonize-center
+[2022-06-27 13:24:56.744] [info]  element not found
+[2022-06-27 13:24:56.744] [info]  22222222-------hamonize-connector------------=====-1
+[2022-06-27 13:24:56.744] [info]  val------hamonize-connector
+[2022-06-27 13:24:56.744] [info]  element not found
+[2022-06-27 13:24:56.744] [info]  22222222-------hamonize-noti-App------------=====-1
+[2022-06-27 13:24:56.744] [info]  val------hamonize-noti-app
+[2022-06-27 13:24:56.745] [info]  element not found
+[2022-06-27 13:24:56.745] [info]  22222222-------hamonize-vpn------------=====-1
+[2022-06-27 13:24:56.745] [info]  val------hamonize-vpn
+[2022-06-27 13:24:56.745] [info]  element not found
+[2022-06-27 13:24:56.745] [info]  22222222-------img------------=====-1
+[2022-06-27 13:24:56.745] [info]  val------img
+[2022-06-27 13:24:56.745] [info]  element not found
+[2022-06-27 13:25:30.092] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 13:25:30.099] [info]  ----------> 
+[2022-06-27 13:25:30.099] [info]  ----------> 
+[2022-06-27 13:25:30.100] [info]  ----------> 
+[2022-06-27 13:25:30.100] [info]  ----------> 
+[2022-06-27 13:25:30.100] [info]  ----------> 
+[2022-06-27 13:25:30.101] [info]  ----------> 
+[2022-06-27 13:25:30.101] [info]  ----------> CODE_OF_CONDUCT
+[2022-06-27 13:25:30.101] [info]  ----------> CONTRIBUTING
+[2022-06-27 13:25:30.101] [info]  ----------> LICENSE
+[2022-06-27 13:25:30.102] [info]  ----------> README
+[2022-06-27 13:25:30.102] [info]  ----------> SECURITY
+[2022-06-27 13:25:30.102] [info]  ----------> adminkey
+[2022-06-27 13:25:30.102] [info]  ----------> cla
+[2022-06-27 13:25:30.103] [info]  ----------> hamonize-admin
+[2022-06-27 13:25:30.103] [info]  ----------> hamonize-agent
+[2022-06-27 13:25:30.103] [info]  ----------> hamonize-apt
+[2022-06-27 13:25:30.103] [info]  ----------> hamonize-center
+[2022-06-27 13:25:30.103] [info]  ----------> hamonize-connector
+[2022-06-27 13:25:30.104] [info]  ----------> hamonize-noti-App
+[2022-06-27 13:25:30.104] [info]  ----------> hamonize-vpn
+[2022-06-27 13:25:30.104] [info]  ----------> img
+[2022-06-27 13:25:30.106] [info]  22222222-------------------=====-1
+[2022-06-27 13:25:30.106] [info]  val------
+[2022-06-27 13:25:30.106] [info]  element not found
+[2022-06-27 13:25:30.106] [info]  22222222-------------------=====-1
+[2022-06-27 13:25:30.106] [info]  val------
+[2022-06-27 13:25:30.106] [info]  element not found
+[2022-06-27 13:25:30.107] [info]  22222222-------------------=====-1
+[2022-06-27 13:25:30.107] [info]  val------
+[2022-06-27 13:25:30.107] [info]  element not found
+[2022-06-27 13:25:30.107] [info]  22222222-------------------=====-1
+[2022-06-27 13:25:30.107] [info]  val------
+[2022-06-27 13:25:30.107] [info]  element not found
+[2022-06-27 13:25:30.107] [info]  22222222-------------------=====-1
+[2022-06-27 13:25:30.107] [info]  val------
+[2022-06-27 13:25:30.107] [info]  element not found
+[2022-06-27 13:25:30.107] [info]  22222222-------------------=====-1
+[2022-06-27 13:25:30.107] [info]  val------
+[2022-06-27 13:25:30.108] [info]  element not found
+[2022-06-27 13:25:30.108] [info]  22222222-------CODE_OF_CONDUCT------------=====-1
+[2022-06-27 13:25:30.108] [info]  val------CODE_OF_CONDUCT
+[2022-06-27 13:25:30.108] [info]  element not found
+[2022-06-27 13:25:30.108] [info]  22222222-------CONTRIBUTING------------=====-1
+[2022-06-27 13:25:30.108] [info]  val------CONTRIBUTING
+[2022-06-27 13:25:30.108] [info]  element not found
+[2022-06-27 13:25:30.108] [info]  22222222-------LICENSE------------=====-1
+[2022-06-27 13:25:30.108] [info]  val------LICENSE
+[2022-06-27 13:25:30.108] [info]  element not found
+[2022-06-27 13:25:30.109] [info]  22222222-------README------------=====-1
+[2022-06-27 13:25:30.109] [info]  val------README
+[2022-06-27 13:25:30.109] [info]  element not found
+[2022-06-27 13:25:30.109] [info]  22222222-------SECURITY------------=====-1
+[2022-06-27 13:25:30.109] [info]  val------SECURITY
+[2022-06-27 13:25:30.109] [info]  element not found
+[2022-06-27 13:25:30.109] [info]  22222222-------adminkey------------=====-1
+[2022-06-27 13:25:30.109] [info]  val------ADMINKEY
+[2022-06-27 13:25:30.109] [info]  element not found
+[2022-06-27 13:25:30.109] [info]  22222222-------cla------------=====-1
+[2022-06-27 13:25:30.109] [info]  val------CLA
+[2022-06-27 13:25:30.110] [info]  element not found
+[2022-06-27 13:25:30.110] [info]  22222222-------hamonize-admin------------=====-1
+[2022-06-27 13:25:30.110] [info]  val------HAMONIZE-ADMIN
+[2022-06-27 13:25:30.110] [info]  element not found
+[2022-06-27 13:25:30.110] [info]  22222222-------hamonize-agent------------=====-1
+[2022-06-27 13:25:30.110] [info]  val------HAMONIZE-AGENT
+[2022-06-27 13:25:30.110] [info]  element not found
+[2022-06-27 13:25:30.110] [info]  22222222-------hamonize-apt------------=====-1
+[2022-06-27 13:25:30.110] [info]  val------HAMONIZE-APT
+[2022-06-27 13:25:30.110] [info]  element not found
+[2022-06-27 13:25:30.111] [info]  22222222-------hamonize-center------------=====-1
+[2022-06-27 13:25:30.111] [info]  val------HAMONIZE-CENTER
+[2022-06-27 13:25:30.111] [info]  element not found
+[2022-06-27 13:25:30.111] [info]  22222222-------hamonize-connector------------=====-1
+[2022-06-27 13:25:30.111] [info]  val------HAMONIZE-CONNECTOR
+[2022-06-27 13:25:30.111] [info]  element not found
+[2022-06-27 13:25:30.111] [info]  22222222-------hamonize-noti-App------------=====-1
+[2022-06-27 13:25:30.111] [info]  val------HAMONIZE-NOTI-APP
+[2022-06-27 13:25:30.111] [info]  element not found
+[2022-06-27 13:25:30.111] [info]  22222222-------hamonize-vpn------------=====-1
+[2022-06-27 13:25:30.112] [info]  val------HAMONIZE-VPN
+[2022-06-27 13:25:30.112] [info]  element not found
+[2022-06-27 13:25:30.112] [info]  22222222-------img------------=====-1
+[2022-06-27 13:25:30.112] [info]  val------IMG
+[2022-06-27 13:25:30.112] [info]  element not found
+[2022-06-27 13:25:53.131] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 13:25:53.139] [info]  ----------> 
+[2022-06-27 13:25:53.139] [info]  ----------> 
+[2022-06-27 13:25:53.139] [info]  ----------> 
+[2022-06-27 13:25:53.140] [info]  ----------> 
+[2022-06-27 13:25:53.140] [info]  ----------> 
+[2022-06-27 13:25:53.140] [info]  ----------> 
+[2022-06-27 13:25:53.140] [info]  ----------> CODE_OF_CONDUCT
+[2022-06-27 13:25:53.141] [info]  ----------> CONTRIBUTING
+[2022-06-27 13:25:53.141] [info]  ----------> LICENSE
+[2022-06-27 13:25:53.141] [info]  ----------> README
+[2022-06-27 13:25:53.141] [info]  ----------> SECURITY
+[2022-06-27 13:25:53.142] [info]  ----------> adminkey
+[2022-06-27 13:25:53.142] [info]  ----------> cla
+[2022-06-27 13:25:53.142] [info]  ----------> hamonize-admin
+[2022-06-27 13:25:53.142] [info]  ----------> hamonize-agent
+[2022-06-27 13:25:53.143] [info]  ----------> hamonize-apt
+[2022-06-27 13:25:53.143] [info]  ----------> hamonize-center
+[2022-06-27 13:25:53.143] [info]  ----------> hamonize-connector
+[2022-06-27 13:25:53.143] [info]  ----------> hamonize-noti-App
+[2022-06-27 13:25:53.143] [info]  ----------> hamonize-vpn
+[2022-06-27 13:25:53.143] [info]  ----------> img
+[2022-06-27 13:25:53.145] [info]  22222222-------------------=====-1
+[2022-06-27 13:25:53.145] [info]  val------
+[2022-06-27 13:25:53.145] [info]  element not found
+[2022-06-27 13:25:53.145] [info]  22222222-------------------=====-1
+[2022-06-27 13:25:53.145] [info]  val------
+[2022-06-27 13:25:53.146] [info]  element not found
+[2022-06-27 13:25:53.146] [info]  22222222-------------------=====-1
+[2022-06-27 13:25:53.146] [info]  val------
+[2022-06-27 13:25:53.146] [info]  element not found
+[2022-06-27 13:25:53.146] [info]  22222222-------------------=====-1
+[2022-06-27 13:25:53.146] [info]  val------
+[2022-06-27 13:25:53.147] [info]  element not found
+[2022-06-27 13:25:53.147] [info]  22222222-------------------=====-1
+[2022-06-27 13:25:53.147] [info]  val------
+[2022-06-27 13:25:53.147] [info]  element not found
+[2022-06-27 13:25:53.147] [info]  22222222-------------------=====-1
+[2022-06-27 13:25:53.147] [info]  val------
+[2022-06-27 13:25:53.148] [info]  element not found
+[2022-06-27 13:25:53.148] [info]  22222222-------CODE_OF_CONDUCT------------=====-1
+[2022-06-27 13:25:53.148] [info]  val------CODE_OF_CONDUCT
+[2022-06-27 13:25:53.148] [info]  element not found
+[2022-06-27 13:25:53.148] [info]  22222222-------CONTRIBUTING------------=====-1
+[2022-06-27 13:25:53.148] [info]  val------CONTRIBUTING
+[2022-06-27 13:25:53.149] [info]  element not found
+[2022-06-27 13:25:53.149] [info]  22222222-------LICENSE------------=====-1
+[2022-06-27 13:25:53.149] [info]  val------LICENSE
+[2022-06-27 13:25:53.149] [info]  element not found
+[2022-06-27 13:25:53.149] [info]  22222222-------README------------=====0
+[2022-06-27 13:25:53.150] [info]  val------README
+[2022-06-27 13:25:53.150] [info]  element not found
+[2022-06-27 13:25:53.150] [info]  22222222-------SECURITY------------=====-1
+[2022-06-27 13:25:53.150] [info]  val------SECURITY
+[2022-06-27 13:25:53.150] [info]  element not found
+[2022-06-27 13:25:53.150] [info]  22222222-------adminkey------------=====-1
+[2022-06-27 13:25:53.151] [info]  val------ADMINKEY
+[2022-06-27 13:25:53.151] [info]  element not found
+[2022-06-27 13:25:53.151] [info]  22222222-------cla------------=====-1
+[2022-06-27 13:25:53.151] [info]  val------CLA
+[2022-06-27 13:25:53.151] [info]  element not found
+[2022-06-27 13:25:53.152] [info]  22222222-------hamonize-admin------------=====-1
+[2022-06-27 13:25:53.152] [info]  val------HAMONIZE-ADMIN
+[2022-06-27 13:25:53.152] [info]  element not found
+[2022-06-27 13:25:53.152] [info]  22222222-------hamonize-agent------------=====-1
+[2022-06-27 13:25:53.152] [info]  val------HAMONIZE-AGENT
+[2022-06-27 13:25:53.152] [info]  element not found
+[2022-06-27 13:25:53.152] [info]  22222222-------hamonize-apt------------=====-1
+[2022-06-27 13:25:53.153] [info]  val------HAMONIZE-APT
+[2022-06-27 13:25:53.153] [info]  element not found
+[2022-06-27 13:25:53.153] [info]  22222222-------hamonize-center------------=====-1
+[2022-06-27 13:25:53.153] [info]  val------HAMONIZE-CENTER
+[2022-06-27 13:25:53.153] [info]  element not found
+[2022-06-27 13:25:53.153] [info]  22222222-------hamonize-connector------------=====-1
+[2022-06-27 13:25:53.154] [info]  val------HAMONIZE-CONNECTOR
+[2022-06-27 13:25:53.154] [info]  element not found
+[2022-06-27 13:25:53.154] [info]  22222222-------hamonize-noti-App------------=====-1
+[2022-06-27 13:25:53.154] [info]  val------HAMONIZE-NOTI-APP
+[2022-06-27 13:25:53.154] [info]  element not found
+[2022-06-27 13:25:53.154] [info]  22222222-------hamonize-vpn------------=====-1
+[2022-06-27 13:25:53.154] [info]  val------HAMONIZE-VPN
+[2022-06-27 13:25:53.155] [info]  element not found
+[2022-06-27 13:25:53.155] [info]  22222222-------img------------=====-1
+[2022-06-27 13:25:53.155] [info]  val------IMG
+[2022-06-27 13:25:53.155] [info]  element not found
+[2022-06-27 13:26:02.499] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 13:26:02.739] [info]  ----------> 
+[2022-06-27 13:26:02.739] [info]  ----------> 
+[2022-06-27 13:26:02.739] [info]  ----------> 
+[2022-06-27 13:26:02.740] [info]  ----------> 
+[2022-06-27 13:26:02.740] [info]  ----------> 
+[2022-06-27 13:26:02.740] [info]  ----------> 
+[2022-06-27 13:26:02.740] [info]  ----------> CODE_OF_CONDUCT
+[2022-06-27 13:26:02.741] [info]  ----------> CONTRIBUTING
+[2022-06-27 13:26:02.741] [info]  ----------> LICENSE
+[2022-06-27 13:26:02.741] [info]  ----------> README
+[2022-06-27 13:26:02.741] [info]  ----------> SECURITY
+[2022-06-27 13:26:02.742] [info]  ----------> adminkey
+[2022-06-27 13:26:02.742] [info]  ----------> cla
+[2022-06-27 13:26:02.742] [info]  ----------> hamonize-admin
+[2022-06-27 13:26:02.742] [info]  ----------> hamonize-agent
+[2022-06-27 13:26:02.742] [info]  ----------> hamonize-apt
+[2022-06-27 13:26:02.743] [info]  ----------> hamonize-center
+[2022-06-27 13:26:02.743] [info]  ----------> hamonize-connector
+[2022-06-27 13:26:02.743] [info]  ----------> hamonize-noti-App
+[2022-06-27 13:26:02.743] [info]  ----------> hamonize-vpn
+[2022-06-27 13:26:02.743] [info]  ----------> img
+[2022-06-27 13:26:02.745] [info]  22222222-------------------=====-1
+[2022-06-27 13:26:02.745] [info]  val------
+[2022-06-27 13:26:02.745] [info]  element not found
+[2022-06-27 13:26:02.746] [info]  22222222-------------------=====-1
+[2022-06-27 13:26:02.746] [info]  val------
+[2022-06-27 13:26:02.746] [info]  element not found
+[2022-06-27 13:26:02.746] [info]  22222222-------------------=====-1
+[2022-06-27 13:26:02.746] [info]  val------
+[2022-06-27 13:26:02.746] [info]  element not found
+[2022-06-27 13:26:02.747] [info]  22222222-------------------=====-1
+[2022-06-27 13:26:02.747] [info]  val------
+[2022-06-27 13:26:02.747] [info]  element not found
+[2022-06-27 13:26:02.747] [info]  22222222-------------------=====-1
+[2022-06-27 13:26:02.747] [info]  val------
+[2022-06-27 13:26:02.747] [info]  element not found
+[2022-06-27 13:26:02.747] [info]  22222222-------------------=====-1
+[2022-06-27 13:26:02.747] [info]  val------
+[2022-06-27 13:26:02.747] [info]  element not found
+[2022-06-27 13:26:02.747] [info]  22222222-------CODE_OF_CONDUCT------------=====-1
+[2022-06-27 13:26:02.747] [info]  val------CODE_OF_CONDUCT
+[2022-06-27 13:26:02.748] [info]  element not found
+[2022-06-27 13:26:02.748] [info]  22222222-------CONTRIBUTING------------=====-1
+[2022-06-27 13:26:02.748] [info]  val------CONTRIBUTING
+[2022-06-27 13:26:02.748] [info]  element not found
+[2022-06-27 13:26:02.748] [info]  22222222-------LICENSE------------=====-1
+[2022-06-27 13:26:02.748] [info]  val------LICENSE
+[2022-06-27 13:26:02.748] [info]  element not found
+[2022-06-27 13:26:02.748] [info]  22222222-------README------------=====0
+[2022-06-27 13:26:02.748] [info]  val------README
+[2022-06-27 13:26:02.748] [info]  READMEREADMEREADMEREADMEREADME
+[2022-06-27 13:26:02.748] [info]  22222222-------SECURITY------------=====-1
+[2022-06-27 13:26:02.748] [info]  val------SECURITY
+[2022-06-27 13:26:02.749] [info]  element not found
+[2022-06-27 13:26:02.749] [info]  22222222-------adminkey------------=====-1
+[2022-06-27 13:26:02.749] [info]  val------ADMINKEY
+[2022-06-27 13:26:02.749] [info]  element not found
+[2022-06-27 13:26:02.749] [info]  22222222-------cla------------=====-1
+[2022-06-27 13:26:02.749] [info]  val------CLA
+[2022-06-27 13:26:02.749] [info]  element not found
+[2022-06-27 13:26:02.749] [info]  22222222-------hamonize-admin------------=====-1
+[2022-06-27 13:26:02.749] [info]  val------HAMONIZE-ADMIN
+[2022-06-27 13:26:02.749] [info]  element not found
+[2022-06-27 13:26:02.749] [info]  22222222-------hamonize-agent------------=====-1
+[2022-06-27 13:26:02.749] [info]  val------HAMONIZE-AGENT
+[2022-06-27 13:26:02.750] [info]  element not found
+[2022-06-27 13:26:02.750] [info]  22222222-------hamonize-apt------------=====-1
+[2022-06-27 13:26:02.750] [info]  val------HAMONIZE-APT
+[2022-06-27 13:26:02.750] [info]  element not found
+[2022-06-27 13:26:02.750] [info]  22222222-------hamonize-center------------=====-1
+[2022-06-27 13:26:02.750] [info]  val------HAMONIZE-CENTER
+[2022-06-27 13:26:02.750] [info]  element not found
+[2022-06-27 13:26:02.750] [info]  22222222-------hamonize-connector------------=====-1
+[2022-06-27 13:26:02.750] [info]  val------HAMONIZE-CONNECTOR
+[2022-06-27 13:26:02.750] [info]  element not found
+[2022-06-27 13:26:02.750] [info]  22222222-------hamonize-noti-App------------=====-1
+[2022-06-27 13:26:02.750] [info]  val------HAMONIZE-NOTI-APP
+[2022-06-27 13:26:02.751] [info]  element not found
+[2022-06-27 13:26:02.751] [info]  22222222-------hamonize-vpn------------=====-1
+[2022-06-27 13:26:02.751] [info]  val------HAMONIZE-VPN
+[2022-06-27 13:26:02.751] [info]  element not found
+[2022-06-27 13:26:02.751] [info]  22222222-------img------------=====-1
+[2022-06-27 13:26:02.751] [info]  val------IMG
+[2022-06-27 13:26:02.751] [info]  element not found
+[2022-06-27 13:53:41.520] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 13:53:41.858] [info]  ----------> 
+[2022-06-27 13:53:41.859] [info]  ----------> 
+[2022-06-27 13:53:41.859] [info]  ----------> 
+[2022-06-27 13:53:41.859] [info]  ----------> 
+[2022-06-27 13:53:41.859] [info]  ----------> 
+[2022-06-27 13:53:41.860] [info]  ----------> 
+[2022-06-27 13:53:41.860] [info]  ----------> CODE_OF_CONDUCT
+[2022-06-27 13:53:41.860] [info]  ----------> CONTRIBUTING
+[2022-06-27 13:53:41.861] [info]  ----------> LICENSE
+[2022-06-27 13:53:41.861] [info]  ----------> README
+[2022-06-27 13:53:41.861] [info]  ----------> SECURITY
+[2022-06-27 13:53:41.862] [info]  ----------> adminkey
+[2022-06-27 13:53:41.862] [info]  ----------> cla
+[2022-06-27 13:53:41.862] [info]  ----------> hamonize-admin
+[2022-06-27 13:53:41.862] [info]  ----------> hamonize-agent
+[2022-06-27 13:53:41.863] [info]  ----------> hamonize-apt
+[2022-06-27 13:53:41.863] [info]  ----------> hamonize-center
+[2022-06-27 13:53:41.863] [info]  ----------> hamonize-connector
+[2022-06-27 13:53:41.863] [info]  ----------> hamonize-noti-App
+[2022-06-27 13:53:41.863] [info]  ----------> hamonize-vpn
+[2022-06-27 13:53:41.864] [info]  ----------> img
+[2022-06-27 13:53:41.865] [info]  file nm ==.all-contributorsrc,.gitignore,.gitmessage.txt,.gitmodules,.travis.yml,CODE_OF_CONDUCT.md,CONTRIBUTING.md,LICENSE.md,README.md,SECURITY.md
+[2022-06-27 13:53:41.865] [info]  dir nm ==.github,adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 13:53:41.865] [info]  22222222-------------------=====-1
+[2022-06-27 13:53:41.865] [info]  val------
+[2022-06-27 13:53:41.866] [info]  element not found
+[2022-06-27 13:53:41.866] [info]  22222222-------------------=====-1
+[2022-06-27 13:53:41.866] [info]  val------
+[2022-06-27 13:53:41.866] [info]  element not found
+[2022-06-27 13:53:41.866] [info]  22222222-------------------=====-1
+[2022-06-27 13:53:41.866] [info]  val------
+[2022-06-27 13:53:41.867] [info]  element not found
+[2022-06-27 13:53:41.867] [info]  22222222-------------------=====-1
+[2022-06-27 13:53:41.867] [info]  val------
+[2022-06-27 13:53:41.867] [info]  element not found
+[2022-06-27 13:53:41.867] [info]  22222222-------------------=====-1
+[2022-06-27 13:53:41.867] [info]  val------
+[2022-06-27 13:53:41.867] [info]  element not found
+[2022-06-27 13:53:41.867] [info]  22222222-------------------=====-1
+[2022-06-27 13:53:41.868] [info]  val------
+[2022-06-27 13:53:41.868] [info]  element not found
+[2022-06-27 13:53:41.868] [info]  22222222-------CODE_OF_CONDUCT------------=====-1
+[2022-06-27 13:53:41.868] [info]  val------CODE_OF_CONDUCT
+[2022-06-27 13:53:41.868] [info]  element not found
+[2022-06-27 13:53:41.868] [info]  22222222-------CONTRIBUTING------------=====-1
+[2022-06-27 13:53:41.868] [info]  val------CONTRIBUTING
+[2022-06-27 13:53:41.869] [info]  element not found
+[2022-06-27 13:53:41.869] [info]  22222222-------LICENSE------------=====-1
+[2022-06-27 13:53:41.869] [info]  val------LICENSE
+[2022-06-27 13:53:41.869] [info]  element not found
+[2022-06-27 13:53:41.869] [info]  22222222-------README------------=====0
+[2022-06-27 13:53:41.869] [info]  val------README
+[2022-06-27 13:53:41.869] [info]  READMEREADMEREADMEREADMEREADME
+[2022-06-27 13:53:41.869] [info]  22222222-------SECURITY------------=====-1
+[2022-06-27 13:53:41.869] [info]  val------SECURITY
+[2022-06-27 13:53:41.870] [info]  element not found
+[2022-06-27 13:53:41.870] [info]  22222222-------adminkey------------=====-1
+[2022-06-27 13:53:41.870] [info]  val------ADMINKEY
+[2022-06-27 13:53:41.870] [info]  element not found
+[2022-06-27 13:53:41.870] [info]  22222222-------cla------------=====-1
+[2022-06-27 13:53:41.870] [info]  val------CLA
+[2022-06-27 13:53:41.870] [info]  element not found
+[2022-06-27 13:53:41.870] [info]  22222222-------hamonize-admin------------=====-1
+[2022-06-27 13:53:41.870] [info]  val------HAMONIZE-ADMIN
+[2022-06-27 13:53:41.870] [info]  element not found
+[2022-06-27 13:53:41.871] [info]  22222222-------hamonize-agent------------=====-1
+[2022-06-27 13:53:41.871] [info]  val------HAMONIZE-AGENT
+[2022-06-27 13:53:41.871] [info]  element not found
+[2022-06-27 13:53:41.871] [info]  22222222-------hamonize-apt------------=====-1
+[2022-06-27 13:53:41.871] [info]  val------HAMONIZE-APT
+[2022-06-27 13:53:41.871] [info]  element not found
+[2022-06-27 13:53:41.871] [info]  22222222-------hamonize-center------------=====-1
+[2022-06-27 13:53:41.871] [info]  val------HAMONIZE-CENTER
+[2022-06-27 13:53:41.871] [info]  element not found
+[2022-06-27 13:53:41.871] [info]  22222222-------hamonize-connector------------=====-1
+[2022-06-27 13:53:41.871] [info]  val------HAMONIZE-CONNECTOR
+[2022-06-27 13:53:41.872] [info]  element not found
+[2022-06-27 13:53:41.872] [info]  22222222-------hamonize-noti-App------------=====-1
+[2022-06-27 13:53:41.872] [info]  val------HAMONIZE-NOTI-APP
+[2022-06-27 13:53:41.872] [info]  element not found
+[2022-06-27 13:53:41.872] [info]  22222222-------hamonize-vpn------------=====-1
+[2022-06-27 13:53:41.872] [info]  val------HAMONIZE-VPN
+[2022-06-27 13:53:41.872] [info]  element not found
+[2022-06-27 13:53:41.872] [info]  22222222-------img------------=====-1
+[2022-06-27 13:53:41.872] [info]  val------IMG
+[2022-06-27 13:53:41.872] [info]  element not found
+[2022-06-27 13:54:33.800] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 13:54:33.805] [info]  ----------> 
+[2022-06-27 13:54:33.805] [info]  ----------> 
+[2022-06-27 13:54:33.805] [info]  ----------> 
+[2022-06-27 13:54:33.806] [info]  ----------> 
+[2022-06-27 13:54:33.806] [info]  ----------> 
+[2022-06-27 13:54:33.806] [info]  ----------> 
+[2022-06-27 13:54:33.806] [info]  ----------> CODE_OF_CONDUCT
+[2022-06-27 13:54:33.806] [info]  ----------> CONTRIBUTING
+[2022-06-27 13:54:33.807] [info]  ----------> LICENSE
+[2022-06-27 13:54:33.807] [info]  ----------> README
+[2022-06-27 13:54:33.807] [info]  ----------> SECURITY
+[2022-06-27 13:54:33.807] [info]  ----------> adminkey
+[2022-06-27 13:54:33.807] [info]  ----------> cla
+[2022-06-27 13:54:33.808] [info]  ----------> hamonize-admin
+[2022-06-27 13:54:33.808] [info]  ----------> hamonize-agent
+[2022-06-27 13:54:33.808] [info]  ----------> hamonize-apt
+[2022-06-27 13:54:33.808] [info]  ----------> hamonize-center
+[2022-06-27 13:54:33.809] [info]  ----------> hamonize-connector
+[2022-06-27 13:54:33.809] [info]  ----------> hamonize-noti-App
+[2022-06-27 13:54:33.809] [info]  ----------> hamonize-vpn
+[2022-06-27 13:54:33.809] [info]  ----------> img
+[2022-06-27 13:54:33.811] [info]  file nm ==,,,,,CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 13:54:33.811] [info]  dir nm ==,adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 13:54:33.811] [info]  22222222-------------------=====-1
+[2022-06-27 13:54:33.811] [info]  val------
+[2022-06-27 13:54:33.811] [info]  element not found
+[2022-06-27 13:54:33.811] [info]  22222222-------------------=====-1
+[2022-06-27 13:54:33.812] [info]  val------
+[2022-06-27 13:54:33.812] [info]  element not found
+[2022-06-27 13:54:33.812] [info]  22222222-------------------=====-1
+[2022-06-27 13:54:33.812] [info]  val------
+[2022-06-27 13:54:33.812] [info]  element not found
+[2022-06-27 13:54:33.812] [info]  22222222-------------------=====-1
+[2022-06-27 13:54:33.813] [info]  val------
+[2022-06-27 13:54:33.813] [info]  element not found
+[2022-06-27 13:54:33.813] [info]  22222222-------------------=====-1
+[2022-06-27 13:54:33.813] [info]  val------
+[2022-06-27 13:54:33.813] [info]  element not found
+[2022-06-27 13:54:33.813] [info]  22222222-------------------=====-1
+[2022-06-27 13:54:33.814] [info]  val------
+[2022-06-27 13:54:33.814] [info]  element not found
+[2022-06-27 13:54:33.814] [info]  22222222-------CODE_OF_CONDUCT------------=====-1
+[2022-06-27 13:54:33.814] [info]  val------CODE_OF_CONDUCT
+[2022-06-27 13:54:33.814] [info]  element not found
+[2022-06-27 13:54:33.814] [info]  22222222-------CONTRIBUTING------------=====-1
+[2022-06-27 13:54:33.815] [info]  val------CONTRIBUTING
+[2022-06-27 13:54:33.815] [info]  element not found
+[2022-06-27 13:54:33.815] [info]  22222222-------LICENSE------------=====-1
+[2022-06-27 13:54:33.815] [info]  val------LICENSE
+[2022-06-27 13:54:33.815] [info]  element not found
+[2022-06-27 13:54:33.815] [info]  22222222-------README------------=====0
+[2022-06-27 13:54:33.815] [info]  val------README
+[2022-06-27 13:54:33.816] [info]  READMEREADMEREADMEREADMEREADME
+[2022-06-27 13:54:33.816] [info]  22222222-------SECURITY------------=====-1
+[2022-06-27 13:54:33.816] [info]  val------SECURITY
+[2022-06-27 13:54:33.816] [info]  element not found
+[2022-06-27 13:54:33.816] [info]  22222222-------adminkey------------=====-1
+[2022-06-27 13:54:33.817] [info]  val------ADMINKEY
+[2022-06-27 13:54:33.817] [info]  element not found
+[2022-06-27 13:54:33.817] [info]  22222222-------cla------------=====-1
+[2022-06-27 13:54:33.817] [info]  val------CLA
+[2022-06-27 13:54:33.817] [info]  element not found
+[2022-06-27 13:54:33.817] [info]  22222222-------hamonize-admin------------=====-1
+[2022-06-27 13:54:33.817] [info]  val------HAMONIZE-ADMIN
+[2022-06-27 13:54:33.818] [info]  element not found
+[2022-06-27 13:54:33.818] [info]  22222222-------hamonize-agent------------=====-1
+[2022-06-27 13:54:33.818] [info]  val------HAMONIZE-AGENT
+[2022-06-27 13:54:33.818] [info]  element not found
+[2022-06-27 13:54:33.818] [info]  22222222-------hamonize-apt------------=====-1
+[2022-06-27 13:54:33.818] [info]  val------HAMONIZE-APT
+[2022-06-27 13:54:33.819] [info]  element not found
+[2022-06-27 13:54:33.819] [info]  22222222-------hamonize-center------------=====-1
+[2022-06-27 13:54:33.819] [info]  val------HAMONIZE-CENTER
+[2022-06-27 13:54:33.819] [info]  element not found
+[2022-06-27 13:54:33.819] [info]  22222222-------hamonize-connector------------=====-1
+[2022-06-27 13:54:33.819] [info]  val------HAMONIZE-CONNECTOR
+[2022-06-27 13:54:33.820] [info]  element not found
+[2022-06-27 13:54:33.820] [info]  22222222-------hamonize-noti-App------------=====-1
+[2022-06-27 13:54:33.820] [info]  val------HAMONIZE-NOTI-APP
+[2022-06-27 13:54:33.820] [info]  element not found
+[2022-06-27 13:54:33.820] [info]  22222222-------hamonize-vpn------------=====-1
+[2022-06-27 13:54:33.820] [info]  val------HAMONIZE-VPN
+[2022-06-27 13:54:33.820] [info]  element not found
+[2022-06-27 13:54:33.821] [info]  22222222-------img------------=====-1
+[2022-06-27 13:54:33.821] [info]  val------IMG
+[2022-06-27 13:54:33.821] [info]  element not found
+[2022-06-27 13:55:15.110] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 13:55:15.359] [info]  ----------> 
+[2022-06-27 13:55:15.359] [info]  ----------> 
+[2022-06-27 13:55:15.360] [info]  ----------> 
+[2022-06-27 13:55:15.360] [info]  ----------> 
+[2022-06-27 13:55:15.360] [info]  ----------> 
+[2022-06-27 13:55:15.360] [info]  ----------> 
+[2022-06-27 13:55:15.361] [info]  ----------> CODE_OF_CONDUCT
+[2022-06-27 13:55:15.361] [info]  ----------> CONTRIBUTING
+[2022-06-27 13:55:15.361] [info]  ----------> LICENSE
+[2022-06-27 13:55:15.361] [info]  ----------> README
+[2022-06-27 13:55:15.361] [info]  ----------> SECURITY
+[2022-06-27 13:55:15.362] [info]  ----------> adminkey
+[2022-06-27 13:55:15.362] [info]  ----------> cla
+[2022-06-27 13:55:15.362] [info]  ----------> hamonize-admin
+[2022-06-27 13:55:15.362] [info]  ----------> hamonize-agent
+[2022-06-27 13:55:15.363] [info]  ----------> hamonize-apt
+[2022-06-27 13:55:15.363] [info]  ----------> hamonize-center
+[2022-06-27 13:55:15.363] [info]  ----------> hamonize-connector
+[2022-06-27 13:55:15.363] [info]  ----------> hamonize-noti-App
+[2022-06-27 13:55:15.363] [info]  ----------> hamonize-vpn
+[2022-06-27 13:55:15.363] [info]  ----------> img
+[2022-06-27 13:55:15.365] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 13:55:15.365] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 13:55:15.365] [info]  22222222-------------------=====-1
+[2022-06-27 13:55:15.366] [info]  val------
+[2022-06-27 13:55:15.366] [info]  element not found
+[2022-06-27 13:55:15.366] [info]  22222222-------------------=====-1
+[2022-06-27 13:55:15.366] [info]  val------
+[2022-06-27 13:55:15.366] [info]  element not found
+[2022-06-27 13:55:15.366] [info]  22222222-------------------=====-1
+[2022-06-27 13:55:15.366] [info]  val------
+[2022-06-27 13:55:15.367] [info]  element not found
+[2022-06-27 13:55:15.367] [info]  22222222-------------------=====-1
+[2022-06-27 13:55:15.367] [info]  val------
+[2022-06-27 13:55:15.367] [info]  element not found
+[2022-06-27 13:55:15.367] [info]  22222222-------------------=====-1
+[2022-06-27 13:55:15.367] [info]  val------
+[2022-06-27 13:55:15.367] [info]  element not found
+[2022-06-27 13:55:15.367] [info]  22222222-------------------=====-1
+[2022-06-27 13:55:15.367] [info]  val------
+[2022-06-27 13:55:15.367] [info]  element not found
+[2022-06-27 13:55:15.367] [info]  22222222-------CODE_OF_CONDUCT------------=====-1
+[2022-06-27 13:55:15.368] [info]  val------CODE_OF_CONDUCT
+[2022-06-27 13:55:15.368] [info]  element not found
+[2022-06-27 13:55:15.368] [info]  22222222-------CONTRIBUTING------------=====-1
+[2022-06-27 13:55:15.368] [info]  val------CONTRIBUTING
+[2022-06-27 13:55:15.368] [info]  element not found
+[2022-06-27 13:55:15.368] [info]  22222222-------LICENSE------------=====-1
+[2022-06-27 13:55:15.368] [info]  val------LICENSE
+[2022-06-27 13:55:15.368] [info]  element not found
+[2022-06-27 13:55:15.368] [info]  22222222-------README------------=====0
+[2022-06-27 13:55:15.368] [info]  val------README
+[2022-06-27 13:55:15.368] [info]  READMEREADMEREADMEREADMEREADME
+[2022-06-27 13:55:15.368] [info]  22222222-------SECURITY------------=====-1
+[2022-06-27 13:55:15.369] [info]  val------SECURITY
+[2022-06-27 13:55:15.369] [info]  element not found
+[2022-06-27 13:55:15.369] [info]  22222222-------adminkey------------=====-1
+[2022-06-27 13:55:15.369] [info]  val------ADMINKEY
+[2022-06-27 13:55:15.369] [info]  element not found
+[2022-06-27 13:55:15.369] [info]  22222222-------cla------------=====-1
+[2022-06-27 13:55:15.369] [info]  val------CLA
+[2022-06-27 13:55:15.369] [info]  element not found
+[2022-06-27 13:55:15.369] [info]  22222222-------hamonize-admin------------=====-1
+[2022-06-27 13:55:15.369] [info]  val------HAMONIZE-ADMIN
+[2022-06-27 13:55:15.369] [info]  element not found
+[2022-06-27 13:55:15.370] [info]  22222222-------hamonize-agent------------=====-1
+[2022-06-27 13:55:15.370] [info]  val------HAMONIZE-AGENT
+[2022-06-27 13:55:15.370] [info]  element not found
+[2022-06-27 13:55:15.370] [info]  22222222-------hamonize-apt------------=====-1
+[2022-06-27 13:55:15.370] [info]  val------HAMONIZE-APT
+[2022-06-27 13:55:15.370] [info]  element not found
+[2022-06-27 13:55:15.370] [info]  22222222-------hamonize-center------------=====-1
+[2022-06-27 13:55:15.370] [info]  val------HAMONIZE-CENTER
+[2022-06-27 13:55:15.370] [info]  element not found
+[2022-06-27 13:55:15.370] [info]  22222222-------hamonize-connector------------=====-1
+[2022-06-27 13:55:15.370] [info]  val------HAMONIZE-CONNECTOR
+[2022-06-27 13:55:15.371] [info]  element not found
+[2022-06-27 13:55:15.371] [info]  22222222-------hamonize-noti-App------------=====-1
+[2022-06-27 13:55:15.371] [info]  val------HAMONIZE-NOTI-APP
+[2022-06-27 13:55:15.371] [info]  element not found
+[2022-06-27 13:55:15.371] [info]  22222222-------hamonize-vpn------------=====-1
+[2022-06-27 13:55:15.371] [info]  val------HAMONIZE-VPN
+[2022-06-27 13:55:15.371] [info]  element not found
+[2022-06-27 13:55:15.371] [info]  22222222-------img------------=====-1
+[2022-06-27 13:55:15.371] [info]  val------IMG
+[2022-06-27 13:55:15.371] [info]  element not found
+[2022-06-27 13:56:53.564] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 13:56:53.810] [info]  ----------> 
+[2022-06-27 13:56:53.810] [info]  ----------> 
+[2022-06-27 13:56:53.811] [info]  ----------> 
+[2022-06-27 13:56:53.811] [info]  ----------> 
+[2022-06-27 13:56:53.811] [info]  ----------> 
+[2022-06-27 13:56:53.812] [info]  ----------> 
+[2022-06-27 13:56:53.812] [info]  ----------> CODE_OF_CONDUCT
+[2022-06-27 13:56:53.812] [info]  ----------> CONTRIBUTING
+[2022-06-27 13:56:53.812] [info]  ----------> LICENSE
+[2022-06-27 13:56:53.813] [info]  ----------> README
+[2022-06-27 13:56:53.813] [info]  ----------> SECURITY
+[2022-06-27 13:56:53.813] [info]  ----------> adminkey
+[2022-06-27 13:56:53.813] [info]  ----------> cla
+[2022-06-27 13:56:53.814] [info]  ----------> hamonize-admin
+[2022-06-27 13:56:53.814] [info]  ----------> hamonize-agent
+[2022-06-27 13:56:53.814] [info]  ----------> hamonize-apt
+[2022-06-27 13:56:53.814] [info]  ----------> hamonize-center
+[2022-06-27 13:56:53.814] [info]  ----------> hamonize-connector
+[2022-06-27 13:56:53.815] [info]  ----------> hamonize-noti-App
+[2022-06-27 13:56:53.815] [info]  ----------> hamonize-vpn
+[2022-06-27 13:56:53.815] [info]  ----------> img
+[2022-06-27 13:56:53.816] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 13:56:53.816] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 13:56:53.817] [info]  22222222-------CODE_OF_CONDUCT------------=====-1
+[2022-06-27 13:56:53.817] [info]  val------CODE_OF_CONDUCT
+[2022-06-27 13:56:53.817] [info]  element not found
+[2022-06-27 13:56:53.817] [info]  22222222-------CONTRIBUTING------------=====-1
+[2022-06-27 13:56:53.818] [info]  val------CONTRIBUTING
+[2022-06-27 13:56:53.818] [info]  element not found
+[2022-06-27 13:56:53.818] [info]  22222222-------LICENSE------------=====-1
+[2022-06-27 13:56:53.818] [info]  val------LICENSE
+[2022-06-27 13:56:53.818] [info]  element not found
+[2022-06-27 13:56:53.818] [info]  22222222-------README------------=====0
+[2022-06-27 13:56:53.819] [info]  val------README
+[2022-06-27 13:56:53.819] [info]  READMEREADMEREADMEREADMEREADME
+[2022-06-27 13:56:53.819] [info]  22222222-------SECURITY------------=====-1
+[2022-06-27 13:56:53.819] [info]  val------SECURITY
+[2022-06-27 13:56:53.819] [info]  element not found
+[2022-06-27 14:13:15.777] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 14:13:16.475] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:13:16.476] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 14:13:16.476] [info]  val------CODE_OF_CONDUCT
+[2022-06-27 14:13:16.477] [info]  element not found
+[2022-06-27 14:13:16.477] [info]  val------CONTRIBUTING
+[2022-06-27 14:13:16.477] [info]  element not found
+[2022-06-27 14:13:16.477] [info]  val------LICENSE
+[2022-06-27 14:13:16.478] [info]  element not found
+[2022-06-27 14:13:16.478] [info]  val------README
+[2022-06-27 14:13:16.478] [info]  READMEREADMEREADMEREADMEREADME
+[2022-06-27 14:13:16.478] [info]  val------SECURITY
+[2022-06-27 14:13:16.479] [info]  element not found
+[2022-06-27 14:15:09.918] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 14:15:10.151] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:15:10.152] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 14:15:10.152] [info]  val------CODE_OF_CONDUCT
+[2022-06-27 14:15:10.152] [info]  READMEREADMEREADMEREADMEREADME
+[2022-06-27 14:15:10.153] [info]  val------CONTRIBUTING
+[2022-06-27 14:15:10.153] [info]  READMEREADMEREADMEREADMEREADME
+[2022-06-27 14:15:10.153] [info]  val------LICENSE
+[2022-06-27 14:15:10.154] [info]  READMEREADMEREADMEREADMEREADME
+[2022-06-27 14:15:10.154] [info]  val------README
+[2022-06-27 14:15:10.154] [info]  element not found
+[2022-06-27 14:15:10.154] [info]  val------SECURITY
+[2022-06-27 14:15:10.155] [info]  READMEREADMEREADMEREADMEREADME
+[2022-06-27 14:17:47.219] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 14:17:47.463] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:17:47.463] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 14:17:47.463] [info]  val------CODE_OF_CONDUCT
+[2022-06-27 14:17:47.463] [info]  READMEREADMEREADMEREADMEREADME
+[2022-06-27 14:17:47.464] [info]  val------CONTRIBUTING
+[2022-06-27 14:17:47.464] [info]  READMEREADMEREADMEREADMEREADME
+[2022-06-27 14:17:47.464] [info]  val------LICENSE
+[2022-06-27 14:17:47.464] [info]  READMEREADMEREADMEREADMEREADME
+[2022-06-27 14:17:47.464] [info]  val------README
+[2022-06-27 14:17:47.464] [info]  LICENSELICENSELICENSELICENSELICENSELICENSELICENSELICENSE
+[2022-06-27 14:17:47.464] [info]  val------SECURITY
+[2022-06-27 14:17:47.464] [info]  READMEREADMEREADMEREADMEREADME
+[2022-06-27 14:18:32.562] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 14:18:32.570] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:18:32.570] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 14:18:32.570] [info]  val------CODE_OF_CONDUCT
+[2022-06-27 14:18:32.571] [info]  READMEREADMEREADMEREADMEREADME
+[2022-06-27 14:18:32.571] [info]  val------CONTRIBUTING
+[2022-06-27 14:18:32.571] [info]  READMEREADMEREADMEREADMEREADME
+[2022-06-27 14:18:32.571] [info]  val------LICENSE
+[2022-06-27 14:18:32.571] [info]  READMEREADMEREADMEREADMEREADME
+[2022-06-27 14:18:32.572] [info]  val------README
+[2022-06-27 14:18:32.572] [info]  LICENSELICENSELICENSELICENSELICENSELICENSELICENSELICENSE
+[2022-06-27 14:18:32.572] [info]  val------SECURITY
+[2022-06-27 14:18:32.572] [info]  READMEREADMEREADMEREADMEREADME
+[2022-06-27 14:21:23.327] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 14:21:23.670] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:21:23.671] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 14:21:23.671] [info]  words============two,three,four
+[2022-06-27 14:21:31.686] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 14:21:31.690] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:21:31.691] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 14:21:31.691] [info]  words============CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:25:00.370] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 14:25:00.614] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:25:00.614] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 14:25:00.614] [info]  words============CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:26:59.992] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 14:27:00.219] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:27:00.220] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 14:27:00.220] [info]  words============CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,SECURITY
+[2022-06-27 14:27:37.655] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 14:27:37.660] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:27:37.660] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 14:27:37.660] [info]  words============CODE_OF_CONDUCT,CONTRIBUTING,README,SECURITY
+[2022-06-27 14:27:52.959] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 14:27:52.962] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:27:52.963] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 14:27:52.963] [info]  words============CODE_OF_CONDUCT,CONTRIBUTING,README,SECURITY
+[2022-06-27 14:28:00.687] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 14:28:00.930] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:28:00.930] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 14:28:00.931] [info]  words============CODE_OF_CONDUCT,CONTRIBUTING,SECURITY
+[2022-06-27 14:28:09.823] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 14:28:09.827] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:28:09.828] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 14:28:09.828] [info]  words============CODE_OF_CONDUCT,CONTRIBUTING,README,SECURITY
+[2022-06-27 14:30:37.436] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 14:30:37.729] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:30:37.729] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 14:30:37.730] [info]  CODE_OF_CONDUCT---0
+[2022-06-27 14:30:37.730] [info]  CONTRIBUTING---1
+[2022-06-27 14:30:37.730] [info]  LICENSE---2
+[2022-06-27 14:30:37.730] [info]  words============CODE_OF_CONDUCT,CONTRIBUTING,SECURITY
+[2022-06-27 14:32:03.634] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 14:32:03.866] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:32:03.866] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 14:32:03.866] [info]  CODE_OF_CONDUCT---0
+[2022-06-27 14:32:03.867] [info]  CONTRIBUTING---1
+[2022-06-27 14:32:03.867] [info]  LICENSE---2
+[2022-06-27 14:32:03.867] [info]  SECURITY---3
+[2022-06-27 14:32:03.868] [info]  words============CODE_OF_CONDUCT,CONTRIBUTING,README,SECURITY
+[2022-06-27 14:32:21.226] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 14:32:21.231] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:32:21.232] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 14:32:21.232] [info]  CODE_OF_CONDUCT---0
+[2022-06-27 14:32:21.232] [info]  CONTRIBUTING---1
+[2022-06-27 14:32:21.233] [info]  LICENSE---2
+[2022-06-27 14:32:21.233] [info]  words============CODE_OF_CONDUCT,CONTRIBUTING,SECURITY
+[2022-06-27 14:35:42.774] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 14:35:43.016] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:35:43.016] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 14:35:43.017] [info]  CODE_OF_CONDUCT---0
+[2022-06-27 14:35:43.017] [info]  CONTRIBUTING---1
+[2022-06-27 14:35:43.017] [info]  LICENSE---2
+[2022-06-27 14:35:43.017] [info]  SECURITY---3
+[2022-06-27 14:35:43.018] [info]  words============CODE_OF_CONDUCT,CONTRIBUTING,README,SECURITY
+[2022-06-27 14:36:10.534] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 14:36:10.538] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:36:10.538] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 14:36:10.539] [info]  CODE_OF_CONDUCT---0
+[2022-06-27 14:36:10.539] [info]  CODE_OF_CONDUCT---0
+[2022-06-27 14:36:10.539] [info]  CONTRIBUTING---1
+[2022-06-27 14:36:10.539] [info]  CONTRIBUTING---1
+[2022-06-27 14:36:10.539] [info]  LICENSE---2
+[2022-06-27 14:36:10.540] [info]  LICENSE---2
+[2022-06-27 14:36:10.540] [info]  SECURITY---3
+[2022-06-27 14:36:10.540] [info]  SECURITY---3
+[2022-06-27 14:36:10.540] [info]  words============CODE_OF_CONDUCT,CONTRIBUTING,README,SECURITY
+[2022-06-27 14:36:31.125] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 14:36:31.129] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:36:31.129] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 14:36:31.129] [info]  CODE_OF_CONDUCT---0
+[2022-06-27 14:36:31.130] [info]  CONTRIBUTING---1
+[2022-06-27 14:36:31.130] [info]  LICENSE---2
+[2022-06-27 14:36:31.130] [info]  SECURITY---3
+[2022-06-27 14:36:31.130] [info]  words============CODE_OF_CONDUCT,CONTRIBUTING,README,SECURITY
+[2022-06-27 14:38:37.139] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 14:38:37.440] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:38:37.441] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 14:38:37.441] [info]  CODE_OF_CONDUCT---0
+[2022-06-27 14:38:37.441] [info]  CONTRIBUTING---1
+[2022-06-27 14:38:37.442] [info]  LICENSE---2
+[2022-06-27 14:38:37.442] [info]  SECURITY---3
+[2022-06-27 14:38:37.442] [info]  words============CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:45:52.817] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 14:45:53.125] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:45:53.126] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 14:45:53.126] [info]  words============CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:46:00.833] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 14:46:00.837] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:46:00.837] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 14:46:00.837] [info]  words============CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY,README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-27 14:46:07.361] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 14:46:07.367] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:46:07.367] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 14:46:07.368] [info]  words============CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY,README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-27 14:46:52.793] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 14:46:52.800] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:46:52.801] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 14:46:52.801] [info]  words============CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:47:30.945] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 14:47:31.205] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:47:31.205] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 14:47:31.205] [info]  words============false
+[2022-06-27 14:47:56.897] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 14:47:56.902] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:47:56.902] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 14:47:56.903] [info]  words============CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:48:32.438] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 14:48:32.685] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:48:32.686] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 14:48:32.686] [info]  chkFileBaseNm======README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-27 14:48:32.686] [info]  ArrayFileName========CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:48:32.687] [info]  words============CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:49:36.842] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 14:49:37.092] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:49:37.093] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 14:49:37.093] [info]  chkFileBaseNm======README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-27 14:49:37.093] [info]  ArrayFileName========CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:49:37.094] [info]  words============CODE_OF_CONDUCT
+[2022-06-27 14:50:04.818] [info]  Input License Number is :: https://github.com/gon1942/opensource.git , Length() is :: 41
+[2022-06-27 14:50:19.988] [info]  Input License Number is :: https://github.com/gon1942/opensource , Length() is :: 37
+[2022-06-27 14:50:20.243] [info]  file nm ==1,About_Travis_CI,Abuot_CLA,README,깃 관리는,깃헙용어정리,오픈소스_관리항목,오픈소스_컴플라이언스,컨트리뷰션 하는 방법,형상관리
+[2022-06-27 14:50:20.244] [info]  dir nm ==template
+[2022-06-27 14:50:20.244] [info]  chkFileBaseNm======README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-27 14:50:20.244] [info]  ArrayFileName========1,About_Travis_CI,Abuot_CLA,README,깃 관리는,깃헙용어정리,오픈소스_관리항목,오픈소스_컴플라이언스,컨트리뷰션 하는 방법,형상관리
+[2022-06-27 14:50:20.245] [info]  words============1,About_Travis_CI,Abuot_CLA,깃 관리는,깃헙용어정리,오픈소스_관리항목,오픈소스_컴플라이언스,컨트리뷰션 하는 방법,형상관리
+[2022-06-27 14:51:23.850] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 14:51:24.097] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:51:24.098] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 14:51:24.098] [info]  chkFileBaseNm======README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-27 14:51:24.099] [info]  ArrayFileName========CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:51:24.099] [info]  22============CODE_OF_CONDUCT
+[2022-06-27 14:52:49.746] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 14:52:49.992] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:52:49.992] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 14:52:49.993] [info]  chkFileBaseNm======README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-27 14:52:49.993] [info]  ArrayFileName========CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:52:49.993] [info]  22============CODE_OF_CONDUCT
+[2022-06-27 14:56:11.457] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 14:56:11.699] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:56:11.699] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 14:56:11.699] [info]  chkFileBaseNm======README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-27 14:56:11.699] [info]  ArrayFileName========CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:56:24.521] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 14:56:24.526] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:56:24.526] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 14:56:24.526] [info]  chkFileBaseNm======README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-27 14:56:24.526] [info]  ArrayFileName========CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:56:37.265] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 14:56:37.269] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:56:37.270] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 14:56:37.270] [info]  chkFileBaseNm======README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-27 14:56:37.270] [info]  ArrayFileName========CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:56:37.270] [info]  difference---CODE_OF_CONDUCT
+[2022-06-27 14:56:50.873] [info]  Input License Number is :: https://github.com/gon1942/opensource , Length() is :: 37
+[2022-06-27 14:56:51.116] [info]  file nm ==1,About_Travis_CI,Abuot_CLA,README,깃 관리는,깃헙용어정리,오픈소스_관리항목,오픈소스_컴플라이언스,컨트리뷰션 하는 방법,형상관리
+[2022-06-27 14:56:51.117] [info]  dir nm ==template
+[2022-06-27 14:56:51.118] [info]  chkFileBaseNm======README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-27 14:56:51.118] [info]  ArrayFileName========1,About_Travis_CI,Abuot_CLA,README,깃 관리는,깃헙용어정리,오픈소스_관리항목,오픈소스_컴플라이언스,컨트리뷰션 하는 방법,형상관리
+[2022-06-27 14:56:51.118] [info]  difference---1,About_Travis_CI,Abuot_CLA,깃 관리는,깃헙용어정리,오픈소스_관리항목,오픈소스_컴플라이언스,컨트리뷰션 하는 방법,형상관리
+[2022-06-27 14:57:14.473] [info]  Input License Number is :: https://github.com/gon1942/opensource , Length() is :: 37
+[2022-06-27 14:57:14.477] [info]  file nm ==1,About_Travis_CI,Abuot_CLA,README,깃 관리는,깃헙용어정리,오픈소스_관리항목,오픈소스_컴플라이언스,컨트리뷰션 하는 방법,형상관리
+[2022-06-27 14:57:14.478] [info]  dir nm ==template
+[2022-06-27 14:57:14.478] [info]  chkFileBaseNm======README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-27 14:57:14.478] [info]  ArrayFileName========1,About_Travis_CI,Abuot_CLA,README,깃 관리는,깃헙용어정리,오픈소스_관리항목,오픈소스_컴플라이언스,컨트리뷰션 하는 방법,형상관리
+[2022-06-27 14:57:14.478] [info]  difference---LICENSE,SECURITY,CONTRIBUTING
+[2022-06-27 14:57:24.121] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 14:57:24.364] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:57:24.364] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 14:57:24.364] [info]  chkFileBaseNm======README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-27 14:57:24.365] [info]  ArrayFileName========CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 14:57:24.365] [info]  difference---
+[2022-06-27 14:57:41.144] [info]  Input License Number is :: https://github.com/gon1942/opensource.git , Length() is :: 41
+[2022-06-27 15:00:45.743] [info]  Input License Number is :: https://github.com/hamonikr/hamonize.git , Length() is :: 40
+[2022-06-27 15:02:06.446] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 15:02:06.693] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 15:02:06.694] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 15:02:06.694] [info]  chkFileBaseNm======README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-27 15:02:06.694] [info]  ArrayFileName========CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 15:02:06.695] [info]  difference---
+[2022-06-27 15:02:13.758] [info]  Input License Number is :: https://github.com/hamonikr/hamonize.git , Length() is :: 40
+[2022-06-27 15:10:44.209] [info]  Input License Number is :: https://github.com/hamonikr/hamonize.git , Length() is :: 40
+[2022-06-27 15:10:58.809] [info]  Input License Number is :: https://github.com/hamonikr/hamonize.git , Length() is :: 40
+[2022-06-27 15:10:59.041] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 15:10:59.042] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 15:10:59.042] [info]  chkFileBaseNm======README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-27 15:10:59.042] [info]  ArrayFileName========CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 15:10:59.042] [info]  difference---
+[2022-06-27 15:11:07.353] [info]  Input License Number is :: https://github.com/gon1942/opensource.git , Length() is :: 41
+[2022-06-27 15:11:07.608] [info]  file nm ==1,About_Travis_CI,Abuot_CLA,README,깃 관리는,깃헙용어정리,오픈소스_관리항목,오픈소스_컴플라이언스,컨트리뷰션 하는 방법,형상관리
+[2022-06-27 15:11:07.609] [info]  dir nm ==template
+[2022-06-27 15:11:07.609] [info]  chkFileBaseNm======README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-27 15:11:07.609] [info]  ArrayFileName========1,About_Travis_CI,Abuot_CLA,README,깃 관리는,깃헙용어정리,오픈소스_관리항목,오픈소스_컴플라이언스,컨트리뷰션 하는 방법,형상관리
+[2022-06-27 15:11:07.610] [info]  difference---LICENSE,SECURITY,CONTRIBUTING
+[2022-06-27 15:11:14.121] [info]  Input License Number is :: https://github.com/gon1942/opensource , Length() is :: 37
+[2022-06-27 15:11:14.131] [info]  file nm ==1,About_Travis_CI,Abuot_CLA,README,깃 관리는,깃헙용어정리,오픈소스_관리항목,오픈소스_컴플라이언스,컨트리뷰션 하는 방법,형상관리
+[2022-06-27 15:11:14.131] [info]  dir nm ==template
+[2022-06-27 15:11:14.131] [info]  chkFileBaseNm======README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-27 15:11:14.132] [info]  ArrayFileName========1,About_Travis_CI,Abuot_CLA,README,깃 관리는,깃헙용어정리,오픈소스_관리항목,오픈소스_컴플라이언스,컨트리뷰션 하는 방법,형상관리
+[2022-06-27 15:11:14.132] [info]  difference---LICENSE,SECURITY,CONTRIBUTING
+[2022-06-27 15:11:32.280] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-27 15:11:32.291] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 15:11:32.291] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 15:11:32.291] [info]  chkFileBaseNm======README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-27 15:11:32.291] [info]  ArrayFileName========CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 15:11:32.291] [info]  difference---
+[2022-06-27 15:11:35.480] [info]  Input License Number is :: https://github.com/gon1942/opensource.git , Length() is :: 41
+[2022-06-27 15:11:35.485] [info]  file nm ==1,About_Travis_CI,Abuot_CLA,README,깃 관리는,깃헙용어정리,오픈소스_관리항목,오픈소스_컴플라이언스,컨트리뷰션 하는 방법,형상관리
+[2022-06-27 15:11:35.486] [info]  dir nm ==template
+[2022-06-27 15:11:35.486] [info]  chkFileBaseNm======README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-27 15:11:35.486] [info]  ArrayFileName========1,About_Travis_CI,Abuot_CLA,README,깃 관리는,깃헙용어정리,오픈소스_관리항목,오픈소스_컴플라이언스,컨트리뷰션 하는 방법,형상관리
+[2022-06-27 15:11:35.486] [info]  difference---LICENSE,SECURITY,CONTRIBUTING
+[2022-06-27 15:11:43.520] [info]  Input License Number is :: https://github.com/hamonikr/hamonize.git , Length() is :: 40
+[2022-06-27 15:11:43.524] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 15:11:43.525] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-27 15:11:43.525] [info]  chkFileBaseNm======README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-27 15:11:43.525] [info]  ArrayFileName========CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-27 15:11:43.526] [info]  difference---
+[2022-06-27 15:12:13.056] [info]  Input License Number is :: https://github.com/gon1942/opensource.git , Length() is :: 41
+[2022-06-27 15:12:13.292] [info]  file nm ==1,About_Travis_CI,Abuot_CLA,README,깃 관리는,깃헙용어정리,오픈소스_관리항목,오픈소스_컴플라이언스,컨트리뷰션 하는 방법,형상관리
+[2022-06-27 15:12:13.292] [info]  dir nm ==template
+[2022-06-27 15:12:13.293] [info]  chkFileBaseNm======README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-27 15:12:13.293] [info]  ArrayFileName========1,About_Travis_CI,Abuot_CLA,README,깃 관리는,깃헙용어정리,오픈소스_관리항목,오픈소스_컴플라이언스,컨트리뷰션 하는 방법,형상관리
+[2022-06-27 15:12:13.293] [info]  difference---LICENSE,SECURITY,CONTRIBUTING
+[2022-06-28 11:03:57.883] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 11:03:58.201] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-28 11:03:58.202] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-28 11:03:58.202] [info]  chkFileBaseNm======README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-28 11:03:58.203] [info]  ArrayFileName========CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-28 11:03:58.203] [info]  difference---
+[2022-06-28 14:58:11.299] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 14:58:51.259] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 14:59:06.186] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 14:59:40.570] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:00:08.169] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:00:48.474] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:00:48.475] [info]  https://github.com/hamonikr/hamonize
+[2022-06-28 15:01:01.816] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:01:01.817] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:02:08.919] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:02:08.920] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:02:09.171] [info]  License Check Step 1-2 ] - License Check Result is :: [{"name":".all-contributorsrc","path":".all-contributorsrc","sha":"352229979c5a12bda82047064f1c917e6fc4ba0b","size":2153,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/.all-contributorsrc?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/.all-contributorsrc","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/352229979c5a12bda82047064f1c917e6fc4ba0b","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/.all-contributorsrc","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/.all-contributorsrc?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/352229979c5a12bda82047064f1c917e6fc4ba0b","html":"https://github.com/hamonikr/hamonize/blob/master/.all-contributorsrc"}},{"name":".github","path":".github","sha":"83c050b6000003e8f861a063b0fde1c95a1468ef","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/.github?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/.github","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/83c050b6000003e8f861a063b0fde1c95a1468ef","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/.github?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/83c050b6000003e8f861a063b0fde1c95a1468ef","html":"https://github.com/hamonikr/hamonize/tree/master/.github"}},{"name":".gitignore","path":".gitignore","sha":"3d203fcddc9a3502b2b418a02b0ae83e389374b1","size":405,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/.gitignore?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/.gitignore","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/3d203fcddc9a3502b2b418a02b0ae83e389374b1","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/.gitignore","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/.gitignore?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/3d203fcddc9a3502b2b418a02b0ae83e389374b1","html":"https://github.com/hamonikr/hamonize/blob/master/.gitignore"}},{"name":".gitmessage.txt","path":".gitmessage.txt","sha":"2c8d88ce1c68495e2de55c248256edb5cc64a173","size":1298,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/.gitmessage.txt?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/.gitmessage.txt","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/2c8d88ce1c68495e2de55c248256edb5cc64a173","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/.gitmessage.txt","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/.gitmessage.txt?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/2c8d88ce1c68495e2de55c248256edb5cc64a173","html":"https://github.com/hamonikr/hamonize/blob/master/.gitmessage.txt"}},{"name":".gitmodules","path":".gitmodules","sha":"7479f740dfe1a5dec746f319a72da1e60f8b7356","size":1005,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/.gitmodules?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/.gitmodules","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/7479f740dfe1a5dec746f319a72da1e60f8b7356","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/.gitmodules","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/.gitmodules?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/7479f740dfe1a5dec746f319a72da1e60f8b7356","html":"https://github.com/hamonikr/hamonize/blob/master/.gitmodules"}},{"name":".travis.yml","path":".travis.yml","sha":"137b2c199c285491bc926db37506389deb4fce68","size":1442,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/.travis.yml?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/.travis.yml","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/137b2c199c285491bc926db37506389deb4fce68","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/.travis.yml","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/.travis.yml?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/137b2c199c285491bc926db37506389deb4fce68","html":"https://github.com/hamonikr/hamonize/blob/master/.travis.yml"}},{"name":"CODE_OF_CONDUCT.md","path":"CODE_OF_CONDUCT.md","sha":"97ef922c4fd4787d984e173067ee12c2066db538","size":6358,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/CODE_OF_CONDUCT.md?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/CODE_OF_CONDUCT.md","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/97ef922c4fd4787d984e173067ee12c2066db538","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/CODE_OF_CONDUCT.md","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/CODE_OF_CONDUCT.md?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/97ef922c4fd4787d984e173067ee12c2066db538","html":"https://github.com/hamonikr/hamonize/blob/master/CODE_OF_CONDUCT.md"}},{"name":"CONTRIBUTING.md","path":"CONTRIBUTING.md","sha":"e242162c1dcc6fc90261de0620ba32664aa0400c","size":4086,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/CONTRIBUTING.md?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/CONTRIBUTING.md","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/e242162c1dcc6fc90261de0620ba32664aa0400c","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/CONTRIBUTING.md","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/CONTRIBUTING.md?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/e242162c1dcc6fc90261de0620ba32664aa0400c","html":"https://github.com/hamonikr/hamonize/blob/master/CONTRIBUTING.md"}},{"name":"LICENSE.md","path":"LICENSE.md","sha":"afb0b6f9d756c59ed9e514229673502c55248b4f","size":1549,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/LICENSE.md?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/LICENSE.md","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/afb0b6f9d756c59ed9e514229673502c55248b4f","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/LICENSE.md","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/LICENSE.md?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/afb0b6f9d756c59ed9e514229673502c55248b4f","html":"https://github.com/hamonikr/hamonize/blob/master/LICENSE.md"}},{"name":"README.md","path":"README.md","sha":"0b7522d197ce147adefc33505674528d9580ed4a","size":20892,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/README.md?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/README.md","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/0b7522d197ce147adefc33505674528d9580ed4a","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/README.md","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/README.md?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/0b7522d197ce147adefc33505674528d9580ed4a","html":"https://github.com/hamonikr/hamonize/blob/master/README.md"}},{"name":"SECURITY.md","path":"SECURITY.md","sha":"83c9372ba423627cd470a4fa157a6ab562a90007","size":483,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/SECURITY.md?ref=master","html_url":"https://github.com/hamonikr/hamonize/blob/master/SECURITY.md","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/83c9372ba423627cd470a4fa157a6ab562a90007","download_url":"https://raw.githubusercontent.com/hamonikr/hamonize/master/SECURITY.md","type":"file","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/SECURITY.md?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/blobs/83c9372ba423627cd470a4fa157a6ab562a90007","html":"https://github.com/hamonikr/hamonize/blob/master/SECURITY.md"}},{"name":"adminkey","path":"adminkey","sha":"b978346d2f7cb7f5c29602e4f72b2660f4da8461","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/adminkey?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/adminkey","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/b978346d2f7cb7f5c29602e4f72b2660f4da8461","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/adminkey?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/b978346d2f7cb7f5c29602e4f72b2660f4da8461","html":"https://github.com/hamonikr/hamonize/tree/master/adminkey"}},{"name":"cla","path":"cla","sha":"5e65c80bc41b3aaffd2d995f720bf10e4fdeacd3","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/cla?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/cla","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/5e65c80bc41b3aaffd2d995f720bf10e4fdeacd3","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/cla?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/5e65c80bc41b3aaffd2d995f720bf10e4fdeacd3","html":"https://github.com/hamonikr/hamonize/tree/master/cla"}},{"name":"hamonize-admin","path":"hamonize-admin","sha":"d0cab1a44d1f513b94ace706354d797222d03f70","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-admin?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/hamonize-admin","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/d0cab1a44d1f513b94ace706354d797222d03f70","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-admin?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/d0cab1a44d1f513b94ace706354d797222d03f70","html":"https://github.com/hamonikr/hamonize/tree/master/hamonize-admin"}},{"name":"hamonize-agent","path":"hamonize-agent","sha":"75d0f128c84005cdd910f127768ce88a6119c88c","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-agent?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/hamonize-agent","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/75d0f128c84005cdd910f127768ce88a6119c88c","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-agent?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/75d0f128c84005cdd910f127768ce88a6119c88c","html":"https://github.com/hamonikr/hamonize/tree/master/hamonize-agent"}},{"name":"hamonize-apt","path":"hamonize-apt","sha":"7608c2bd85ad25f07d8e79f9b887fafc6f672d74","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-apt?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/hamonize-apt","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/7608c2bd85ad25f07d8e79f9b887fafc6f672d74","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-apt?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/7608c2bd85ad25f07d8e79f9b887fafc6f672d74","html":"https://github.com/hamonikr/hamonize/tree/master/hamonize-apt"}},{"name":"hamonize-center","path":"hamonize-center","sha":"e49d7d82c39bfa5a26622f9265914458c59c34b4","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-center?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/hamonize-center","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/e49d7d82c39bfa5a26622f9265914458c59c34b4","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-center?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/e49d7d82c39bfa5a26622f9265914458c59c34b4","html":"https://github.com/hamonikr/hamonize/tree/master/hamonize-center"}},{"name":"hamonize-connector","path":"hamonize-connector","sha":"ee81f5936d17cb65269b70ba66f9266216b3d4ec","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-connector?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/hamonize-connector","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/ee81f5936d17cb65269b70ba66f9266216b3d4ec","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-connector?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/ee81f5936d17cb65269b70ba66f9266216b3d4ec","html":"https://github.com/hamonikr/hamonize/tree/master/hamonize-connector"}},{"name":"hamonize-noti-App","path":"hamonize-noti-App","sha":"6c2f5a5df2514b51fa6b5e5ad47a1784f8dcab4c","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-noti-App?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/hamonize-noti-App","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/6c2f5a5df2514b51fa6b5e5ad47a1784f8dcab4c","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-noti-App?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/6c2f5a5df2514b51fa6b5e5ad47a1784f8dcab4c","html":"https://github.com/hamonikr/hamonize/tree/master/hamonize-noti-App"}},{"name":"hamonize-vpn","path":"hamonize-vpn","sha":"c8f5b2081ca971fff4be1df33a5ab32a51ba056b","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-vpn?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/hamonize-vpn","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/c8f5b2081ca971fff4be1df33a5ab32a51ba056b","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/hamonize-vpn?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/c8f5b2081ca971fff4be1df33a5ab32a51ba056b","html":"https://github.com/hamonikr/hamonize/tree/master/hamonize-vpn"}},{"name":"img","path":"img","sha":"7c5493586b7624be6acfb4aa9e943dba547e2380","size":0,"url":"https://api.github.com/repos/hamonikr/hamonize/contents/img?ref=master","html_url":"https://github.com/hamonikr/hamonize/tree/master/img","git_url":"https://api.github.com/repos/hamonikr/hamonize/git/trees/7c5493586b7624be6acfb4aa9e943dba547e2380","download_url":null,"type":"dir","_links":{"self":"https://api.github.com/repos/hamonikr/hamonize/contents/img?ref=master","git":"https://api.github.com/repos/hamonikr/hamonize/git/trees/7c5493586b7624be6acfb4aa9e943dba547e2380","html":"https://github.com/hamonikr/hamonize/tree/master/img"}}]
+[2022-06-28 15:03:12.957] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:03:12.958] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:04:29.588] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:04:29.589] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:04:30.677] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:04:30.677] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:04:31.596] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:04:31.596] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:04:31.844] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:04:31.844] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:04:41.012] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:04:41.012] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:05:12.307] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:05:12.308] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:05:27.339] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:05:27.340] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:05:39.147] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:05:39.147] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:05:42.411] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:05:42.411] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:06:08.570] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:06:08.571] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:06:27.858] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:06:27.858] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:06:47.673] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:06:47.676] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:12:59.380] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:12:59.383] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:16:16.026] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:16:16.029] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:16:36.722] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:16:36.724] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:16:53.074] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:16:53.077] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:18:05.281] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:18:05.283] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:18:08.064] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:18:08.065] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:18:21.536] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:18:21.539] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:19:12.168] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:19:12.171] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:21:59.213] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:21:59.215] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:22:55.101] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:22:55.104] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:23:47.580] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:23:47.581] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:23:47.841] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-28 15:23:47.841] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-28 15:23:47.842] [info]  chkFileBaseNm======README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-28 15:23:47.842] [info]  ArrayFileName========CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-28 15:23:47.842] [info]  difference---
+[2022-06-28 15:24:42.811] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:24:42.814] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:24:42.819] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-28 15:24:42.819] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-28 15:24:42.819] [info]  chkFileBaseNm======README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-28 15:24:42.820] [info]  ArrayFileName========CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-28 15:24:42.820] [info]  difference---
+[2022-06-28 15:24:47.323] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:24:47.326] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:24:47.596] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-28 15:24:47.597] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-28 15:24:47.597] [info]  chkFileBaseNm======README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-28 15:24:47.597] [info]  ArrayFileName========CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-28 15:24:47.598] [info]  difference---
+[2022-06-28 15:24:50.443] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:24:50.444] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:24:50.447] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-28 15:24:50.447] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-28 15:24:50.447] [info]  chkFileBaseNm======README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-28 15:24:50.448] [info]  ArrayFileName========CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-28 15:24:50.448] [info]  difference---
+[2022-06-28 15:25:05.355] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:25:05.358] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:25:05.364] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-28 15:25:05.364] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-28 15:25:05.365] [info]  chkFileBaseNm======README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-28 15:25:05.365] [info]  ArrayFileName========CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-28 15:25:05.365] [info]  difference---
+[2022-06-28 15:26:00.914] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:26:00.916] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:26:01.170] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-28 15:26:01.170] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-28 15:26:01.171] [info]  chkFileBaseNm======README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-28 15:26:01.171] [info]  ArrayFileName========CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-28 15:26:01.171] [info]  difference---
+[2022-06-28 15:26:31.785] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:26:31.788] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:26:31.794] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-28 15:26:31.794] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-28 15:26:31.794] [info]  chkFileBaseNm======README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-28 15:26:31.795] [info]  ArrayFileName========CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-28 15:26:31.795] [info]  difference---
+[2022-06-28 15:26:36.634] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:26:36.637] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:26:36.642] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-28 15:26:36.642] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-28 15:26:36.642] [info]  chkFileBaseNm======README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-28 15:26:36.642] [info]  ArrayFileName========CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-28 15:26:36.642] [info]  difference---
+[2022-06-28 15:26:51.161] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:26:51.164] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:26:51.170] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-28 15:26:51.170] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-28 15:26:51.171] [info]  chkFileBaseNm======README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-28 15:26:51.171] [info]  ArrayFileName========CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-28 15:26:51.171] [info]  difference---
+[2022-06-28 15:28:24.856] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:28:24.859] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:29:50.662] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:29:50.665] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:30:07.206] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:30:07.209] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:31:05.101] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:31:05.104] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:32:12.108] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:32:12.110] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:33:00.611] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:33:00.614] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:33:21.803] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:33:21.805] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:33:51.786] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:33:51.789] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:35:06.241] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:35:06.244] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:35:22.873] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:35:22.876] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:36:09.592] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:36:09.595] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:36:18.120] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:36:18.120] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:36:19.303] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:36:19.304] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:36:19.615] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:36:19.616] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:36:19.840] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:36:19.840] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:36:24.743] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:36:24.744] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:36:33.087] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:36:33.090] [info]  github url :: https://github.com/hamonikr/hamonize
+[2022-06-28 15:36:47.207] [info]  Input License Number is :: https://github.com/hamonikr/hamonize , Length() is :: 36
+[2022-06-28 15:36:47.210] [info]  github url :: https://github.com/hamonikr/hamonize

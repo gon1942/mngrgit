@@ -1172,3 +1172,203 @@ Headers: {
 [2022-06-22 10:25:46.773] [info]  __dirname===========>src/main
 [2022-06-22 10:25:46.783] [info]  __static===========>/home/gon/job_temp/git-mngr/src/static
 [2022-06-22 10:25:46.783] [info]  process.cwd() ====/home/gon/job_temp/git-mngr/src
+[2022-06-27 13:10:02.929] [info]  __dirname===========>src/main
+[2022-06-27 13:10:02.931] [info]  __static===========>/home/gon/job_temp/git-mngr/src/static
+[2022-06-27 13:10:02.931] [info]  process.cwd() ====/home/gon/job_temp/git-mngr/src
+[2022-06-27 13:13:56.252] [info]  __dirname===========>src/main
+[2022-06-27 13:13:56.254] [info]  __static===========>/home/gon/job_temp/git-mngr/src/static
+[2022-06-27 13:13:56.254] [info]  process.cwd() ====/home/gon/job_temp/git-mngr/src
+[2022-06-28 11:03:54.635] [info]  __dirname===========>src/main
+[2022-06-28 11:03:54.637] [info]  __static===========>/home/gon/job_temp/git-mngr/src/static
+[2022-06-28 11:03:54.637] [info]  process.cwd() ====/home/gon/job_temp/git-mngr/src
+[2022-06-28 14:58:08.786] [info]  __dirname===========>src/main
+[2022-06-28 14:58:08.788] [info]  __static===========>/home/gon/job_temp/git-mngr/src/static
+[2022-06-28 14:58:08.788] [info]  process.cwd() ====/home/gon/job_temp/git-mngr/src
+[2022-06-28 14:58:26.484] [info]  __dirname===========>src/main
+[2022-06-28 14:58:26.486] [info]  __static===========>/home/gon/job_temp/git-mngr/src/static
+[2022-06-28 14:58:26.486] [info]  process.cwd() ====/home/gon/job_temp/git-mngr/src
+[2022-06-28 14:58:50.027] [info]  __dirname===========>src/main
+[2022-06-28 14:58:50.029] [info]  __static===========>/home/gon/job_temp/git-mngr/src/static
+[2022-06-28 14:58:50.029] [info]  process.cwd() ====/home/gon/job_temp/git-mngr/src
+[2022-06-28 14:59:04.753] [info]  __dirname===========>src/main
+[2022-06-28 14:59:04.755] [info]  __static===========>/home/gon/job_temp/git-mngr/src/static
+[2022-06-28 14:59:04.755] [info]  process.cwd() ====/home/gon/job_temp/git-mngr/src
+[2022-06-28 14:59:23.748] [info]  __dirname===========>src/main
+[2022-06-28 14:59:23.750] [info]  __static===========>/home/gon/job_temp/git-mngr/src/static
+[2022-06-28 14:59:23.750] [info]  process.cwd() ====/home/gon/job_temp/git-mngr/src
+[2022-06-28 14:59:51.936] [info]  __dirname===========>src/main
+[2022-06-28 14:59:51.938] [info]  __static===========>/home/gon/job_temp/git-mngr/src/static
+[2022-06-28 14:59:51.938] [info]  process.cwd() ====/home/gon/job_temp/git-mngr/src
+[2022-06-28 15:00:07.042] [info]  __dirname===========>src/main
+[2022-06-28 15:00:07.044] [info]  __static===========>/home/gon/job_temp/git-mngr/src/static
+[2022-06-28 15:00:07.044] [info]  process.cwd() ====/home/gon/job_temp/git-mngr/src
+[2022-06-28 15:07:03.564] [info]  __dirname===========>src/main
+[2022-06-28 15:07:03.566] [info]  __static===========>/home/gon/job_temp/git-mngr/src/static
+[2022-06-28 15:07:03.566] [info]  process.cwd() ====/home/gon/job_temp/git-mngr/src
+[2022-06-28 15:27:33.182] [info]  License Add STEP 2 ] License Info Save Start =====================
+[2022-06-28 15:28:25.128] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/gon/job_temp/git-mngr/src/.config/hamonikrAuth/configSysInfo/license.hmkr'
+[2022-06-28 15:28:25.130] [info]  ChkLicenseProc Result ::: N
+[2022-06-28 15:29:50.958] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/gon/job_temp/git-mngr/src/.config/hamonikrAuth/configSysInfo/license.hmkr'
+[2022-06-28 15:29:50.960] [info]  ChkLicenseProc Result ::: N
+[2022-06-28 15:30:07.214] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/gon/job_temp/git-mngr/src/.config/hamonikrAuth/configSysInfo/license.hmkr'
+[2022-06-28 15:30:07.216] [info]  ChkLicenseProc Result ::: N
+[2022-06-28 15:31:05.560] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/gon/job_temp/git-mngr/src/.config/hamonikrAuth/configSysInfo/license.hmkr'
+[2022-06-28 15:31:05.562] [info]  ChkLicenseProc Result ::: N
+[2022-06-28 15:32:12.377] [info]  License Add STEP 2 ] License Info Save Start =====================
+[2022-06-28 15:32:12.379] [info]  data====2222222222222222222222222222222222222=========21
+[2022-06-28 15:32:12.380] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-28 15:32:12.380] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-28 15:32:12.381] [info]  chkFileBaseNm======README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-28 15:32:12.381] [info]  ArrayFileName========CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-28 15:32:12.381] [info]  difference---
+[2022-06-28 15:33:00.620] [info]  License Add STEP 2 ] License Info Save Start =====================
+[2022-06-28 15:33:00.621] [info]  data====2222222222222222222222222222222222222=========21
+[2022-06-28 15:33:00.622] [info]  chkFilename====+
+[2022-06-28 15:33:00.622] [info]  chkFilename====+
+[2022-06-28 15:33:00.622] [info]  chkFilename====+
+[2022-06-28 15:33:00.622] [info]  chkFilename====+
+[2022-06-28 15:33:00.623] [info]  chkFilename====+
+[2022-06-28 15:33:00.623] [info]  chkFilename====+
+[2022-06-28 15:33:00.623] [info]  chkFilename====+CODE_OF_CONDUCT
+[2022-06-28 15:33:00.623] [info]  chkFilename====+CONTRIBUTING
+[2022-06-28 15:33:00.623] [info]  chkFilename====+LICENSE
+[2022-06-28 15:33:00.623] [info]  chkFilename====+README
+[2022-06-28 15:33:00.623] [info]  chkFilename====+SECURITY
+[2022-06-28 15:33:00.624] [info]  chkFilename====+adminkey
+[2022-06-28 15:33:00.624] [info]  chkFilename====+cla
+[2022-06-28 15:33:00.624] [info]  chkFilename====+hamonize-admin
+[2022-06-28 15:33:00.624] [info]  chkFilename====+hamonize-agent
+[2022-06-28 15:33:00.624] [info]  chkFilename====+hamonize-apt
+[2022-06-28 15:33:00.624] [info]  chkFilename====+hamonize-center
+[2022-06-28 15:33:00.624] [info]  chkFilename====+hamonize-connector
+[2022-06-28 15:33:00.625] [info]  chkFilename====+hamonize-noti-App
+[2022-06-28 15:33:00.625] [info]  chkFilename====+hamonize-vpn
+[2022-06-28 15:33:00.625] [info]  chkFilename====+img
+[2022-06-28 15:33:00.625] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-28 15:33:00.625] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-28 15:33:00.625] [info]  chkFileBaseNm======README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-28 15:33:00.625] [info]  ArrayFileName========CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-28 15:33:00.625] [info]  difference---
+[2022-06-28 15:33:22.066] [info]  License Add STEP 2 ] License Info Save Start =====================
+[2022-06-28 15:33:22.068] [info]  data====2222222222222222222222222222222222222=========21
+[2022-06-28 15:33:22.069] [info]  chkFilename====+all-contributorsrc
+[2022-06-28 15:33:22.069] [info]  chkFilename====+github
+[2022-06-28 15:33:22.069] [info]  chkFilename====+gitignore
+[2022-06-28 15:33:22.070] [info]  chkFilename====+gitmessage.txt
+[2022-06-28 15:33:22.070] [info]  chkFilename====+gitmodules
+[2022-06-28 15:33:22.070] [info]  chkFilename====+travis.yml
+[2022-06-28 15:33:22.071] [info]  chkFilename====+CODE_OF_CONDUCTmd
+[2022-06-28 15:33:22.071] [info]  chkFilename====+CONTRIBUTINGmd
+[2022-06-28 15:33:22.071] [info]  chkFilename====+LICENSEmd
+[2022-06-28 15:33:22.071] [info]  chkFilename====+READMEmd
+[2022-06-28 15:33:22.072] [info]  chkFilename====+SECURITYmd
+[2022-06-28 15:33:22.072] [info]  chkFilename====+adminkey
+[2022-06-28 15:33:22.072] [info]  chkFilename====+cla
+[2022-06-28 15:33:22.072] [info]  chkFilename====+hamonize-admin
+[2022-06-28 15:33:22.073] [info]  chkFilename====+hamonize-agent
+[2022-06-28 15:33:22.073] [info]  chkFilename====+hamonize-apt
+[2022-06-28 15:33:22.073] [info]  chkFilename====+hamonize-center
+[2022-06-28 15:33:22.073] [info]  chkFilename====+hamonize-connector
+[2022-06-28 15:33:22.074] [info]  chkFilename====+hamonize-noti-App
+[2022-06-28 15:33:22.074] [info]  chkFilename====+hamonize-vpn
+[2022-06-28 15:33:22.074] [info]  chkFilename====+img
+[2022-06-28 15:33:22.074] [info]  file nm ==all-contributorsrc,gitignore,gitmessage.txt,gitmodules,travis.yml,CODE_OF_CONDUCTmd,CONTRIBUTINGmd,LICENSEmd,READMEmd,SECURITYmd
+[2022-06-28 15:33:22.075] [info]  dir nm ==github,adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-28 15:33:22.075] [info]  chkFileBaseNm======README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-28 15:33:22.075] [info]  ArrayFileName========all-contributorsrc,gitignore,gitmessage.txt,gitmodules,travis.yml,CODE_OF_CONDUCTmd,CONTRIBUTINGmd,LICENSEmd,READMEmd,SECURITYmd
+[2022-06-28 15:33:22.075] [info]  difference---README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-28 15:33:51.794] [info]  License Add STEP 2 ] License Info Save Start =====================
+[2022-06-28 15:33:51.796] [info]  data====2222222222222222222222222222222222222=========21
+[2022-06-28 15:33:51.796] [info]  chkFilename====+.all-contributorsrc
+[2022-06-28 15:33:51.796] [info]  chkFilename====+.github
+[2022-06-28 15:33:51.797] [info]  chkFilename====+.gitignore
+[2022-06-28 15:33:51.797] [info]  chkFilename====+.gitmessage.txt
+[2022-06-28 15:33:51.797] [info]  chkFilename====+.gitmodules
+[2022-06-28 15:33:51.798] [info]  chkFilename====+.travis.yml
+[2022-06-28 15:33:51.798] [info]  chkFilename====+CODE_OF_CONDUCT.md
+[2022-06-28 15:33:51.798] [info]  chkFilename====+CONTRIBUTING.md
+[2022-06-28 15:33:51.798] [info]  chkFilename====+LICENSE.md
+[2022-06-28 15:33:51.798] [info]  chkFilename====+README.md
+[2022-06-28 15:33:51.799] [info]  chkFilename====+SECURITY.md
+[2022-06-28 15:33:51.799] [info]  chkFilename====+adminkey
+[2022-06-28 15:33:51.799] [info]  chkFilename====+cla
+[2022-06-28 15:33:51.799] [info]  chkFilename====+hamonize-admin
+[2022-06-28 15:33:51.799] [info]  chkFilename====+hamonize-agent
+[2022-06-28 15:33:51.800] [info]  chkFilename====+hamonize-apt
+[2022-06-28 15:33:51.800] [info]  chkFilename====+hamonize-center
+[2022-06-28 15:33:51.800] [info]  chkFilename====+hamonize-connector
+[2022-06-28 15:33:51.800] [info]  chkFilename====+hamonize-noti-App
+[2022-06-28 15:33:51.800] [info]  chkFilename====+hamonize-vpn
+[2022-06-28 15:33:51.801] [info]  chkFilename====+img
+[2022-06-28 15:33:51.801] [info]  file nm ==.all-contributorsrc,.gitignore,.gitmessage.txt,.gitmodules,.travis.yml,CODE_OF_CONDUCT.md,CONTRIBUTING.md,LICENSE.md,README.md,SECURITY.md
+[2022-06-28 15:33:51.801] [info]  dir nm ==.github,adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-28 15:33:51.801] [info]  chkFileBaseNm======README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-28 15:33:51.801] [info]  ArrayFileName========.all-contributorsrc,.gitignore,.gitmessage.txt,.gitmodules,.travis.yml,CODE_OF_CONDUCT.md,CONTRIBUTING.md,LICENSE.md,README.md,SECURITY.md
+[2022-06-28 15:33:51.802] [info]  difference---README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-28 15:35:06.501] [info]  License Add STEP 2 ] License Info Save Start =====================
+[2022-06-28 15:35:06.503] [info]  data====2222222222222222222222222222222222222=========21
+[2022-06-28 15:35:06.504] [info]  chkFilename====+ll-contributorsrc
+[2022-06-28 15:35:06.504] [info]  chkFilename====+ithub
+[2022-06-28 15:35:06.505] [info]  chkFilename====+itignore
+[2022-06-28 15:35:06.505] [info]  chkFilename====+itmessage.txt
+[2022-06-28 15:35:06.506] [info]  chkFilename====+itmodules
+[2022-06-28 15:35:06.506] [info]  chkFilename====+ravis.yml
+[2022-06-28 15:35:06.507] [info]  chkFilename====+CODE_OF_CONDUCTd
+[2022-06-28 15:35:06.507] [info]  chkFilename====+CONTRIBUTINGd
+[2022-06-28 15:35:06.507] [info]  chkFilename====+LICENSEd
+[2022-06-28 15:35:06.508] [info]  chkFilename====+READMEd
+[2022-06-28 15:35:06.508] [info]  chkFilename====+SECURITYd
+[2022-06-28 15:35:06.508] [info]  chkFilename====+adminkey
+[2022-06-28 15:35:06.509] [info]  chkFilename====+cla
+[2022-06-28 15:35:06.509] [info]  chkFilename====+hamonize-admin
+[2022-06-28 15:35:06.510] [info]  chkFilename====+hamonize-agent
+[2022-06-28 15:35:06.510] [info]  chkFilename====+hamonize-apt
+[2022-06-28 15:35:06.510] [info]  chkFilename====+hamonize-center
+[2022-06-28 15:35:06.511] [info]  chkFilename====+hamonize-connector
+[2022-06-28 15:35:06.511] [info]  chkFilename====+hamonize-noti-App
+[2022-06-28 15:35:06.511] [info]  chkFilename====+hamonize-vpn
+[2022-06-28 15:35:06.511] [info]  chkFilename====+img
+[2022-06-28 15:35:06.511] [info]  file nm ==ll-contributorsrc,itignore,itmessage.txt,itmodules,ravis.yml,CODE_OF_CONDUCTd,CONTRIBUTINGd,LICENSEd,READMEd,SECURITYd
+[2022-06-28 15:35:06.511] [info]  dir nm ==ithub,adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-28 15:35:06.512] [info]  chkFileBaseNm======README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-28 15:35:06.512] [info]  ArrayFileName========ll-contributorsrc,itignore,itmessage.txt,itmodules,ravis.yml,CODE_OF_CONDUCTd,CONTRIBUTINGd,LICENSEd,READMEd,SECURITYd
+[2022-06-28 15:35:06.512] [info]  difference---README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-28 15:35:22.882] [info]  License Add STEP 2 ] License Info Save Start =====================
+[2022-06-28 15:35:22.883] [info]  data====2222222222222222222222222222222222222=========21
+[2022-06-28 15:35:22.883] [info]  chkFilename====+
+[2022-06-28 15:35:22.884] [info]  chkFilename====+
+[2022-06-28 15:35:22.884] [info]  chkFilename====+
+[2022-06-28 15:35:22.884] [info]  chkFilename====+
+[2022-06-28 15:35:22.884] [info]  chkFilename====+
+[2022-06-28 15:35:22.885] [info]  chkFilename====+
+[2022-06-28 15:35:22.885] [info]  chkFilename====+CODE_OF_CONDUCT
+[2022-06-28 15:35:22.885] [info]  chkFilename====+CONTRIBUTING
+[2022-06-28 15:35:22.885] [info]  chkFilename====+LICENSE
+[2022-06-28 15:35:22.885] [info]  chkFilename====+README
+[2022-06-28 15:35:22.886] [info]  chkFilename====+SECURITY
+[2022-06-28 15:35:22.886] [info]  chkFilename====+adminkey
+[2022-06-28 15:35:22.886] [info]  chkFilename====+cla
+[2022-06-28 15:35:22.886] [info]  chkFilename====+hamonize-admin
+[2022-06-28 15:35:22.886] [info]  chkFilename====+hamonize-agent
+[2022-06-28 15:35:22.886] [info]  chkFilename====+hamonize-apt
+[2022-06-28 15:35:22.887] [info]  chkFilename====+hamonize-center
+[2022-06-28 15:35:22.887] [info]  chkFilename====+hamonize-connector
+[2022-06-28 15:35:22.887] [info]  chkFilename====+hamonize-noti-App
+[2022-06-28 15:35:22.887] [info]  chkFilename====+hamonize-vpn
+[2022-06-28 15:35:22.887] [info]  chkFilename====+img
+[2022-06-28 15:35:22.887] [info]  file nm ==CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-28 15:35:22.888] [info]  dir nm ==adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-28 15:35:22.888] [info]  chkFileBaseNm======README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-28 15:35:22.888] [info]  ArrayFileName========CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-28 15:35:22.888] [info]  difference---
+[2022-06-28 15:36:09.856] [info]  License Add STEP 2 ] License Info Save Start =====================
+[2022-06-28 15:36:09.858] [info]  data====2222222222222222222222222222222222222=========21
+[2022-06-28 15:36:33.096] [info]  License Add STEP 2 ] License Info Save Start =====================
+[2022-06-28 15:36:33.098] [info]  data====2222222222222222222222222222222222222=========21
+[2022-06-28 15:36:47.215] [info]  License Add STEP 2 ] License Info Save Start =====================
+[2022-06-28 15:36:47.217] [info]  data====2222222222222222222222222222222222222=========21
+[2022-06-28 15:36:47.217] [info]  file nm ==,,,,,CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-28 15:36:47.218] [info]  dir nm ==.github,adminkey,cla,hamonize-admin,hamonize-agent,hamonize-apt,hamonize-center,hamonize-connector,hamonize-noti-App,hamonize-vpn,img
+[2022-06-28 15:36:47.218] [info]  chkFileBaseNm======README,LICENSE,SECURITY,CONTRIBUTING
+[2022-06-28 15:36:47.218] [info]  ArrayFileName========,,,,,CODE_OF_CONDUCT,CONTRIBUTING,LICENSE,README,SECURITY
+[2022-06-28 15:36:47.218] [info]  difference---

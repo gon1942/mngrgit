@@ -79,7 +79,7 @@ export default Vue.extend({
     return { 
       // licenseTxt: 'https://github.com/hamonikr/hamonikr5.0-hamonikr-core', 
       licenseTxt: 'https://github.com/hamonikr/hamonize', 
-      appversion: '',
+      appversion: '1.0',
       infoText:'Git Manage Tool',
       pushMessage: '',
       SearchResults:[],
@@ -96,54 +96,53 @@ export default Vue.extend({
     } 
   }, 
   created() {
-      
       // get License Number 
-      ipcRenderer.send("app_version", "");
-      ipcRenderer.on("view_app_version", (event, args) => {
-        ipcRenderer.removeAllListeners('app_version');
-        this.appversion= args.version;
-      });
+      // ipcRenderer.send("app_version", ""); 
+      // ipcRenderer.on("view_app_version", (event, args) => {
+      //   ipcRenderer.removeAllListeners('app_version');
+      //   this.appversion= args.version;
+      // });
 
 
-      // update check
-      ipcRenderer.on("view_update-available", (event, args) => {
-        this.showLicense = false;
-        this.showUpdate = true;
+      // // update check
+      // ipcRenderer.on("view_update-available", (event, args) => {
+      //   this.showLicense = false;
+      //   this.showUpdate = true;
 
-        ipcRenderer.send("update-downloaded");
+      //   ipcRenderer.send("update-downloaded"); 
 
-      });
+      // });
 
 
-      // update download
-      ipcRenderer.on("view_update-downloaded", (event, args) => {
-        this.showLicense = false;
-        this.showUpdate = true;
-        this.updateMsg = '업데이트 다운로드가 완료되었습니다. ';
+      // // update download
+      // ipcRenderer.on("view_update-downloaded", (event, args) => {
+      //   this.showLicense = false;
+      //   this.showUpdate = true;
+      //   this.updateMsg = '업데이트 다운로드가 완료되었습니다. ';
 
-        ipcRenderer.send("restart_app");
-      });
-      // update download pregress
-      ipcRenderer.on("view_download-progress", (event, args) => {
-        this.updateProgress = args;
-      });
+      //   ipcRenderer.send("restart_app");
+      // });
+      // // update download pregress
+      // ipcRenderer.on("view_download-progress", (event, args) => {
+      //   this.updateProgress = args;
+      // });
 
-      ipcRenderer.send("update-not-available", "");
-      ipcRenderer.on("view_update-not-available", (event, args) => {
-        vueLog.info(`application status :: ${args}` );
-        // ipcRenderer.send("readLiecenseFile", "");
-        this.pollData();
-      });
+      // ipcRenderer.send("update-not-available", "");
+      // ipcRenderer.on("view_update-not-available", (event, args) => {
+      //   vueLog.info(`application status :: ${args}` );
+      //   // ipcRenderer.send("readLiecenseFile", "");
+      //   this.pollData();
+      // });
 
       
-      // 라이선스 파일 여부 체크 return Y/N
-      ipcRenderer.on("readLiecenseFileResult", (event, args) => {
-        vueLog.info(`Application Init] - License Check Result is :: ${args}`);
-        if( args === 'Y' ){
-          this.infoText = "하모니카 라이센스 인증이 완료되었습니다.";
-          this.isActive = true;
-        }
-      });
+      // // 라이선스 파일 여부 체크 return Y/N
+      // ipcRenderer.on("readLiecenseFileResult", (event, args) => {
+      //   vueLog.info(`Application Init] - License Check Result is :: ${args}`);
+      //   if( args === 'Y' ){
+      //     this.infoText = "하모니카 라이센스 인증이 완료되었습니다.";
+      //     this.isActive = true;
+      //   }
+      // });
       
 
 
@@ -151,28 +150,29 @@ export default Vue.extend({
   },
   mounted() {
     this.pushMessage = '';
-    setInterval(this.pollData, 3600000);
+    // setInterval(this.pollData, 3600000);
   }, 
   methods: { 
-    pollData () {
-      ipcRenderer.send("ChkLicenseProc", "");
+    
+    // pollData () {
+    //   ipcRenderer.send("ChkLicenseProc", "");
       
-      ipcRenderer.on("ChkLicenseProcResult", (event, args) => {
-        vueLog.info(`ChkLicenseProcResult] - :: ${args}`);
-        if( args === 'N' ){
+    //   ipcRenderer.on("ChkLicenseProcResult", (event, args) => {
+    //     vueLog.info(`ChkLicenseProcResult] - :: ${args}`);
+    //     if( args === 'N' ){
           
-          this.pushMessage = '';
-          this.errors = [];
+    //       this.pushMessage = '';
+    //       this.errors = [];
           
-          this.pushMessage = "비인증된 Hamonikr-OS (KIOSK)입니다.  License 인증을 진행해 주세요..";
-          this.isActive = false;
-        }else{
-          this.pushMessage = "Hamonikr-OS (KIOSK) 라이센스 인증 완료.!!!";
-          this.isActive = false;
-        }
-      });
+    //       this.pushMessage = "비인증된 Hamonikr-OS (KIOSK)입니다.  License 인증을 진행해 주세요..";
+    //       this.isActive = false;
+    //     }else{
+    //       this.pushMessage = "Hamonikr-OS (KIOSK) 라이센스 인증 완료.!!!";
+    //       this.isActive = false;
+    //     }
+    //   });
 
-    },
+    // },
     isComplete(){
       return true;
     },
@@ -197,33 +197,13 @@ export default Vue.extend({
         this.sendLicenseNumber();
       }
     },
+    licenseSubmit () { 
+      this.validationCheck();
+    },
+    
     sendLicenseNumber(){
       var vm = this;
-     console.log(this.licenseTxt);
-      //     $.ajax({
-		
-			// 	url : 'https://api.github.com/repos/hamonikr/hamonize/contents/',
-			// 	method : 'GET',
-			// 	success : function(responseObject) {
-			// 		console.log(responseObject);
-			// 		var newContent = '';
-			// 		newContent += '<div id="tours">';
-			// 		newContent += '<h1>repository in GitHub.</h1>';
-			// 		newContent += '<ul>';
-			// 		for (var i = 0; i < responseObject.length; i++) {
-			// 			newContent += '<li class="' + responseObject[i].name + ' tour">';
-			// 			newContent += '<h2>' + responseObject[i].path+ '</h2>';
-			// 			newContent += '<span class="details">'+ responseObject[i].url + '</span>';
-			// 			newContent += '</li>';
-			// 		}
-			// 		newContent += '</ul></div>';
-
-			// 		document.getElementById('content').innerHTML = newContent;
-
-			// 	}
-			// });
-
-
+          vueLog.info("github url :: " +this.licenseTxt);
           var stepASplit = this.licenseTxt.split('://');
           // for ( var i in stepASplit ) {
           //   document.write( '<p>' + stepASplit[i] + '</p>' );
@@ -238,33 +218,71 @@ export default Vue.extend({
 
           // document.write( '<p>' + stepBSplit[1] + '</p>' );
           // document.write( '<p>' + stepBSplit[2] + '</p>' );
-          let gitRepoUrl = "https://api.github.com/repos/" + stepBSplit[1] +"/"+ stepBSplit[2]+"/contents/";
+          let gitRepo = '';
+          if( stepBSplit[2].indexOf('.git') > -1  ){
+            gitRepo = stepBSplit[2].split('.')[0];
+          }else{
+            gitRepo = stepBSplit[2];
+          }
+
+          let gitRepoUrl = "https://api.github.com/repos/" + stepBSplit[1] +"/"+ gitRepo+"/contents/";
           axios.get(gitRepoUrl)
-          // axios.get('https://api.github.com/repos/hamonikr/hamonize/contents/')
                   .then( function (response)
                   {
                     var newContent = '';
-                    console.log(response.data);
-                    vueLog.info(`License Check Step 1-2 ] - License Check Result is :: ${JSON.stringify(response.data)}`);
-                    newContent += '<h1>repository in GitHub.</h1>';
+                    // console.log(response.data);
+                    // vueLog.info(`License Check Step 1-2 ] - License Check Result is :: ${JSON.stringify(response.data)}`);
  
+                    // ipcRenderer.send("gitChkProc", response.data); 
+                    ipcRenderer.send('ChkGitRepositoryProc', response.data);
 
-                    for (var i = 0; i < response.data.length; i++) {
-                      let gitFileName = response.data[i].name;
-                      newContent += '<li>' ;
-                      newContent += '<span> File Name -> ' + gitFileName+ '</span><br>' ;
-                      newContent += '<span> File Type -> ' + response.data[i].type+ '</span><br>';
-                      newContent += '<span > Url -> '+ response.data[i].url + '</span>';
-                      newContent += '</li><br>';
+                    // newContent += '<h1>repository in GitHub.</h1>';
+ 
+                    // let occupation = [];
+                    // let ArrayFileName = [];
+                    // let ArrayDirName = [];
+
+                    // for (var i = 0; i < response.data.length; i++) {
+                    //   let gitFileName = response.data[i].name;
+                    //   newContent += '<li>' ;
+                    //   newContent += '<span> File Name -> ' + gitFileName+ '</span><br>' ;
+                    //   newContent += '<span> File Type -> ' + response.data[i].type+ '</span><br>';
+                    //   newContent += '<span > Url -> '+ response.data[i].url + '</span>';
+                    //   newContent += '</li><br>';
                       
-                      var chkFilename = gitFileName.replace(/\..+$/, '');
-                      vueLog.info(`----------> ${chkFilename}`);
+                    //   var chkFilename = gitFileName.replace(/\..+$/, '');
+                    //   // vueLog.info(`----------> ${chkFilename}`);
+                    //   // occupation.push(chkFilename)
 
 
-                    }
-                    newContent += '</ul></div>';
-                    document.write( '<p>-----------------</p>' );
-                    document.write( newContent );
+                    //   if( chkFilename.trim() != '' && response.data[i].type == "file" ){
+                    //       ArrayFileName.push(chkFilename);
+                    //   }
+                    //   if( chkFilename.trim() != '' && response.data[i].type == "dir" ){
+                    //       ArrayDirName.push(chkFilename);
+                    //   }
+
+
+                    // }
+                    // newContent += '</ul></div>';
+                    // // document.write( newContent );
+
+
+                    // vueLog.info("file nm ==" + ArrayFileName);
+                    // vueLog.info("dir nm ==" + ArrayDirName);
+
+                    // var chkFileBaseNm = ['README', 'LICENSE', 'SECURITY', 'CONTRIBUTING'];
+                    // vueLog.info("chkFileBaseNm======"+ chkFileBaseNm);
+                    // vueLog.info("ArrayFileName========"+ ArrayFileName);
+
+
+                    // const first = new Set(chkFileBaseNm);
+                    // const second = new Set(ArrayFileName);
+
+                    // const difference = [...first].filter(data => !second.has(data));
+                    // vueLog.info('difference---'+difference); 
+
+                    
 
                     // var jsonData = response.data;
                     // vueLog.info(`License Check Step 1-2 ] - License Check Result is :: ${JSON.stringify(jsonData)}`);
@@ -302,10 +320,8 @@ export default Vue.extend({
       //   },3000);
       // });
       
-    },
-    licenseSubmit () { 
-      this.validationCheck();
     }
+
   }
 })
 </script>

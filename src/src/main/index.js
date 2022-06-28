@@ -105,7 +105,7 @@ async function createWindow() {
   mainWindow.setAlwaysOnTop(true, 'screen');
   // mainWindow.setFullScreen(false); 
 
-  
+
   // load root file/url
   if (isDev) {
     mainWindow.loadURL('http://localhost:9080')
@@ -157,7 +157,7 @@ const toggleWindow = () => {
 }
 const showWindow = () => {
   // const position = getWindowPosition();
-  
+
   const {
     screen
   } = require('electron')
@@ -179,9 +179,9 @@ const getWindowPosition = () => {
 
 const createTray = () => {
   const iconName = '/logo.png';
-  log.info("__dirname===========>" + __dirname);
-  log.info("__static===========>" + __static);
-  log.info("process.cwd() ===="+ process.cwd() );
+  // log.info("__dirname===========>" + __dirname);
+  // log.info("__static===========>" + __static);
+  // log.info("process.cwd() ====" + process.cwd());
 
   const iconPath = require('path').join(__static, iconName);
   trayIcon = new Tray(iconPath);
@@ -197,7 +197,7 @@ const createTray = () => {
     label: 'devTool',
     click: function () {
       app.quit();
-      app.exit();  
+      app.exit();
       var exec = require('child_process').exec;
       exec("/usr/share/hamonikr-auth/linux/restartApp.sh", (error, stdout, stderr) => {
         if (error) {
@@ -240,49 +240,49 @@ const sendMenuEvent = async (data) => {
 }
 
 const template = [{
-    label: app.name,
-    submenu: [{
-        label: 'Home',
-        accelerator: 'CommandOrControl+H',
-        click() {
-          sendMenuEvent({
-            route: '/'
-          })
-        },
-      },
-      {
-        type: 'separator'
-      },
-      {
-        type: 'separator'
-      },
-      // { role: 'quit', accelerator: 'Alt+F4' },
-    ],
+  label: app.name,
+  submenu: [{
+    label: 'Home',
+    accelerator: 'CommandOrControl+H',
+    click() {
+      sendMenuEvent({
+        route: '/'
+      })
+    },
   },
   {
-    role: 'help',
-    submenu: [{
-        label: 'Get Help',
-        role: 'help',
-        accelerator: 'F1',
-        click() {
-          sendMenuEvent({
-            route: '/help'
-          })
-        },
-      },
-      {
-        label: 'About',
-        role: 'about',
-        accelerator: 'CommandOrControl+A',
-        click() {
-          sendMenuEvent({
-            route: '/about'
-          })
-        },
-      },
-    ],
+    type: 'separator'
   },
+  {
+    type: 'separator'
+  },
+    // { role: 'quit', accelerator: 'Alt+F4' },
+  ],
+},
+{
+  role: 'help',
+  submenu: [{
+    label: 'Get Help',
+    role: 'help',
+    accelerator: 'F1',
+    click() {
+      sendMenuEvent({
+        route: '/help'
+      })
+    },
+  },
+  {
+    label: 'About',
+    role: 'about',
+    accelerator: 'CommandOrControl+A',
+    click() {
+      sendMenuEvent({
+        route: '/about'
+      })
+    },
+  },
+  ],
+},
 ]
 
 function setMenu() {
@@ -290,32 +290,32 @@ function setMenu() {
     template.unshift({
       label: app.name,
       submenu: [{
-          role: 'about'
-        },
-        {
-          type: 'separator'
-        },
-        {
-          role: 'services'
-        },
-        {
-          type: 'separator'
-        },
-        {
-          role: 'hide'
-        },
-        {
-          role: 'hideothers'
-        },
-        {
-          role: 'unhide'
-        },
-        {
-          type: 'separator'
-        },
-        {
-          role: 'quit'
-        },
+        role: 'about'
+      },
+      {
+        type: 'separator'
+      },
+      {
+        role: 'services'
+      },
+      {
+        type: 'separator'
+      },
+      {
+        role: 'hide'
+      },
+      {
+        role: 'hideothers'
+      },
+      {
+        role: 'unhide'
+      },
+      {
+        type: 'separator'
+      },
+      {
+        role: 'quit'
+      },
       ],
     })
 
@@ -491,16 +491,6 @@ function uuid_db_chk(arg) {
 
 
 
-ipcMain.on("ChkLicenseProc", async (event, args) => {
-  let isdata = await do_readLiecenseFile();
-  log.info(`ChkLicenseProc Result ::: ${isdata}`);
-  if (isdata == 'N') {
-    mainWindow.show()
-    pushRenderer = event.sender;
-    pushRenderer.send("ChkLicenseProcResult", isdata);
-  }
-
-});
 
 
 // electron auto update ====
@@ -508,9 +498,69 @@ import {
   autoUpdater
 } from 'electron-updater'
 
+
+
+ipcMain.on('ChkGitRepositoryProc', (event, data) => {
+  log.info("License Add STEP 2 ] License Info Save Start =====================");
+  // makeRecursiveFileAsync(event, licenseNo);
+
+  // pushRenderer = event.sender;
+
+  log.info("data====2222222222222222222222222222222222222=========" + data.length);
+
+  let ArrayFileName = [];
+  let ArrayDirName = [];
+
+  for (var i = 0; i < data.length; i++) {
+    let gitFileName = data[i].name;
+    var chkFilename = gitFileName; //gitFileName.replace(/\./, '');
+    // var chkFilename = gitFileName.replace(/\..+$/, '');
+    // var chkFilename = gitFileName.replace(/\..+$/, '');
+    // log.info("chkFilename====+"+ chkFilename);
+
+    if (chkFilename.trim() != '' && data[i].type == "file") {
+      ArrayFileName.push(gitFileName.replace(/\..+$/, ''));
+    }
+    if (chkFilename.trim() != '' && data[i].type == "dir") {
+      ArrayDirName.push(gitFileName);
+    }
+
+
+  }
+  // document.write( newContent );
+
+
+  log.info("file nm ==" + ArrayFileName);
+  log.info("dir nm ==" + ArrayDirName);
+
+  var chkFileBaseNm = ['README', 'LICENSE', 'SECURITY', 'CONTRIBUTING'];
+  log.info("chkFileBaseNm======" + chkFileBaseNm);
+  log.info("ArrayFileName========" + ArrayFileName);
+
+
+  const first = new Set(chkFileBaseNm);
+  const second = new Set(ArrayFileName);
+
+  const difference = [...first].filter(data => !second.has(data));
+  log.info('difference---' + difference);
+
+
+
+
+
+  // pushRenderer.send("view_app_version", {
+  //   version: app.getVersion()
+  // });
+
+
+});
+
+
+
+
 ipcMain.on("app_version", async (event, args) => {
   pushRenderer = event.sender;
-  console.log("app.getVersion()=========++" + app.getVersion());
+  console.log("app.getVersion()===wwwwwwwwwww======++" + app.getVersion());
   pushRenderer.send("view_app_version", {
     version: app.getVersion()
   });
@@ -552,7 +602,7 @@ ipcMain.on("restart_app", async (event, args) => {
 
     setTimeout(() => {
       app.quit();
-      app.exit();  
+      app.exit();
       var exec = require('child_process').exec;
       exec("/usr/share/hamonikr-auth/linux/restartApp.sh", (error, stdout, stderr) => {
         if (error) {
@@ -599,3 +649,8 @@ autoUpdater.on('download-progress', (progressObj) => {
   pushRenderer.send("view_download-progress", log_message);
 
 })
+
+
+
+
+
