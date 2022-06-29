@@ -498,54 +498,196 @@ import {
   autoUpdater
 } from 'electron-updater'
 
+import axios from 'axios'
+import https from 'https'
+
+// ------------------------------------------------------- //
+
+// import {https } from 'https'
+
+function getRepos_request(username, callback) {
+  console.log("Making HTTPS request.");
 
 
-ipcMain.on('ChkGitRepositoryProc', (event, data) => {
-  log.info("License Add STEP 2 ] License Info Save Start =====================");
-  // makeRecursiveFileAsync(event, licenseNo);
 
-  // pushRenderer = event.sender;
-
-  log.info("data====2222222222222222222222222222222222222=========" + data.length);
-
-  let ArrayFileName = [];
-  let ArrayDirName = [];
-
-  for (var i = 0; i < data.length; i++) {
-    let gitFileName = data[i].name;
-    var chkFilename = gitFileName; //gitFileName.replace(/\./, '');
-    // var chkFilename = gitFileName.replace(/\..+$/, '');
-    // var chkFilename = gitFileName.replace(/\..+$/, '');
-    // log.info("chkFilename====+"+ chkFilename);
-
-    if (chkFilename.trim() != '' && data[i].type == "file") {
-      ArrayFileName.push(gitFileName.replace(/\..+$/, ''));
+  //Define options which define where/how to connect to the api
+  var options = {
+    "host": "api.github.com",
+    "path": "/repos/hamonikr/hamonize/contents",
+    // "path": "/repos/hamonikr/hamonize",
+    // "path": "/users/apress/repos",
+    "method": "GET",
+    headers: {
+      'User-Agent': 'hamonize'
     }
-    if (chkFilename.trim() != '' && data[i].type == "dir") {
-      ArrayDirName.push(gitFileName);
-    }
+  }, repos = [];
+
+  var request = https.request(options, function (response) {
+    var fullResponse = "";
+    console.log("Aggregating response chunks.");
+
+    response.on("data", function (responseChunk) {
+      fullResponse += responseChunk.toString("utf8");
+    });
+    response.on('error', function (e) {
+      console.error(e);
+    });
+
+    response.on("end", function () {
+      console.log("Parsing relevant data from response.");
+      //Parse the response and filter out only relevant data
+
+      var parsedResponse = JSON.parse(fullResponse);
+      // console.log(parsedResponse)
+      parsedResponse.forEach(function (e, i, a) {
+        repos.push({
+          "name": e.name,
+          "type": e.type,
+          "url": e.url,
+          "description": e.description
+        });
+      });
+      callback(repos);
+    });
+  });
+
+  //Finish defining request and send it
+  console.log("Sending request.");
+
+  request.end();
 
 
-  }
-  // document.write( newContent );
+}
 
 
-  log.info("file nm ==" + ArrayFileName);
-  log.info("dir nm ==" + ArrayDirName);
+let getRepos_axios = async function (url) {
+  await axios
+    .get("https://api.github.com/repos/hamonikr/hamonize/contents", { headers: { Authorization: "token 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" } })
+    // .get("https://api.github.com/repos/hamonikr/hamonize")
+    .then(response => {
+      console.log("response.status=======+++" + response.status);
+      const datas = response.data;
+      for (const data of datas) {
+        log.info(data)
+      }
+    }).catch(function (error) {
+      console.log(error)
+    })
+  // return res.alive
+};
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+const baseFileChk = (ArrayFileName) => {
   var chkFileBaseNm = ['README', 'LICENSE', 'SECURITY', 'CONTRIBUTING'];
-  log.info("chkFileBaseNm======" + chkFileBaseNm);
-  log.info("ArrayFileName========" + ArrayFileName);
-
+  // log.info("chkFileBaseNm======" + chkFileBaseNm);
+  // log.info("ArrayFileName========" + ArrayFileName);
+  for (const tmp of ArrayFileName) {
+    console.log("==========+" + tmp.name)
+  }
 
   const first = new Set(chkFileBaseNm);
   const second = new Set(ArrayFileName);
 
-  const difference = [...first].filter(data => !second.has(data));
+  const difference = [...first].filter(jsonData => !second.has(ArrayFileName));
   log.info('difference---' + difference);
+  return difference;
+}
+
+ipcMain.on('ChkGitRepositoryProc', async (event, ArrayFileName, ArrayDirName) => {
+  log.info("########################");
+
+  let aa = baseFileChk(ArrayFileName);
+  console.log('--' , aa);
+
+  for (const tmp of ArrayFileName) {
+    console.log("==========+" + tmp.name)
+  }
+
+  // log.info("ArrayFileName=========+" + ArrayFileName)
+  // log.info("ArrayDirName==========" + ArrayDirName)
+
+});
 
 
+ipcMain.on('11111111ChkGitRepositoryProc', async (event, jsonData) => {
+  log.info("License Add STEP 2 ] License Info Save Start =====================");
+  // makeRecursiveFileAsync(event, licenseNo);
 
+  // pushRenderer = event.sender;
+  console.clear()
+  log.info("jsonData====2222222222222222222222222222222222222=========" + jsonData.length);
+
+  // getRepos_request('username', function (repos) {
+  //   console.log(repos);
+  //   for (var i = 0; i < repos.length; i++) {
+  //     let gitFileName = repos[i].name;
+  //     log.info(gitFileName);
+  //   }
+  // });
+
+
+  // curl https://api.github.com/search/repositories?q=node+in:name+language:javascript&sort=stars&order=desc
+
+
+  /*
+    let ArrayFileName = [];
+    let ArrayDirName = [];
+    
+  
+  
+    for (var i = 0; i < jsonData.length; i++) {
+      let gitFileName = jsonData[i].name;
+      var chkFilename = gitFileName; //gitFileName.replace(/\./, '');
+      // var chkFilename = gitFileName.replace(/\..+$/, '');
+      // var chkFilename = gitFileName.replace(/\..+$/, '');
+      // log.info("chkFilename====+"+ chkFilename);
+  
+      if (chkFilename.trim() != '' && jsonData[i].type == "file") {
+        ArrayFileName.push(gitFileName.replace(/\..+$/, ''));
+      }
+      if (chkFilename.trim() != '' && jsonData[i].type == "dir") {
+        ArrayDirName.push(gitFileName);
+      }
+  
+  
+    }
+    // document.write( newContent );
+  
+  
+    log.info("file nm ==" + ArrayFileName);
+    log.info("dir nm ==" + ArrayDirName);
+  
+    var chkFileBaseNm = ['README', 'LICENSE', 'SECURITY', 'CONTRIBUTING'];
+    log.info("chkFileBaseNm======" + chkFileBaseNm);
+    log.info("ArrayFileName========" + ArrayFileName);
+  
+  
+    const first = new Set(chkFileBaseNm);
+    const second = new Set(ArrayFileName);
+  
+    const difference = [...first].filter(jsonData => !second.has(data));
+    log.info('difference---' + difference);
+  
+  */
+
+  // name, path, url, download_url, type
+  // dirChk(".git")
 
 
   // pushRenderer.send("view_app_version", {
@@ -554,8 +696,6 @@ ipcMain.on('ChkGitRepositoryProc', (event, data) => {
 
 
 });
-
-
 
 
 ipcMain.on("app_version", async (event, args) => {

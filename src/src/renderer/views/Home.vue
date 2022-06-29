@@ -62,14 +62,12 @@
 import Vue from 'vue'
 import { ipcRenderer } from 'electron'
 import axios from 'axios';
+import https from 'https';
 
 const vueLog = require('electron-log');
 vueLog.transports.file.resolvePath = () => process.cwd() + '/.config/hamonikrAuth/logs/viewlog.log';
 
-
 enum TEST {}
-
-
 
 
 export default Vue.extend({
@@ -88,7 +86,7 @@ export default Vue.extend({
       errors: [
         { text: '' }
       ],
-      errorshow:false,
+      errorshow:false, 
       showLicense:true,
       showUpdate:false,
       updateMsg:'업데이트 파일 확인중입니다....',
@@ -194,13 +192,86 @@ export default Vue.extend({
         this.errorshow = true;
         return ;
       }else{
-        this.sendLicenseNumber();
+        // this.sendLicenseNumber();
+        this.getRepos_axios();
+        // this.getGitRepoList();
+        
+        //  ipcRenderer.send('ChkGitRepositoryProc', 'a');
       }
     },
     licenseSubmit () { 
       this.validationCheck();
     },
+    async getGitRepoList(){
+      const fileList = await this.aaa();
+      vueLog.info("fileList========++"+JSON.stringify(fileList))
+    }, 
     
+    
+    
+    
+    
+    
+    
+    // axiosTest() {
+    //   return axios.get(url).then(response => response.data)
+    // },
+
+   async aaa(){
+      const asd = await axios.get("https://api.github.com/repos/hamonikr/hamonize/contents", {headers: {Authorization: "token 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"}});
+     vueLog.info(asd.data);
+      for (const datatmp of asd.data) {
+        if( datatmp.name == '.github'){
+          vueLog.info("---------"+datatmp.url) // 1
+          return await axios.get(datatmp.url, {headers: {Authorization: "token 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"}});
+        }
+      }
+      return asd.data;
+    },
+    async getRepos_axios() {
+       await axios
+        .get("https://api.github.com/repos/hamonikr/hamonize/contents", {headers: {Authorization: "token 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"}})
+        // .get("https://api.github.com/repos/hamonikr/hamonize")
+        .then(response => {
+          console.log("response.status=======+++"+ response.status);
+          // const datas = response.data;
+          // for (const data of datas) {
+          //   vueLog.info(data)
+          // }
+          // ipcRenderer.send('ChkGitRepositoryProc', datas);
+
+          let ArrayFileName = [];
+          let ArrayDirName = [];
+
+          const datas = response.data;
+          for (const data of datas) {
+
+            let gitFileName = data.name;
+            if (gitFileName.trim() != '' && data.type == "file") {
+              ArrayFileName.push({
+                "name": data.name.toUpperCase().replace(/\./, ''),
+                "type": data.type,
+                "url": data.url,
+                "description": data.description
+              });
+            }
+            if (gitFileName.trim() != '' && data.type == "dir") {
+              ArrayDirName.push({
+                "name": data.name.toUpperCase(),
+                "type": data.type,
+                "url": data.url,
+                "description": data.description
+              });
+            }
+          }
+
+          ipcRenderer.send('ChkGitRepositoryProc', ArrayFileName, ArrayDirName);
+        }).catch(function (error) {
+          vueLog.info(error)
+        })
+    },
+
+
     sendLicenseNumber(){
       var vm = this;
           vueLog.info("github url :: " +this.licenseTxt);
@@ -225,6 +296,8 @@ export default Vue.extend({
             gitRepo = stepBSplit[2];
           }
 
+       
+
           let gitRepoUrl = "https://api.github.com/repos/" + stepBSplit[1] +"/"+ gitRepo+"/contents/";
           axios.get(gitRepoUrl)
                   .then( function (response)
@@ -232,9 +305,9 @@ export default Vue.extend({
                     var newContent = '';
                     // console.log(response.data);
                     // vueLog.info(`License Check Step 1-2 ] - License Check Result is :: ${JSON.stringify(response.data)}`);
- 
-                    // ipcRenderer.send("gitChkProc", response.data); 
-                    ipcRenderer.send('ChkGitRepositoryProc', response.data);
+
+
+                    // ipcRenderer.send('ChkGitRepositoryProc', response.data);
 
                     // newContent += '<h1>repository in GitHub.</h1>';
  
