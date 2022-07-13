@@ -1,4 +1,4 @@
-<h1 id="badge">     aaa <img alt="GitHub" src="https://img.shields.io/github/license/gon1942/mngrgit?style=flat-square"></h1>
+<h1 id="badge">     aaa  This Repos Badges : <img alt="GitHub" src="https://img.shields.io/github/license/gon1942/mngrgit?style=flat-square"></h1>
 ### 데비안 패키징 방법
 
 
