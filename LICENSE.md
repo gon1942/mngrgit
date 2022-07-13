@@ -1,14 +1,21 @@
-\# Open Source License  
-\## Hamonize  
-Harmonize is an erp solution consist of several subprojects. The table below shows the licenses for each sub-project.
+MIT License
 
-  
-| project                                                                                         | License            | Dependencies License List                                                               |  
-| ----------------------------------------------------------------------------------------------- | ------------------ | --------------------------------------------------------------------------------------- |  
-| \[hamonize-center\](https://github.com/jullee96/hamonize/blob/master/hamonize-center/COPYING)     | Apache License 2.0 | \[NOTICE\](https://github.com/jullee96/hamonize/blob/master/hamonize-center/NOTICE.md)    |  
-| \[hamonize-agent\](https://github.com/jullee96/hamonize/blob/master/hamonize-agent/COPYING)       | Apache License 2.0 | \[NOTICE\](https://github.com/jullee96/hamonize/blob/master/hamonize-agent/NOTICE.md)     |  
-| \[hamonize-admin\](https://github.com/jullee96/hamonize/blob/master/hamonize-admin/COPYING)       | GNU General Public License 2.0 | \[NOTICE\](https://github.com/jullee96/hamonize/blob/master/hamonize-admin/NOTICE.md)     |  
-| \[hamonize-connect\](https://github.com/jullee96/hamonize/blob/master/hamonize-connector/COPYING) | Apache License 2.0 | \[NOTICE\](https://github.com/jullee96/hamonize/blob/master/hamonize-connector/NOTICE.md) |
+Copyright (c) 2022 ryan
 
-  
-If you want to see a detailed license notice for each project, you can check it in the project-specific directory.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
